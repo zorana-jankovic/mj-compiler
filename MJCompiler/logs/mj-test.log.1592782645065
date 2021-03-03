@@ -1,0 +1,158 @@
+INFO  01:37:14,988 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\nasledjivanje.mj
+INFO  01:37:15,061 - #2 program
+INFO  01:37:15,061 - #15 P
+INFO  01:37:15,061 - #22 abstract
+INFO  01:37:15,062 - #21 class
+INFO  01:37:15,062 - #15 I
+INFO  01:37:15,062 - #3 {
+INFO  01:37:15,063 - #3 {
+INFO  01:37:15,064 - #55 public
+INFO  01:37:15,064 - #22 abstract
+INFO  01:37:15,065 - #13 void
+INFO  01:37:15,067 - #15 pisi
+INFO  01:37:15,067 - #6 (
+INFO  01:37:15,067 - #7 )
+INFO  01:37:15,068 - #5 ;
+INFO  01:37:15,068 - #4 }
+INFO  01:37:15,068 - #4 }
+INFO  01:37:15,069 - #21 class
+INFO  01:37:15,069 - #15 A
+INFO  01:37:15,069 - #27 extends
+INFO  01:37:15,070 - #15 I
+INFO  01:37:15,072 - #3 {
+INFO  01:37:15,072 - #3 {
+INFO  01:37:15,073 - #55 public
+INFO  01:37:15,073 - #13 void
+INFO  01:37:15,073 - #15 pisi
+INFO  01:37:15,074 - #6 (
+INFO  01:37:15,074 - #7 )
+INFO  01:37:15,074 - #3 {
+INFO  01:37:15,074 - #11 print
+INFO  01:37:15,074 - #6 (
+INFO  01:37:15,074 - #19 A
+INFO  01:37:15,075 - #7 )
+INFO  01:37:15,076 - #5 ;
+INFO  01:37:15,076 - #4 }
+INFO  01:37:15,077 - #4 }
+INFO  01:37:15,078 - #4 }
+INFO  01:37:15,078 - #21 class
+INFO  01:37:15,079 - #15 B
+INFO  01:37:15,079 - #27 extends
+INFO  01:37:15,079 - #15 I
+INFO  01:37:15,079 - #3 {
+INFO  01:37:15,079 - #15 int
+INFO  01:37:15,080 - #15 a
+INFO  01:37:15,080 - #5 ;
+INFO  01:37:15,081 - #4 }
+INFO  01:37:15,082 - #21 class
+INFO  01:37:15,082 - #15 C
+INFO  01:37:15,082 - #27 extends
+INFO  01:37:15,082 - #15 A
+INFO  01:37:15,083 - #3 {
+INFO  01:37:15,083 - #4 }
+INFO  01:37:15,083 - #21 class
+INFO  01:37:15,083 - #15 D
+INFO  01:37:15,083 - #27 extends
+INFO  01:37:15,083 - #15 B
+INFO  01:37:15,083 - #3 {
+INFO  01:37:15,083 - #4 }
+INFO  01:37:15,083 - #21 class
+INFO  01:37:15,087 - #15 E
+INFO  01:37:15,087 - #27 extends
+INFO  01:37:15,087 - #15 D
+INFO  01:37:15,087 - #3 {
+INFO  01:37:15,087 - #4 }
+INFO  01:37:15,087 - #3 {
+INFO  01:37:15,087 - #13 void
+INFO  01:37:15,087 - #15 main
+INFO  01:37:15,087 - #6 (
+INFO  01:37:15,088 - #7 )
+INFO  01:37:15,088 - #15 I
+INFO  01:37:15,088 - #15 i
+INFO  01:37:15,088 - #5 ;
+INFO  01:37:15,088 - #3 {
+INFO  01:37:15,088 - #15 i
+INFO  01:37:15,088 - #8 =
+INFO  01:37:15,089 - #24 new
+INFO  01:37:15,090 - #15 A
+INFO  01:37:15,090 - #5 ;
+INFO  01:37:15,090 - #15 i
+INFO  01:37:15,090 - #43 .
+INFO  01:37:15,090 - #15 pisi
+INFO  01:37:15,090 - #6 (
+INFO  01:37:15,091 - #7 )
+INFO  01:37:15,091 - #5 ;
+INFO  01:37:15,092 - #15 i
+INFO  01:37:15,092 - #8 =
+INFO  01:37:15,092 - #24 new
+INFO  01:37:15,092 - #15 B
+INFO  01:37:15,092 - #5 ;
+INFO  01:37:15,092 - #15 i
+INFO  01:37:15,093 - #43 .
+INFO  01:37:15,093 - #15 pisi
+INFO  01:37:15,094 - #6 (
+INFO  01:37:15,094 - #7 )
+INFO  01:37:15,094 - #5 ;
+INFO  01:37:15,094 - #15 i
+INFO  01:37:15,094 - #8 =
+INFO  01:37:15,094 - #24 new
+INFO  01:37:15,095 - #15 C
+INFO  01:37:15,095 - #5 ;
+INFO  01:37:15,095 - #15 i
+INFO  01:37:15,095 - #43 .
+INFO  01:37:15,095 - #15 pisi
+INFO  01:37:15,095 - #6 (
+INFO  01:37:15,095 - #7 )
+INFO  01:37:15,095 - #5 ;
+INFO  01:37:15,095 - #15 i
+INFO  01:37:15,096 - #8 =
+INFO  01:37:15,096 - #24 new
+INFO  01:37:15,096 - #15 D
+INFO  01:37:15,096 - #5 ;
+INFO  01:37:15,096 - #15 i
+INFO  01:37:15,096 - #43 .
+INFO  01:37:15,096 - #15 pisi
+INFO  01:37:15,096 - #6 (
+INFO  01:37:15,097 - #7 )
+INFO  01:37:15,097 - #5 ;
+INFO  01:37:15,097 - #15 i
+INFO  01:37:15,097 - #8 =
+INFO  01:37:15,097 - #24 new
+INFO  01:37:15,097 - #15 E
+INFO  01:37:15,097 - #5 ;
+INFO  01:37:15,097 - #15 i
+INFO  01:37:15,097 - #43 .
+INFO  01:37:15,097 - #15 pisi
+INFO  01:37:15,097 - #6 (
+INFO  01:37:15,097 - #7 )
+INFO  01:37:15,098 - #5 ;
+INFO  01:37:15,098 - #4 }
+INFO  01:37:15,098 - #4 }
+INFO  01:37:15,114 - ===================================
+INFO  01:37:15,122 - Obradjuje se unutrasnja apstraktna klasa programa I na liniji 2
+INFO  01:37:15,122 - Obradjuje se deklaracija apstraktne funkcije bez return iskaza pisi na liniji 4
+INFO  01:37:15,123 - Obradjuje se unutrasnja klasa programa A na liniji 8
+INFO  01:37:15,123 - Obradjuje se funkcija bez return iskaza pisi na liniji 10
+INFO  01:37:15,123 - Obradjuje se unutrasnja klasa programa B na liniji 13
+ERROR 01:37:15,123 - Semanticka greska na liniji : 21 Uz polje ili metodu klase mora stajati pravo pristupa ! 
+INFO  01:37:15,123 - Deklarisano polje klase  a na liniji 14
+ERROR 01:37:15,123 - Semanticka greska na liniji 13: klasa izvedena iz apstraktne klase mora implementirati sve njene apstraktne metode!
+INFO  01:37:15,123 - Obradjuje se unutrasnja klasa programa C na liniji 17
+INFO  01:37:15,124 - Obradjuje se unutrasnja klasa programa D na liniji 20
+INFO  01:37:15,124 - Obradjuje se unutrasnja klasa programa E na liniji 23
+INFO  01:37:15,124 - Obradjuje se funkcija bez return iskaza main na liniji 29
+INFO  01:37:15,124 - Deklarisana promenljiva i na liniji 30
+INFO  01:37:15,124 - Detektovan pristup polju klase:  pisi na liniji 33 na liniji 33
+INFO  01:37:15,124 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 33 na liniji 33
+INFO  01:37:15,124 - Detektovan pristup polju klase:  pisi na liniji 35 na liniji 35
+INFO  01:37:15,124 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 35 na liniji 35
+INFO  01:37:15,124 - Detektovan pristup polju klase:  pisi na liniji 37 na liniji 37
+INFO  01:37:15,124 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 37 na liniji 37
+INFO  01:37:15,124 - Detektovan pristup polju klase:  pisi na liniji 39 na liniji 39
+INFO  01:37:15,124 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 39 na liniji 39
+INFO  01:37:15,124 - Detektovan pristup polju klase:  pisi na liniji 41 na liniji 41
+INFO  01:37:15,125 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 41 na liniji 41
+INFO  01:37:15,125 -  Print count calls = 1
+INFO  01:37:15,125 -  Deklarisanih promenljivih ima = 2
+INFO  01:37:15,125 - ===================================
+ERROR 01:37:15,125 - Parsiranje NIJE uspesno zavrseno!

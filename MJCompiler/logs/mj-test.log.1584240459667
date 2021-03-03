@@ -1,0 +1,90 @@
+INFO  03:45:02,833 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  03:45:02,842 - #2 program
+INFO  03:45:02,842 - #15 MJProgram
+INFO  03:45:02,842 - #15 int
+INFO  03:45:02,842 - #15 x
+INFO  03:45:02,852 - #5 ;
+INFO  03:45:02,852 - #15 int
+INFO  03:45:02,852 - #15 y
+INFO  03:45:02,852 - #5 ;
+INFO  03:45:02,852 - #3 {
+INFO  03:45:02,852 - #15 int
+INFO  03:45:02,855 - #15 main
+INFO  03:45:02,855 - #6 (
+INFO  03:45:02,855 - #7 )
+INFO  03:45:02,855 - #3 {
+INFO  03:45:02,855 - #11 print
+INFO  03:45:02,855 - #6 (
+INFO  03:45:02,855 - #14 1
+INFO  03:45:02,855 - #7 )
+INFO  03:45:02,855 - #5 ;
+INFO  03:45:02,855 - #11 print
+INFO  03:45:02,855 - #6 (
+INFO  03:45:02,855 - #14 2
+INFO  03:45:02,855 - #7 )
+INFO  03:45:02,855 - #5 ;
+INFO  03:45:02,855 - #4 }
+INFO  03:45:02,855 - #4 }
+INFO  03:45:02,862 - Program(
+ MJProgram
+  VarDeclarations(
+    VarDeclarations(
+      NoVarDecl(
+      ) [NoVarDecl]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+       x
+      ) [VarDecl]
+    ) [VarDeclarations]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+     y
+    ) [VarDecl]
+  ) [VarDeclarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      Type(
+       int
+      ) [Type]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          PrintStmt(
+            TermExpr(
+              Term(
+                Const(
+                 1
+                ) [Const]
+              ) [Term]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [Statements]
+        PrintStmt(
+          TermExpr(
+            Term(
+              Const(
+               2
+              ) [Const]
+            ) [Term]
+          ) [TermExpr]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:45:02,862 - ===================================
+INFO  03:45:02,862 - Prepoznata naredba print
+INFO  03:45:02,862 - Prepoznata naredba print
+INFO  03:45:02,862 -  Print count calls = 2

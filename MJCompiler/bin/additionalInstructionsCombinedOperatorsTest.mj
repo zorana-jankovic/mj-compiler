@@ -1,0 +1,84 @@
+program MJProgram
+	int x; int y;
+	int arr[];
+	
+	class O {
+		public int a;
+	}
+	class Klasa {
+		public O niz[];
+		public int a;
+	}
+
+	Klasa k;
+	
+	
+	
+{
+	int verify(){
+		print('v');	
+		return 1;
+	}
+		
+	void main(){
+	
+		arr = new int[10];
+		//x = 15;
+		//y = 10;
+		//x += y -= 5;
+		//print(x);
+		//print(y);
+		
+		arr[1]=1;
+		arr[1] += 10;
+		print(arr[1]*=2);
+		print(arr[1]);
+		x = 3;
+		y = 5;
+		
+		//x += y + 5;
+		
+		//print(eol);
+		//print(x);
+		//print(eol);
+
+		x += y += 3 + 4;
+		
+		arr[1] = 3;
+		arr[2] = 0;
+		arr[1] += arr[2] += 89 + 3;
+		
+
+		print(x);
+		print(y);
+		print(arr[1]);
+		print(arr[2]);
+		
+		k = new Klasa;
+		
+		x = 3;
+		k.a = 3; 
+		y = 5;
+		x += k.a -= y *=3;
+		print(x);
+		print(y);
+		print(k.a);
+		
+		k.niz = new O[3];
+		k.niz[0] = new O;
+		
+		k.niz[0].a = 10;
+		x = 5;
+		y = 3;
+		x += k.niz[0].a /= y -= 2 + 5/5 -1;
+		
+		print(y);
+		print(x);
+		print(k.niz[0].a);
+		
+		if (true || verify() == 3 || true){
+			print('c');
+		}
+		
+	}
+}

@@ -1,0 +1,295 @@
+INFO  15:50:35,815 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\testB.mj
+INFO  15:50:35,993 - #2 program
+INFO  15:50:35,994 - #15 MJProgram
+INFO  15:50:35,994 - #15 int
+INFO  15:50:35,996 - #15 x
+INFO  15:50:35,998 - #5 ;
+INFO  15:50:35,999 - #15 int
+INFO  15:50:36,000 - #15 y
+INFO  15:50:36,000 - #5 ;
+INFO  15:50:36,001 - #15 int
+INFO  15:50:36,001 - #15 arr
+INFO  15:50:36,001 - #44 [
+INFO  15:50:36,001 - #45 ]
+INFO  15:50:36,001 - #5 ;
+INFO  15:50:36,002 - #3 {
+INFO  15:50:36,005 - #15 int
+INFO  15:50:36,006 - #15 f1
+INFO  15:50:36,006 - #6 (
+INFO  15:50:36,006 - #15 int
+INFO  15:50:36,007 - #15 x
+INFO  15:50:36,007 - #7 )
+INFO  15:50:36,007 - #3 {
+INFO  15:50:36,008 - #9 return
+INFO  15:50:36,009 - #15 x
+INFO  15:50:36,009 - #5 ;
+INFO  15:50:36,013 - #4 }
+INFO  15:50:36,013 - #13 void
+INFO  15:50:36,015 - #15 main
+INFO  15:50:36,015 - #6 (
+INFO  15:50:36,015 - #7 )
+INFO  15:50:36,016 - #15 char
+INFO  15:50:36,016 - #15 c
+INFO  15:50:36,016 - #5 ;
+INFO  15:50:36,017 - #15 bool
+INFO  15:50:36,017 - #15 b
+INFO  15:50:36,017 - #5 ;
+INFO  15:50:36,017 - #15 int
+INFO  15:50:36,017 - #15 x
+INFO  15:50:36,017 - #5 ;
+INFO  15:50:36,018 - #3 {
+INFO  15:50:36,018 - #11 print
+INFO  15:50:36,018 - #6 (
+INFO  15:50:36,019 - #14 1
+INFO  15:50:36,019 - #7 )
+INFO  15:50:36,019 - #5 ;
+INFO  15:50:36,020 - #15 f1
+INFO  15:50:36,020 - #6 (
+INFO  15:50:36,022 - #14 5
+INFO  15:50:36,022 - #12 ,
+INFO  15:50:36,022 - #14 6
+INFO  15:50:36,025 - #12 ,
+INFO  15:50:36,025 - #14 7
+INFO  15:50:36,025 - #7 )
+INFO  15:50:36,025 - #5 ;
+INFO  15:50:36,026 - #4 }
+INFO  15:50:36,026 - #4 }
+INFO  15:50:36,053 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyDeclList(
+        MyNoDeclList(
+        ) [MyNoDeclList]
+        VarDeclListElem(
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            VarDeclElemNoBraces(
+             x
+            ) [VarDeclElemNoBraces]
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+          ) [VarDecl]
+        ) [VarDeclListElem]
+      ) [MyDeclList]
+      VarDeclListElem(
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           y
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    VarDeclListElem(
+      VarDecl(
+        VarDeclType(
+          Type(
+           int
+          ) [Type]
+        ) [VarDeclType]
+        VarDeclElemBraces(
+         arr
+        ) [VarDeclElemBraces]
+        MyNoVarDeclList(
+        ) [MyNoVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeNameRet(
+          Type(
+           int
+          ) [Type]
+         f1
+        ) [MethodTypeNameRet]
+        FormParams(
+          SingleFormalParamDecl(
+            FormalParamDeclNoBraces(
+              Type(
+               int
+              ) [Type]
+             x
+            ) [FormalParamDeclNoBraces]
+          ) [SingleFormalParamDecl]
+        ) [FormParams]
+        MyNoDeclListVar(
+        ) [MyNoDeclListVar]
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          StatementReturnExpr(
+            NoMinusExpr(
+              Terms(
+                Var(
+                  Design(
+                   x
+                    Variable(
+                    ) [Variable]
+                  ) [Design]
+                ) [Var]
+                MyNoTermList(
+                ) [MyNoTermList]
+              ) [Terms]
+              MyNoExprList(
+              ) [MyNoExprList]
+            ) [NoMinusExpr]
+          ) [StatementReturnExpr]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyDeclListVar(
+        MyDeclListVar(
+          MyDeclListVar(
+            MyNoDeclListVar(
+            ) [MyNoDeclListVar]
+            VarDecl(
+              VarDeclType(
+                Type(
+                 char
+                ) [Type]
+              ) [VarDeclType]
+              VarDeclElemNoBraces(
+               c
+              ) [VarDeclElemNoBraces]
+              MyNoVarDeclList(
+              ) [MyNoVarDeclList]
+            ) [VarDecl]
+          ) [MyDeclListVar]
+          VarDecl(
+            VarDeclType(
+              Type(
+               bool
+              ) [Type]
+            ) [VarDeclType]
+            VarDeclElemNoBraces(
+             b
+            ) [VarDeclElemNoBraces]
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+          ) [VarDecl]
+        ) [MyDeclListVar]
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           x
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [MyDeclListVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          StatementPrint(
+            NoMinusExpr(
+              Terms(
+                NumberFactor(
+                 1
+                ) [NumberFactor]
+                MyNoTermList(
+                ) [MyNoTermList]
+              ) [Terms]
+              MyNoExprList(
+              ) [MyNoExprList]
+            ) [NoMinusExpr]
+          ) [StatementPrint]
+        ) [Statements]
+        StatementDesStat(
+          DesignatorStatementFuncCall(
+            DesStmtFuncCallDesignator(
+              Design(
+               f1
+                Variable(
+                ) [Variable]
+              ) [Design]
+            ) [DesStmtFuncCallDesignator]
+            Actuals(
+              ActualParams(
+                ActualParams(
+                  ActualParam(
+                    NoMinusExpr(
+                      Terms(
+                        NumberFactor(
+                         5
+                        ) [NumberFactor]
+                        MyNoTermList(
+                        ) [MyNoTermList]
+                      ) [Terms]
+                      MyNoExprList(
+                      ) [MyNoExprList]
+                    ) [NoMinusExpr]
+                  ) [ActualParam]
+                  NoMinusExpr(
+                    Terms(
+                      NumberFactor(
+                       6
+                      ) [NumberFactor]
+                      MyNoTermList(
+                      ) [MyNoTermList]
+                    ) [Terms]
+                    MyNoExprList(
+                    ) [MyNoExprList]
+                  ) [NoMinusExpr]
+                ) [ActualParams]
+                NoMinusExpr(
+                  Terms(
+                    NumberFactor(
+                     7
+                    ) [NumberFactor]
+                    MyNoTermList(
+                    ) [MyNoTermList]
+                  ) [Terms]
+                  MyNoExprList(
+                  ) [MyNoExprList]
+                ) [NoMinusExpr]
+              ) [ActualParams]
+            ) [Actuals]
+          ) [DesignatorStatementFuncCall]
+        ) [StatementDesStat]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  15:50:36,056 - ===================================
+INFO  15:50:36,068 - Deklarisana promenljiva x na liniji 2
+INFO  15:50:36,086 - Deklarisana promenljiva y na liniji 2
+INFO  15:50:36,086 - Deklarisana promenljiva arr na liniji 3
+INFO  15:50:36,087 - Obradjuje se funkcija sa return iskazom f1 na liniji 12
+INFO  15:50:36,087 - Deklarisan formalni parametar x funkcije:f1 na liniji 12
+INFO  15:50:36,088 - Obradjuje se funkcija bez return iskaza main na liniji 16
+INFO  15:50:36,091 - Deklarisana promenljiva c na liniji 16
+INFO  15:50:36,092 - Deklarisana promenljiva b na liniji 16
+INFO  15:50:36,092 - Deklarisana promenljiva x na liniji 16
+ERROR 15:50:36,093 - Greska na liniji 19 Broj formalnih parametara funkcije i broj agrumenata poziva se ne podudaraju!
+INFO  15:50:36,094 -  Print count calls = 1
+INFO  15:50:36,094 -  Deklarisanih promenljivih ima = 6
+INFO  15:50:36,094 - ===================================
+ERROR 15:50:36,095 - Parsiranje NIJE uspesno zavrseno!

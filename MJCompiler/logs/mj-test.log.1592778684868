@@ -1,0 +1,115 @@
+INFO  00:28:37,126 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\testfinal5.mj
+INFO  00:28:37,198 - #2 program
+INFO  00:28:37,198 - #15 test302
+INFO  00:28:37,198 - #23 const
+INFO  00:28:37,199 - #15 int
+INFO  00:28:37,199 - #15 jedan
+INFO  00:28:37,200 - #8 =
+INFO  00:28:37,200 - #14 1
+INFO  00:28:37,200 - #5 ;
+INFO  00:28:37,201 - #15 int
+INFO  00:28:37,203 - #15 i
+INFO  00:28:37,203 - #5 ;
+INFO  00:28:37,204 - #15 int
+INFO  00:28:37,205 - #15 niz
+INFO  00:28:37,205 - #44 [
+INFO  00:28:37,205 - #45 ]
+INFO  00:28:37,205 - #5 ;
+INFO  00:28:37,205 - #21 class
+INFO  00:28:37,205 - #15 Klasa
+INFO  00:28:37,205 - #3 {
+INFO  00:28:37,206 - #55 public
+INFO  00:28:37,207 - #15 int
+INFO  00:28:37,207 - #15 arr
+INFO  00:28:37,207 - #44 [
+INFO  00:28:37,208 - #45 ]
+INFO  00:28:37,208 - #5 ;
+INFO  00:28:37,208 - #4 }
+INFO  00:28:37,208 - #15 Klasa
+INFO  00:28:37,208 - #15 k
+INFO  00:28:37,209 - #44 [
+INFO  00:28:37,209 - #45 ]
+INFO  00:28:37,209 - #5 ;
+INFO  00:28:37,209 - #3 {
+INFO  00:28:37,209 - #13 void
+INFO  00:28:37,210 - #15 main
+INFO  00:28:37,210 - #6 (
+INFO  00:28:37,210 - #7 )
+INFO  00:28:37,210 - #3 {
+INFO  00:28:37,210 - #15 k
+INFO  00:28:37,211 - #8 =
+INFO  00:28:37,212 - #24 new
+INFO  00:28:37,213 - #15 Klasa
+INFO  00:28:37,213 - #44 [
+INFO  00:28:37,213 - #14 5
+INFO  00:28:37,213 - #45 ]
+INFO  00:28:37,215 - #5 ;
+INFO  00:28:37,215 - #15 k
+INFO  00:28:37,216 - #44 [
+INFO  00:28:37,216 - #14 0
+INFO  00:28:37,216 - #45 ]
+INFO  00:28:37,216 - #8 =
+INFO  00:28:37,216 - #24 new
+INFO  00:28:37,216 - #15 Klasa
+INFO  00:28:37,216 - #5 ;
+INFO  00:28:37,216 - #15 k
+INFO  00:28:37,217 - #44 [
+INFO  00:28:37,217 - #14 0
+INFO  00:28:37,217 - #45 ]
+INFO  00:28:37,217 - #43 .
+INFO  00:28:37,221 - #15 arr
+INFO  00:28:37,221 - #8 =
+INFO  00:28:37,221 - #24 new
+INFO  00:28:37,221 - #15 int
+INFO  00:28:37,221 - #44 [
+INFO  00:28:37,221 - #14 5
+INFO  00:28:37,221 - #45 ]
+INFO  00:28:37,221 - #5 ;
+INFO  00:28:37,221 - #25 read
+INFO  00:28:37,222 - #6 (
+INFO  00:28:37,222 - #15 k
+INFO  00:28:37,222 - #44 [
+INFO  00:28:37,222 - #14 0
+INFO  00:28:37,222 - #45 ]
+INFO  00:28:37,222 - #43 .
+INFO  00:28:37,222 - #15 arr
+INFO  00:28:37,222 - #44 [
+INFO  00:28:37,222 - #14 0
+INFO  00:28:37,222 - #45 ]
+INFO  00:28:37,222 - #7 )
+INFO  00:28:37,223 - #5 ;
+INFO  00:28:37,223 - #11 print
+INFO  00:28:37,223 - #6 (
+INFO  00:28:37,223 - #15 k
+INFO  00:28:37,223 - #44 [
+INFO  00:28:37,223 - #14 0
+INFO  00:28:37,223 - #45 ]
+INFO  00:28:37,223 - #43 .
+INFO  00:28:37,223 - #15 arr
+INFO  00:28:37,223 - #44 [
+INFO  00:28:37,223 - #14 0
+INFO  00:28:37,223 - #45 ]
+INFO  00:28:37,223 - #7 )
+INFO  00:28:37,223 - #5 ;
+INFO  00:28:37,223 - #4 }
+INFO  00:28:37,223 - #4 }
+INFO  00:28:37,238 - ===================================
+INFO  00:28:37,242 - Deklarisana konstanta tipa int jedan na liniji 5
+INFO  00:28:37,242 - Deklarisana promenljiva i na liniji 7
+INFO  00:28:37,242 - Deklarisana promenljiva niz na liniji 9
+INFO  00:28:37,243 - Obradjuje se unutrasnja klasa programa Klasa na liniji 11
+INFO  00:28:37,243 - Deklarisan polje klase arr na liniji 12
+INFO  00:28:37,243 - Deklarisana promenljiva k na liniji 15
+INFO  00:28:37,243 - Obradjuje se funkcija bez return iskaza main na liniji 19
+INFO  00:28:37,243 - Detektovan pristup globalnoj promenljivoj:   k na liniji 21 na liniji 21
+INFO  00:28:37,243 - Detektovan pristup elementu niza:   k na liniji 22 na liniji 22
+INFO  00:28:37,244 - Detektovan pristup polju klase:  arr na liniji 24 na liniji 24
+INFO  00:28:37,244 - Detektovan pristup polju klase:   arr na liniji 24 na liniji 24
+INFO  00:28:37,244 - Detektovan pristup polju klase:  arr na liniji 26 na liniji 26
+INFO  00:28:37,244 - Detektovan pristup elementu niza:   arr na liniji 26 na liniji 26
+INFO  00:28:37,244 - Detektovan pristup polju klase:  arr na liniji 27 na liniji 27
+INFO  00:28:37,244 - Detektovan pristup elementu niza:   arr na liniji 27 na liniji 27
+INFO  00:28:37,244 -  Print count calls = 1
+INFO  00:28:37,244 -  Deklarisanih promenljivih ima = 4
+INFO  00:28:37,244 - ===================================
+INFO  00:28:37,251 - Parsiranje uspesno zavrseno!

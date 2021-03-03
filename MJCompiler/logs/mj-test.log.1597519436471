@@ -1,0 +1,173 @@
+INFO  21:16:42,977 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\nasledjivanje.mj
+INFO  21:16:43,099 - #2 program
+INFO  21:16:43,100 - #15 P
+INFO  21:16:43,100 - #22 abstract
+INFO  21:16:43,104 - #21 class
+INFO  21:16:43,104 - #15 Testnista
+INFO  21:16:43,104 - #3 {
+INFO  21:16:43,105 - #4 }
+INFO  21:16:43,107 - #22 abstract
+INFO  21:16:43,107 - #21 class
+INFO  21:16:43,107 - #15 I
+INFO  21:16:43,107 - #3 {
+INFO  21:16:43,108 - #3 {
+INFO  21:16:43,108 - #55 public
+INFO  21:16:43,108 - #22 abstract
+INFO  21:16:43,110 - #13 void
+INFO  21:16:43,111 - #15 pisi
+INFO  21:16:43,111 - #6 (
+INFO  21:16:43,112 - #7 )
+INFO  21:16:43,113 - #5 ;
+INFO  21:16:43,113 - #4 }
+INFO  21:16:43,113 - #4 }
+INFO  21:16:43,116 - #21 class
+INFO  21:16:43,116 - #15 A
+INFO  21:16:43,117 - #27 extends
+INFO  21:16:43,118 - #15 I
+INFO  21:16:43,118 - #3 {
+INFO  21:16:43,121 - #3 {
+INFO  21:16:43,121 - #55 public
+INFO  21:16:43,122 - #13 void
+INFO  21:16:43,122 - #15 pisi
+INFO  21:16:43,122 - #6 (
+INFO  21:16:43,122 - #7 )
+INFO  21:16:43,122 - #3 {
+INFO  21:16:43,122 - #11 print
+INFO  21:16:43,123 - #6 (
+INFO  21:16:43,124 - #19 A
+INFO  21:16:43,124 - #7 )
+INFO  21:16:43,126 - #5 ;
+INFO  21:16:43,126 - #4 }
+INFO  21:16:43,126 - #4 }
+INFO  21:16:43,127 - #4 }
+INFO  21:16:43,128 - #21 class
+INFO  21:16:43,128 - #15 B
+INFO  21:16:43,128 - #27 extends
+INFO  21:16:43,128 - #15 I
+INFO  21:16:43,128 - #3 {
+INFO  21:16:43,129 - #3 {
+INFO  21:16:43,129 - #55 public
+INFO  21:16:43,129 - #13 void
+INFO  21:16:43,129 - #15 pisi
+INFO  21:16:43,129 - #6 (
+INFO  21:16:43,129 - #7 )
+INFO  21:16:43,129 - #3 {
+INFO  21:16:43,129 - #11 print
+INFO  21:16:43,129 - #6 (
+INFO  21:16:43,130 - #19 B
+INFO  21:16:43,130 - #7 )
+INFO  21:16:43,130 - #5 ;
+INFO  21:16:43,130 - #4 }
+INFO  21:16:43,136 - #4 }
+INFO  21:16:43,136 - #4 }
+INFO  21:16:43,136 - #21 class
+INFO  21:16:43,136 - #15 C
+INFO  21:16:43,136 - #27 extends
+INFO  21:16:43,136 - #15 A
+INFO  21:16:43,136 - #3 {
+INFO  21:16:43,136 - #4 }
+INFO  21:16:43,137 - #21 class
+INFO  21:16:43,138 - #15 D
+INFO  21:16:43,138 - #27 extends
+INFO  21:16:43,138 - #15 B
+INFO  21:16:43,138 - #3 {
+INFO  21:16:43,138 - #4 }
+INFO  21:16:43,138 - #21 class
+INFO  21:16:43,138 - #15 E
+INFO  21:16:43,138 - #27 extends
+INFO  21:16:43,138 - #15 D
+INFO  21:16:43,138 - #3 {
+INFO  21:16:43,138 - #4 }
+INFO  21:16:43,138 - #3 {
+INFO  21:16:43,138 - #13 void
+INFO  21:16:43,139 - #15 main
+INFO  21:16:43,139 - #6 (
+INFO  21:16:43,140 - #7 )
+INFO  21:16:43,140 - #15 I
+INFO  21:16:43,140 - #15 i
+INFO  21:16:43,140 - #5 ;
+INFO  21:16:43,141 - #3 {
+INFO  21:16:43,142 - #15 i
+INFO  21:16:43,142 - #8 =
+INFO  21:16:43,143 - #24 new
+INFO  21:16:43,144 - #15 A
+INFO  21:16:43,144 - #5 ;
+INFO  21:16:43,145 - #15 i
+INFO  21:16:43,145 - #43 .
+INFO  21:16:43,145 - #15 pisi
+INFO  21:16:43,145 - #6 (
+INFO  21:16:43,147 - #7 )
+INFO  21:16:43,147 - #5 ;
+INFO  21:16:43,148 - #15 i
+INFO  21:16:43,148 - #8 =
+INFO  21:16:43,148 - #24 new
+INFO  21:16:43,148 - #15 B
+INFO  21:16:43,148 - #5 ;
+INFO  21:16:43,148 - #15 i
+INFO  21:16:43,148 - #43 .
+INFO  21:16:43,148 - #15 pisi
+INFO  21:16:43,148 - #6 (
+INFO  21:16:43,148 - #7 )
+INFO  21:16:43,148 - #5 ;
+INFO  21:16:43,149 - #15 i
+INFO  21:16:43,149 - #8 =
+INFO  21:16:43,149 - #24 new
+INFO  21:16:43,149 - #15 C
+INFO  21:16:43,149 - #5 ;
+INFO  21:16:43,149 - #15 i
+INFO  21:16:43,149 - #43 .
+INFO  21:16:43,149 - #15 pisi
+INFO  21:16:43,149 - #6 (
+INFO  21:16:43,149 - #7 )
+INFO  21:16:43,149 - #5 ;
+INFO  21:16:43,150 - #15 i
+INFO  21:16:43,150 - #8 =
+INFO  21:16:43,150 - #24 new
+INFO  21:16:43,150 - #15 D
+INFO  21:16:43,150 - #5 ;
+INFO  21:16:43,150 - #15 i
+INFO  21:16:43,150 - #43 .
+INFO  21:16:43,150 - #15 pisi
+INFO  21:16:43,150 - #6 (
+INFO  21:16:43,150 - #7 )
+INFO  21:16:43,150 - #5 ;
+INFO  21:16:43,151 - #15 i
+INFO  21:16:43,151 - #8 =
+INFO  21:16:43,151 - #24 new
+INFO  21:16:43,151 - #15 E
+INFO  21:16:43,151 - #5 ;
+INFO  21:16:43,151 - #15 i
+INFO  21:16:43,151 - #43 .
+INFO  21:16:43,151 - #15 pisi
+INFO  21:16:43,151 - #6 (
+INFO  21:16:43,151 - #7 )
+INFO  21:16:43,151 - #5 ;
+INFO  21:16:43,151 - #4 }
+INFO  21:16:43,152 - #4 }
+INFO  21:16:43,175 - ===================================
+INFO  21:16:43,182 - Obradjuje se unutrasnja apstraktna klasa programa Testnista na liniji 3
+INFO  21:16:43,182 - Obradjuje se unutrasnja apstraktna klasa programa I na liniji 7
+INFO  21:16:43,183 - Obradjuje se deklaracija apstraktne funkcije bez return iskaza pisi na liniji 9
+INFO  21:16:43,183 - Obradjuje se unutrasnja klasa programa A na liniji 13
+INFO  21:16:43,183 - Obradjuje se funkcija bez return iskaza pisi na liniji 15
+INFO  21:16:43,184 - Obradjuje se unutrasnja klasa programa B na liniji 18
+INFO  21:16:43,184 - Obradjuje se funkcija bez return iskaza pisi na liniji 20
+INFO  21:16:43,184 - Obradjuje se unutrasnja klasa programa C na liniji 24
+INFO  21:16:43,185 - Obradjuje se unutrasnja klasa programa D na liniji 27
+INFO  21:16:43,185 - Obradjuje se unutrasnja klasa programa E na liniji 30
+INFO  21:16:43,185 - Obradjuje se funkcija bez return iskaza main na liniji 36
+INFO  21:16:43,185 - Deklarisana promenljiva i na liniji 37
+INFO  21:16:43,187 - Detektovan pristup polju klase:  pisi na liniji 40 na liniji 40
+INFO  21:16:43,187 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 40 na liniji 40
+INFO  21:16:43,187 - Detektovan pristup polju klase:  pisi na liniji 42 na liniji 42
+INFO  21:16:43,187 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 42 na liniji 42
+INFO  21:16:43,187 - Detektovan pristup polju klase:  pisi na liniji 44 na liniji 44
+INFO  21:16:43,187 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 44 na liniji 44
+INFO  21:16:43,187 - Detektovan pristup polju klase:  pisi na liniji 46 na liniji 46
+INFO  21:16:43,187 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 46 na liniji 46
+INFO  21:16:43,187 - Detektovan pristup polju klase:  pisi na liniji 48 na liniji 48
+INFO  21:16:43,188 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 48 na liniji 48
+INFO  21:16:43,188 -  Print count calls = 2
+INFO  21:16:43,188 -  Deklarisanih promenljivih ima = 1
+INFO  21:16:43,188 - ===================================
+INFO  21:16:43,197 - Parsiranje uspesno zavrseno!

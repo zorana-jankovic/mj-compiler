@@ -1,0 +1,79 @@
+INFO  03:34:01,459 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\program.mj
+INFO  03:34:01,889 - #2 program
+INFO  03:34:01,889 - #15 MJProgram
+INFO  03:34:01,889 - #15 int
+INFO  03:34:01,894 - #15 x
+INFO  03:34:01,895 - #5 ;
+INFO  03:34:01,904 - #15 int
+INFO  03:34:01,920 - #15 y
+INFO  03:34:01,920 - #5 ;
+INFO  03:34:01,922 - #3 {
+INFO  03:34:01,922 - #13 void
+INFO  03:34:01,923 - #15 main
+INFO  03:34:01,923 - #6 (
+INFO  03:34:01,924 - #7 )
+INFO  03:34:01,928 - #3 {
+INFO  03:34:01,929 - #4 }
+INFO  03:34:01,931 - #4 }
+INFO  03:34:01,972 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyNoDeclList(
+      ) [MyNoDeclList]
+      VarDeclListElem(
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           x
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    VarDeclListElem(
+      VarDecl(
+        VarDeclType(
+          Type(
+           int
+          ) [Type]
+        ) [VarDeclType]
+        VarDeclElemNoBraces(
+         y
+        ) [VarDeclElemNoBraces]
+        MyNoVarDeclList(
+        ) [MyNoVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyNoDeclListVar(
+      ) [MyNoDeclListVar]
+      NoStmt(
+      ) [NoStmt]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:34:01,974 - ===================================
+INFO  03:34:01,986 - Deklarisana promenljiva x na liniji 2
+INFO  03:34:01,986 - Deklarisana promenljiva y na liniji 2
+INFO  03:34:01,986 - Obradjuje se funkcija bez return iskaza main na liniji 13
+INFO  03:34:01,987 -  Print count calls = 0
+INFO  03:34:01,987 -  Deklarisanih promenljivih ima = 2
+INFO  03:34:01,987 - ===================================
+INFO  03:34:02,010 - Parsiranje uspesno zavrseno!

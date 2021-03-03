@@ -1,0 +1,31 @@
+program ParserTestArrays
+	int numbers [];
+	char characters [] ;
+	bool bools [];
+	int x;
+{
+	 //test program sa nizovima
+
+	int k() int y[]; {
+		y = new int[10];
+		y[1] = 6;
+		y[2]++;
+	    numbers[6]--;
+		read(bools[1]);
+		print(bools[3]);
+		print(numbers[2],3);
+		
+		//p = - numConst - x + y * numConst * 10;
+		
+		return 1;
+	}
+
+	void main(){
+		bools = new bool[5];
+		numbers = new int[10];
+		k();
+		
+		return;
+	}
+	
+}

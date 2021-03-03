@@ -1,0 +1,328 @@
+INFO  19:27:44,667 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\forTest.mj
+INFO  19:27:44,732 - #2 program
+INFO  19:27:44,732 - #15 MJProgram
+INFO  19:27:44,732 - #15 int
+INFO  19:27:44,733 - #15 x
+INFO  19:27:44,734 - #5 ;
+INFO  19:27:44,734 - #15 int
+INFO  19:27:44,735 - #15 y
+INFO  19:27:44,735 - #5 ;
+INFO  19:27:44,735 - #15 int
+INFO  19:27:44,735 - #15 arr
+INFO  19:27:44,735 - #44 [
+INFO  19:27:44,735 - #45 ]
+INFO  19:27:44,736 - #5 ;
+INFO  19:27:44,736 - #3 {
+INFO  19:27:44,736 - #13 void
+INFO  19:27:44,736 - #15 main
+INFO  19:27:44,736 - #6 (
+INFO  19:27:44,737 - #7 )
+INFO  19:27:44,737 - #15 bool
+INFO  19:27:44,738 - #15 c
+INFO  19:27:44,740 - #5 ;
+INFO  19:27:44,740 - #15 bool
+INFO  19:27:44,740 - #15 b
+INFO  19:27:44,740 - #5 ;
+INFO  19:27:44,740 - #15 int
+INFO  19:27:44,740 - #15 x
+INFO  19:27:44,740 - #5 ;
+INFO  19:27:44,740 - #3 {
+INFO  19:27:44,740 - #15 y
+INFO  19:27:44,741 - #8 =
+INFO  19:27:44,741 - #14 0
+INFO  19:27:44,742 - #5 ;
+INFO  19:27:44,743 - #26 for
+INFO  19:27:44,743 - #6 (
+INFO  19:27:44,743 - #15 x
+INFO  19:27:44,743 - #8 =
+INFO  19:27:44,743 - #14 0
+INFO  19:27:44,743 - #5 ;
+INFO  19:27:44,744 - #15 x
+INFO  19:27:44,744 - #37 <
+INFO  19:27:44,744 - #14 10
+INFO  19:27:44,745 - #5 ;
+INFO  19:27:44,747 - #15 x
+INFO  19:27:44,747 - #41 ++
+INFO  19:27:44,747 - #7 )
+INFO  19:27:44,747 - #3 {
+INFO  19:27:44,748 - #15 y
+INFO  19:27:44,748 - #41 ++
+INFO  19:27:44,748 - #5 ;
+INFO  19:27:44,748 - #4 }
+INFO  19:27:44,748 - #11 print
+INFO  19:27:44,749 - #6 (
+INFO  19:27:44,749 - #15 y
+INFO  19:27:44,749 - #7 )
+INFO  19:27:44,749 - #5 ;
+INFO  19:27:44,749 - #4 }
+INFO  19:27:44,749 - #4 }
+INFO  19:27:44,766 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyDeclList(
+        MyNoDeclList(
+        ) [MyNoDeclList]
+        VarDeclListElem(
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            VarDeclElemNoBraces(
+             x
+            ) [VarDeclElemNoBraces]
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+          ) [VarDecl]
+        ) [VarDeclListElem]
+      ) [MyDeclList]
+      VarDeclListElem(
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           y
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    VarDeclListElem(
+      VarDecl(
+        VarDeclType(
+          Type(
+           int
+          ) [Type]
+        ) [VarDeclType]
+        VarDeclElemBraces(
+         arr
+        ) [VarDeclElemBraces]
+        MyNoVarDeclList(
+        ) [MyNoVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyDeclListVar(
+        MyDeclListVar(
+          MyDeclListVar(
+            MyNoDeclListVar(
+            ) [MyNoDeclListVar]
+            VarDecl(
+              VarDeclType(
+                Type(
+                 bool
+                ) [Type]
+              ) [VarDeclType]
+              VarDeclElemNoBraces(
+               c
+              ) [VarDeclElemNoBraces]
+              MyNoVarDeclList(
+              ) [MyNoVarDeclList]
+            ) [VarDecl]
+          ) [MyDeclListVar]
+          VarDecl(
+            VarDeclType(
+              Type(
+               bool
+              ) [Type]
+            ) [VarDeclType]
+            VarDeclElemNoBraces(
+             b
+            ) [VarDeclElemNoBraces]
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+          ) [VarDecl]
+        ) [MyDeclListVar]
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           x
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [MyDeclListVar]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            StatementDesStat(
+              DesignatorStatementAssign(
+                DesAssStmtm(
+                  Design(
+                   y
+                    Variable(
+                    ) [Variable]
+                  ) [Design]
+                  DesAssStmtCombOper(
+                    Assign(
+                    ) [Assign]
+                  ) [DesAssStmtCombOper]
+                  NoMinusExpr(
+                    Terms(
+                      NumberFactor(
+                       0
+                      ) [NumberFactor]
+                      MyNoTermList(
+                      ) [MyNoTermList]
+                    ) [Terms]
+                    MyNoExprList(
+                    ) [MyNoExprList]
+                  ) [NoMinusExpr]
+                ) [DesAssStmtm]
+              ) [DesignatorStatementAssign]
+            ) [StatementDesStat]
+          ) [Statements]
+          StatementFor(
+            MyDesignatorForBegin(
+              DesignatorStatementAssign(
+                DesAssStmtm(
+                  Design(
+                   x
+                    Variable(
+                    ) [Variable]
+                  ) [Design]
+                  DesAssStmtCombOper(
+                    Assign(
+                    ) [Assign]
+                  ) [DesAssStmtCombOper]
+                  NoMinusExpr(
+                    Terms(
+                      NumberFactor(
+                       0
+                      ) [NumberFactor]
+                      MyNoTermList(
+                      ) [MyNoTermList]
+                    ) [Terms]
+                    MyNoExprList(
+                    ) [MyNoExprList]
+                  ) [NoMinusExpr]
+                ) [DesAssStmtm]
+              ) [DesignatorStatementAssign]
+            ) [MyDesignatorForBegin]
+            MyConditionFor(
+              Condition(
+                CondTerms(
+                  CondFactRelop(
+                    NoMinusExpr(
+                      Terms(
+                        Var(
+                          Design(
+                           x
+                            Variable(
+                            ) [Variable]
+                          ) [Design]
+                        ) [Var]
+                        MyNoTermList(
+                        ) [MyNoTermList]
+                      ) [Terms]
+                      MyNoExprList(
+                      ) [MyNoExprList]
+                    ) [NoMinusExpr]
+                    Smaller(
+                    ) [Smaller]
+                    NoMinusExpr(
+                      Terms(
+                        NumberFactor(
+                         10
+                        ) [NumberFactor]
+                        MyNoTermList(
+                        ) [MyNoTermList]
+                      ) [Terms]
+                      MyNoExprList(
+                      ) [MyNoExprList]
+                    ) [NoMinusExpr]
+                  ) [CondFactRelop]
+                  MyNoCondTermList(
+                  ) [MyNoCondTermList]
+                ) [CondTerms]
+                MyNoConditionList(
+                ) [MyNoConditionList]
+              ) [Condition]
+            ) [MyConditionFor]
+            MyDesignatorStatementFor(
+              DesignatorStatementINC(
+                Design(
+                 x
+                  Variable(
+                  ) [Variable]
+                ) [Design]
+              ) [DesignatorStatementINC]
+            ) [MyDesignatorStatementFor]
+            ForBody(
+              StatementSTMT(
+                Statements(
+                  NoStmt(
+                  ) [NoStmt]
+                  StatementDesStat(
+                    DesignatorStatementINC(
+                      Design(
+                       y
+                        Variable(
+                        ) [Variable]
+                      ) [Design]
+                    ) [DesignatorStatementINC]
+                  ) [StatementDesStat]
+                ) [Statements]
+              ) [StatementSTMT]
+            ) [ForBody]
+          ) [StatementFor]
+        ) [Statements]
+        StatementPrint(
+          NoMinusExpr(
+            Terms(
+              Var(
+                Design(
+                 y
+                  Variable(
+                  ) [Variable]
+                ) [Design]
+              ) [Var]
+              MyNoTermList(
+              ) [MyNoTermList]
+            ) [Terms]
+            MyNoExprList(
+            ) [MyNoExprList]
+          ) [NoMinusExpr]
+        ) [StatementPrint]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:27:44,766 - ===================================
+INFO  19:27:44,770 - Deklarisana promenljiva x na liniji 2
+INFO  19:27:44,770 - Deklarisana promenljiva y na liniji 2
+INFO  19:27:44,770 - Deklarisana promenljiva arr na liniji 3
+INFO  19:27:44,770 - Obradjuje se funkcija bez return iskaza main na liniji 7
+INFO  19:27:44,770 - Deklarisana promenljiva c na liniji 7
+INFO  19:27:44,770 - Deklarisana promenljiva b na liniji 7
+INFO  19:27:44,771 - Deklarisana promenljiva x na liniji 7
+INFO  19:27:44,771 - Detektovan pristup globalnoj promenljivoj:   y na liniji 9 na liniji 9
+INFO  19:27:44,771 - Detektovan pristup globalnoj promenljivoj:   y na liniji 12 na liniji 12
+INFO  19:27:44,771 - Detektovan pristup globalnoj promenljivoj:   y na liniji 15 na liniji 15
+INFO  19:27:44,771 -  Print count calls = 1
+INFO  19:27:44,771 -  Deklarisanih promenljivih ima = 6
+INFO  19:27:44,771 - ===================================
+INFO  19:27:44,778 - Parsiranje uspesno zavrseno!

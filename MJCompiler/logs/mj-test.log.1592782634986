@@ -1,0 +1,167 @@
+INFO  01:37:07,946 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\nasledjivanje.mj
+INFO  01:37:08,028 - #2 program
+INFO  01:37:08,028 - #15 P
+INFO  01:37:08,028 - #22 abstract
+INFO  01:37:08,028 - #21 class
+INFO  01:37:08,029 - #15 I
+INFO  01:37:08,029 - #3 {
+INFO  01:37:08,030 - #3 {
+INFO  01:37:08,031 - #55 public
+INFO  01:37:08,032 - #22 abstract
+INFO  01:37:08,033 - #13 void
+INFO  01:37:08,035 - #15 pisi
+INFO  01:37:08,035 - #6 (
+INFO  01:37:08,035 - #7 )
+INFO  01:37:08,035 - #5 ;
+INFO  01:37:08,035 - #4 }
+INFO  01:37:08,036 - #4 }
+INFO  01:37:08,036 - #21 class
+INFO  01:37:08,036 - #15 A
+INFO  01:37:08,036 - #27 extends
+INFO  01:37:08,037 - #15 I
+INFO  01:37:08,039 - #3 {
+INFO  01:37:08,040 - #3 {
+INFO  01:37:08,040 - #55 public
+INFO  01:37:08,040 - #13 void
+INFO  01:37:08,040 - #15 pisi
+INFO  01:37:08,040 - #6 (
+INFO  01:37:08,040 - #7 )
+INFO  01:37:08,041 - #3 {
+INFO  01:37:08,041 - #11 print
+INFO  01:37:08,041 - #6 (
+INFO  01:37:08,041 - #19 A
+INFO  01:37:08,041 - #7 )
+INFO  01:37:08,043 - #5 ;
+INFO  01:37:08,043 - #4 }
+INFO  01:37:08,043 - #4 }
+INFO  01:37:08,044 - #4 }
+INFO  01:37:08,044 - #21 class
+INFO  01:37:08,045 - #15 B
+INFO  01:37:08,045 - #27 extends
+INFO  01:37:08,045 - #15 I
+INFO  01:37:08,045 - #3 {
+INFO  01:37:08,045 - #3 {
+INFO  01:37:08,045 - #55 public
+INFO  01:37:08,045 - #13 void
+INFO  01:37:08,045 - #15 pisi
+INFO  01:37:08,045 - #6 (
+INFO  01:37:08,045 - #7 )
+INFO  01:37:08,045 - #3 {
+INFO  01:37:08,045 - #11 print
+INFO  01:37:08,046 - #6 (
+INFO  01:37:08,046 - #19 B
+INFO  01:37:08,046 - #7 )
+INFO  01:37:08,046 - #5 ;
+INFO  01:37:08,046 - #4 }
+INFO  01:37:08,046 - #4 }
+INFO  01:37:08,046 - #4 }
+INFO  01:37:08,046 - #21 class
+INFO  01:37:08,046 - #15 C
+INFO  01:37:08,051 - #27 extends
+INFO  01:37:08,051 - #15 A
+INFO  01:37:08,051 - #3 {
+INFO  01:37:08,051 - #4 }
+INFO  01:37:08,052 - #21 class
+INFO  01:37:08,052 - #15 D
+INFO  01:37:08,052 - #27 extends
+INFO  01:37:08,052 - #15 B
+INFO  01:37:08,052 - #3 {
+INFO  01:37:08,052 - #4 }
+INFO  01:37:08,052 - #21 class
+INFO  01:37:08,052 - #15 E
+INFO  01:37:08,052 - #27 extends
+INFO  01:37:08,052 - #15 D
+INFO  01:37:08,052 - #3 {
+INFO  01:37:08,053 - #4 }
+INFO  01:37:08,053 - #3 {
+INFO  01:37:08,053 - #13 void
+INFO  01:37:08,053 - #15 main
+INFO  01:37:08,053 - #6 (
+INFO  01:37:08,053 - #7 )
+INFO  01:37:08,053 - #15 I
+INFO  01:37:08,054 - #15 i
+INFO  01:37:08,054 - #5 ;
+INFO  01:37:08,054 - #3 {
+INFO  01:37:08,055 - #15 i
+INFO  01:37:08,055 - #8 =
+INFO  01:37:08,056 - #24 new
+INFO  01:37:08,057 - #15 A
+INFO  01:37:08,057 - #5 ;
+INFO  01:37:08,057 - #15 i
+INFO  01:37:08,057 - #43 .
+INFO  01:37:08,058 - #15 pisi
+INFO  01:37:08,058 - #6 (
+INFO  01:37:08,058 - #7 )
+INFO  01:37:08,059 - #5 ;
+INFO  01:37:08,059 - #15 i
+INFO  01:37:08,059 - #8 =
+INFO  01:37:08,060 - #24 new
+INFO  01:37:08,060 - #15 B
+INFO  01:37:08,060 - #5 ;
+INFO  01:37:08,060 - #15 i
+INFO  01:37:08,060 - #43 .
+INFO  01:37:08,060 - #15 pisi
+INFO  01:37:08,060 - #6 (
+INFO  01:37:08,060 - #7 )
+INFO  01:37:08,060 - #5 ;
+INFO  01:37:08,060 - #15 i
+INFO  01:37:08,061 - #8 =
+INFO  01:37:08,061 - #24 new
+INFO  01:37:08,061 - #15 C
+INFO  01:37:08,061 - #5 ;
+INFO  01:37:08,061 - #15 i
+INFO  01:37:08,061 - #43 .
+INFO  01:37:08,061 - #15 pisi
+INFO  01:37:08,061 - #6 (
+INFO  01:37:08,061 - #7 )
+INFO  01:37:08,061 - #5 ;
+INFO  01:37:08,061 - #15 i
+INFO  01:37:08,061 - #8 =
+INFO  01:37:08,062 - #24 new
+INFO  01:37:08,062 - #15 D
+INFO  01:37:08,062 - #5 ;
+INFO  01:37:08,062 - #15 i
+INFO  01:37:08,062 - #43 .
+INFO  01:37:08,062 - #15 pisi
+INFO  01:37:08,062 - #6 (
+INFO  01:37:08,062 - #7 )
+INFO  01:37:08,062 - #5 ;
+INFO  01:37:08,062 - #15 i
+INFO  01:37:08,062 - #8 =
+INFO  01:37:08,062 - #24 new
+INFO  01:37:08,062 - #15 E
+INFO  01:37:08,062 - #5 ;
+INFO  01:37:08,063 - #15 i
+INFO  01:37:08,063 - #43 .
+INFO  01:37:08,063 - #15 pisi
+INFO  01:37:08,063 - #6 (
+INFO  01:37:08,063 - #7 )
+INFO  01:37:08,063 - #5 ;
+INFO  01:37:08,063 - #4 }
+INFO  01:37:08,063 - #4 }
+INFO  01:37:08,076 - ===================================
+INFO  01:37:08,081 - Obradjuje se unutrasnja apstraktna klasa programa I na liniji 2
+INFO  01:37:08,081 - Obradjuje se deklaracija apstraktne funkcije bez return iskaza pisi na liniji 4
+INFO  01:37:08,082 - Obradjuje se unutrasnja klasa programa A na liniji 8
+INFO  01:37:08,083 - Obradjuje se funkcija bez return iskaza pisi na liniji 10
+INFO  01:37:08,083 - Obradjuje se unutrasnja klasa programa B na liniji 13
+INFO  01:37:08,083 - Obradjuje se funkcija bez return iskaza pisi na liniji 15
+INFO  01:37:08,083 - Obradjuje se unutrasnja klasa programa C na liniji 19
+INFO  01:37:08,083 - Obradjuje se unutrasnja klasa programa D na liniji 22
+INFO  01:37:08,084 - Obradjuje se unutrasnja klasa programa E na liniji 25
+INFO  01:37:08,084 - Obradjuje se funkcija bez return iskaza main na liniji 31
+INFO  01:37:08,084 - Deklarisana promenljiva i na liniji 32
+INFO  01:37:08,084 - Detektovan pristup polju klase:  pisi na liniji 35 na liniji 35
+INFO  01:37:08,084 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 35 na liniji 35
+INFO  01:37:08,084 - Detektovan pristup polju klase:  pisi na liniji 37 na liniji 37
+INFO  01:37:08,084 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 37 na liniji 37
+INFO  01:37:08,084 - Detektovan pristup polju klase:  pisi na liniji 39 na liniji 39
+INFO  01:37:08,084 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 39 na liniji 39
+INFO  01:37:08,084 - Detektovan pristup polju klase:  pisi na liniji 41 na liniji 41
+INFO  01:37:08,084 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 41 na liniji 41
+INFO  01:37:08,085 - Detektovan pristup polju klase:  pisi na liniji 43 na liniji 43
+INFO  01:37:08,085 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 43 na liniji 43
+INFO  01:37:08,085 -  Print count calls = 2
+INFO  01:37:08,085 -  Deklarisanih promenljivih ima = 1
+INFO  01:37:08,085 - ===================================
+INFO  01:37:08,092 - Parsiranje uspesno zavrseno!

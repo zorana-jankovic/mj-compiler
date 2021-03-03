@@ -1,0 +1,435 @@
+INFO  23:29:29,812 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\parserProgram.mj
+INFO  23:29:29,863 - #2 program
+INFO  23:29:29,864 - #15 ParserTest
+INFO  23:29:29,864 - #15 int
+INFO  23:29:29,865 - #15 x
+INFO  23:29:29,866 - #12 ,
+INFO  23:29:29,867 - #15 y
+INFO  23:29:29,867 - #5 ;
+INFO  23:29:29,867 - #23 const
+INFO  23:29:29,868 - #15 int
+INFO  23:29:29,868 - #15 numConst
+INFO  23:29:29,869 - #8 =
+INFO  23:29:29,869 - #14 10
+INFO  23:29:29,869 - #5 ;
+INFO  23:29:29,870 - #15 char
+INFO  23:29:29,871 - #15 r
+INFO  23:29:29,871 - #5 ;
+INFO  23:29:29,871 - #15 int
+INFO  23:29:29,871 - #15 p
+INFO  23:29:29,872 - #5 ;
+INFO  23:29:29,872 - #23 const
+INFO  23:29:29,873 - #15 char
+INFO  23:29:29,873 - #15 charConst
+INFO  23:29:29,873 - #8 =
+INFO  23:29:29,874 - #19 m
+INFO  23:29:29,874 - #5 ;
+INFO  23:29:29,874 - #23 const
+INFO  23:29:29,874 - #15 bool
+INFO  23:29:29,874 - #15 boolConst
+INFO  23:29:29,874 - #8 =
+INFO  23:29:29,874 - #16 true
+INFO  23:29:29,874 - #5 ;
+INFO  23:29:29,874 - #15 bool
+INFO  23:29:29,874 - #15 uslov
+INFO  23:29:29,874 - #8 =
+ERROR 23:29:29,874 - 
+Sintaksna greska na liniji 8
+INFO  23:29:29,875 - #16 false
+INFO  23:29:29,875 - #5 ;
+INFO  23:29:29,875 - #3 {
+INFO  23:29:29,875 - #15 int
+INFO  23:29:29,875 - #15 k
+ERROR 23:29:29,875 - Izvrsen oporavak do ; ili , u liniji 8
+INFO  23:29:29,877 - #6 (
+INFO  23:29:29,877 - #7 )
+INFO  23:29:29,878 - #15 int
+INFO  23:29:29,878 - #15 y
+INFO  23:29:29,878 - #5 ;
+INFO  23:29:29,878 - #3 {
+INFO  23:29:29,879 - #15 y
+INFO  23:29:29,879 - #8 =
+INFO  23:29:29,880 - #14 6
+INFO  23:29:29,881 - #5 ;
+INFO  23:29:29,882 - #15 x
+INFO  23:29:29,883 - #41 ++
+INFO  23:29:29,883 - #5 ;
+INFO  23:29:29,883 - #15 y
+INFO  23:29:29,883 - #42 --
+INFO  23:29:29,883 - #5 ;
+INFO  23:29:29,883 - #25 read
+INFO  23:29:29,887 - #6 (
+INFO  23:29:29,887 - #15 x
+INFO  23:29:29,887 - #7 )
+INFO  23:29:29,887 - #5 ;
+INFO  23:29:29,887 - #11 print
+INFO  23:29:29,887 - #6 (
+INFO  23:29:29,887 - #14 3
+INFO  23:29:29,887 - #7 )
+INFO  23:29:29,887 - #5 ;
+INFO  23:29:29,887 - #11 print
+INFO  23:29:29,888 - #6 (
+INFO  23:29:29,888 - #15 x
+INFO  23:29:29,888 - #12 ,
+INFO  23:29:29,888 - #14 3
+INFO  23:29:29,888 - #7 )
+INFO  23:29:29,888 - #5 ;
+INFO  23:29:29,888 - #15 r
+INFO  23:29:29,888 - #8 =
+INFO  23:29:29,888 - #29 -
+INFO  23:29:29,888 - #15 numConst
+INFO  23:29:29,888 - #5 ;
+INFO  23:29:29,888 - #4 }
+INFO  23:29:29,888 - #13 void
+INFO  23:29:29,889 - #15 main
+INFO  23:29:29,889 - #6 (
+INFO  23:29:29,889 - #7 )
+INFO  23:29:29,890 - #3 {
+INFO  23:29:29,890 - #15 y
+INFO  23:29:29,890 - #8 =
+INFO  23:29:29,890 - #14 5
+INFO  23:29:29,890 - #5 ;
+INFO  23:29:29,890 - #4 }
+INFO  23:29:29,890 - #4 }
+INFO  23:29:29,906 - Program(
+  ProgName(
+   ParserTest
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyDeclList(
+        MyDeclList(
+          MyDeclList(
+            MyDeclList(
+              MyDeclList(
+                MyNoDeclList(
+                ) [MyNoDeclList]
+                VarDeclListElem(
+                  VarDecl(
+                    VarDeclType(
+                      Type(
+                       int
+                      ) [Type]
+                    ) [VarDeclType]
+                    VarDeclElemNoBraces(
+                     x
+                    ) [VarDeclElemNoBraces]
+                    MyVarDeclList(
+                      MyNoVarDeclList(
+                      ) [MyNoVarDeclList]
+                      VarDeclElemNoBraces(
+                       y
+                      ) [VarDeclElemNoBraces]
+                    ) [MyVarDeclList]
+                  ) [VarDecl]
+                ) [VarDeclListElem]
+              ) [MyDeclList]
+              ConstDeclListElem(
+                ConstDecl(
+                  ConstDeclType(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [ConstDeclType]
+                  ConstDeclElem(
+                   numConst
+                    NumConst(
+                     10
+                    ) [NumConst]
+                  ) [ConstDeclElem]
+                  MyNoConstDeclList(
+                  ) [MyNoConstDeclList]
+                ) [ConstDecl]
+              ) [ConstDeclListElem]
+            ) [MyDeclList]
+            VarDeclListElem(
+              VarDecl(
+                VarDeclType(
+                  Type(
+                   char
+                  ) [Type]
+                ) [VarDeclType]
+                VarDeclElemNoBraces(
+                 r
+                ) [VarDeclElemNoBraces]
+                MyNoVarDeclList(
+                ) [MyNoVarDeclList]
+              ) [VarDecl]
+            ) [VarDeclListElem]
+          ) [MyDeclList]
+          VarDeclListElem(
+            VarDecl(
+              VarDeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarDeclType]
+              VarDeclElemNoBraces(
+               p
+              ) [VarDeclElemNoBraces]
+              MyNoVarDeclList(
+              ) [MyNoVarDeclList]
+            ) [VarDecl]
+          ) [VarDeclListElem]
+        ) [MyDeclList]
+        ConstDeclListElem(
+          ConstDecl(
+            ConstDeclType(
+              Type(
+               char
+              ) [Type]
+            ) [ConstDeclType]
+            ConstDeclElem(
+             charConst
+              CharConst(
+               m
+              ) [CharConst]
+            ) [ConstDeclElem]
+            MyNoConstDeclList(
+            ) [MyNoConstDeclList]
+          ) [ConstDecl]
+        ) [ConstDeclListElem]
+      ) [MyDeclList]
+      ConstDeclListElem(
+        ConstDecl(
+          ConstDeclType(
+            Type(
+             bool
+            ) [Type]
+          ) [ConstDeclType]
+          ConstDeclElem(
+           boolConst
+            BoolConst(
+             true
+            ) [BoolConst]
+          ) [ConstDeclElem]
+          MyNoConstDeclList(
+          ) [MyNoConstDeclList]
+        ) [ConstDecl]
+      ) [ConstDeclListElem]
+    ) [MyDeclList]
+    VarDeclListElem(
+      VarDecl(
+        VarDeclType(
+          Type(
+           bool
+          ) [Type]
+        ) [VarDeclType]
+        ErrorStmt(
+        ) [ErrorStmt]
+        MyNoVarDeclList(
+        ) [MyNoVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeNameRet(
+          Type(
+           int
+          ) [Type]
+         k
+        ) [MethodTypeNameRet]
+        NoFormParam(
+        ) [NoFormParam]
+        MyDeclListVar(
+          MyNoDeclListVar(
+          ) [MyNoDeclListVar]
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            VarDeclElemNoBraces(
+             y
+            ) [VarDeclElemNoBraces]
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+          ) [VarDecl]
+        ) [MyDeclListVar]
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                Statements(
+                  Statements(
+                    Statements(
+                      NoStmt(
+                      ) [NoStmt]
+                      StatementDesStat(
+                        DesignatorStatementAssign(
+                          DesAssStmtm(
+                            Design(
+                             y
+                              Variable(
+                              ) [Variable]
+                            ) [Design]
+                            Assign(
+                            ) [Assign]
+                            NoMinusExpr(
+                              Terms(
+                                NumberFactor(
+                                 6
+                                ) [NumberFactor]
+                                MyNoTermList(
+                                ) [MyNoTermList]
+                              ) [Terms]
+                              MyNoExprList(
+                              ) [MyNoExprList]
+                            ) [NoMinusExpr]
+                          ) [DesAssStmtm]
+                        ) [DesignatorStatementAssign]
+                      ) [StatementDesStat]
+                    ) [Statements]
+                    StatementDesStat(
+                      DesignatorStatementINC(
+                        Design(
+                         x
+                          Variable(
+                          ) [Variable]
+                        ) [Design]
+                      ) [DesignatorStatementINC]
+                    ) [StatementDesStat]
+                  ) [Statements]
+                  StatementDesStat(
+                    DesignatorStatementDEC(
+                      Design(
+                       y
+                        Variable(
+                        ) [Variable]
+                      ) [Design]
+                    ) [DesignatorStatementDEC]
+                  ) [StatementDesStat]
+                ) [Statements]
+                StatementRead(
+                  Design(
+                   x
+                    Variable(
+                    ) [Variable]
+                  ) [Design]
+                ) [StatementRead]
+              ) [Statements]
+              StatementPrint(
+                NoMinusExpr(
+                  Terms(
+                    NumberFactor(
+                     3
+                    ) [NumberFactor]
+                    MyNoTermList(
+                    ) [MyNoTermList]
+                  ) [Terms]
+                  MyNoExprList(
+                  ) [MyNoExprList]
+                ) [NoMinusExpr]
+              ) [StatementPrint]
+            ) [Statements]
+            StatementPrintNumber(
+              NoMinusExpr(
+                Terms(
+                  Var(
+                    Design(
+                     x
+                      Variable(
+                      ) [Variable]
+                    ) [Design]
+                  ) [Var]
+                  MyNoTermList(
+                  ) [MyNoTermList]
+                ) [Terms]
+                MyNoExprList(
+                ) [MyNoExprList]
+              ) [NoMinusExpr]
+             3
+            ) [StatementPrintNumber]
+          ) [Statements]
+          StatementDesStat(
+            DesignatorStatementAssign(
+              DesAssStmtm(
+                Design(
+                 r
+                  Variable(
+                  ) [Variable]
+                ) [Design]
+                Assign(
+                ) [Assign]
+                MinusExpr(
+                  Terms(
+                    Var(
+                      Design(
+                       numConst
+                        Variable(
+                        ) [Variable]
+                      ) [Design]
+                    ) [Var]
+                    MyNoTermList(
+                    ) [MyNoTermList]
+                  ) [Terms]
+                  MyNoExprList(
+                  ) [MyNoExprList]
+                ) [MinusExpr]
+              ) [DesAssStmtm]
+            ) [DesignatorStatementAssign]
+          ) [StatementDesStat]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyNoDeclListVar(
+      ) [MyNoDeclListVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        StatementDesStat(
+          DesignatorStatementAssign(
+            DesAssStmtm(
+              Design(
+               y
+                Variable(
+                ) [Variable]
+              ) [Design]
+              Assign(
+              ) [Assign]
+              NoMinusExpr(
+                Terms(
+                  NumberFactor(
+                   5
+                  ) [NumberFactor]
+                  MyNoTermList(
+                  ) [MyNoTermList]
+                ) [Terms]
+                MyNoExprList(
+                ) [MyNoExprList]
+              ) [NoMinusExpr]
+            ) [DesAssStmtm]
+          ) [DesignatorStatementAssign]
+        ) [StatementDesStat]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:29:29,908 - ===================================
+INFO  23:29:29,912 - Deklarisana promenljiva x na liniji 2
+INFO  23:29:29,912 - Deklarisana promenljiva y na liniji 2
+INFO  23:29:29,912 - Deklarisana konstanta tipa int numConst na liniji 3
+INFO  23:29:29,913 - Deklarisana promenljiva r na liniji 4
+INFO  23:29:29,913 - Deklarisana promenljiva p na liniji 5
+INFO  23:29:29,913 - Deklarisana konstanta tipa char charConst na liniji 6
+INFO  23:29:29,913 - Deklarisana konstanta tipa bool boolConst na liniji 7
+INFO  23:29:29,913 - Obradjuje se funkcija sa return iskazom k na liniji 13
+INFO  23:29:29,913 - Deklarisana promenljiva y na liniji 13
+ERROR 23:29:29,914 - Greska na liniji 20 Tip designatora kome se dodeljuje vrednost mora biti kompatibilan sa tipom vrednosti koja mu se dodeljuje!
+ERROR 23:29:29,914 - Semanticka greska na liniji 13: funkcija k nema return iskaz!
+INFO  23:29:29,914 - Obradjuje se funkcija bez return iskaza main na liniji 23
+INFO  23:29:29,914 -  Print count calls = 2
+INFO  23:29:29,914 -  Deklarisanih promenljivih ima = 5
+INFO  23:29:29,914 - ===================================
+ERROR 23:29:29,915 - Parsiranje NIJE uspesno zavrseno!

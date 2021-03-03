@@ -1,0 +1,68 @@
+// Test301
+
+program test301
+
+	class Klasa {
+		public int k;
+		public int niz[];
+		public char z;
+		{
+			public int fja(int x,char y){
+			 	k = x;
+			 	this.k = x + k ;
+			 	return k;
+			}
+		}
+	}
+	
+	class Klasa1 extends Klasa {
+		{
+			public int sum(int a,int b){
+				z='a';
+				return a + b;
+			}
+			public int fja(int x,char y){
+			 	k = x;
+			 	this.k = (x + k)*(-2) ;
+			 	
+			 	
+			 	return sum(k,k);
+			}
+		}
+	}
+	
+	char niz[];
+	const int size = 26;
+	int i,j;
+	
+	int a[];
+	
+	Klasa k;
+	
+{
+	
+	void proba(Klasa k){
+		k.z = 'X';
+	}
+	void main()	
+	{
+	
+		
+		i=-1;
+		//k = new Klasa;
+		//i = k.fja(5,'?');
+		
+		k = new Klasa1;
+		i = k.fja(5,'?');
+		print(i);
+		
+		print(k.k);
+		
+		print(k.z);
+		
+		proba(k);
+		
+		print(k.z);
+		
+	}
+}

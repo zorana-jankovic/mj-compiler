@@ -1,0 +1,122 @@
+INFO  03:49:50,232 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  03:49:50,244 - #2 program
+INFO  03:49:50,244 - #15 MJProgram
+INFO  03:49:50,244 - #15 int
+INFO  03:49:50,244 - #15 x
+INFO  03:49:50,244 - #5 ;
+INFO  03:49:50,251 - #15 int
+INFO  03:49:50,251 - #15 y
+INFO  03:49:50,251 - #5 ;
+INFO  03:49:50,251 - #3 {
+INFO  03:49:50,251 - #15 int
+INFO  03:49:50,251 - #15 main
+INFO  03:49:50,251 - #6 (
+INFO  03:49:50,251 - #7 )
+INFO  03:49:50,251 - #3 {
+INFO  03:49:50,251 - #11 print
+INFO  03:49:50,251 - #6 (
+INFO  03:49:50,251 - #14 1
+INFO  03:49:50,251 - #7 )
+INFO  03:49:50,251 - #5 ;
+INFO  03:49:50,251 - #15 x
+INFO  03:49:50,251 - #8 =
+INFO  03:49:50,251 - #15 y
+INFO  03:49:50,251 - #10 +
+INFO  03:49:50,251 - #14 5
+INFO  03:49:50,251 - #5 ;
+INFO  03:49:50,251 - #11 print
+INFO  03:49:50,251 - #6 (
+INFO  03:49:50,251 - #14 2
+INFO  03:49:50,251 - #7 )
+INFO  03:49:50,251 - #5 ;
+INFO  03:49:50,251 - #4 }
+INFO  03:49:50,251 - #4 }
+INFO  03:49:50,264 - Program(
+ MJProgram
+  VarDeclarations(
+    VarDeclarations(
+      NoVarDecl(
+      ) [NoVarDecl]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+       x
+      ) [VarDecl]
+    ) [VarDeclarations]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+     y
+    ) [VarDecl]
+  ) [VarDeclarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      Type(
+       int
+      ) [Type]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          Statements(
+            NoStmt(
+            ) [NoStmt]
+            PrintStmt(
+              TermExpr(
+                Term(
+                  Const(
+                   1
+                  ) [Const]
+                ) [Term]
+              ) [TermExpr]
+            ) [PrintStmt]
+          ) [Statements]
+          Assignment(
+            Designator(
+             x
+            ) [Designator]
+            AddExpr(
+              TermExpr(
+                Term(
+                  Var(
+                    Designator(
+                     y
+                    ) [Designator]
+                  ) [Var]
+                ) [Term]
+              ) [TermExpr]
+              Addop(
+              ) [Addop]
+              Term(
+                Const(
+                 5
+                ) [Const]
+              ) [Term]
+            ) [AddExpr]
+          ) [Assignment]
+        ) [Statements]
+        PrintStmt(
+          TermExpr(
+            Term(
+              Const(
+               2
+              ) [Const]
+            ) [Term]
+          ) [TermExpr]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:49:50,264 - ===================================
+INFO  03:49:50,264 - Prepoznata naredba print!
+INFO  03:49:50,264 - Prepoznata naredba print!
+INFO  03:49:50,264 -  Print count calls = 2
+INFO  03:49:50,264 -  Deklarisanih promenljivih ima = 2

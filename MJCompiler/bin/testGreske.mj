@@ -1,0 +1,68 @@
+// Test301
+
+program test301
+	char niz[];
+	const int size = 26;
+	int i,j;
+	
+	int b; 
+	int a[];
+	
+
+	abstract class Postavljac
+	{
+		{
+			public abstract int postavi();
+			public abstract int eee se();	//greska kod abs metode
+		}
+	}
+	
+	class Klasa extends Postavljac{
+		public int k;
+		public int i;	
+		public int niz[];
+		{
+		public void postavix(int x){
+			i=x;
+		}
+		}
+	}
+	
+	class Klasa1 extends e Klasa{	//greska u extends
+		public char k;
+		{
+		public int postavi(){
+			this.k = 'a';
+			return 10;
+		}
+		public void pisi(){
+			print(k);
+			print('X');
+		}
+		}
+	}
+	
+
+	
+{
+ 	void uradi(Postavljac k1 ,, Postavljac k2){	//greska u parametrima fje
+ 		if (k2!=null && k1!=null){
+ 			print(k1.postavi());
+ 			print(k2.postavi());
+ 		}
+ 	}
+	
+	void main()	
+	int niz[];
+	int e;
+	int d ,; //greska u definisanju lokalne
+	{
+		e = 3 +;	//greska u iskazu dodele
+		
+		print(eol);
+		
+		for (e = 10;e > ; e--){	//greska u uslovu u foru
+		 	e = 7;
+		}
+	}
+}

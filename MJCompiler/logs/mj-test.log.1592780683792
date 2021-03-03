@@ -1,0 +1,389 @@
+INFO  01:02:09,323 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\example1.mj
+INFO  01:02:09,403 - #2 program
+INFO  01:02:09,403 - #15 P
+INFO  01:02:09,404 - #23 const
+INFO  01:02:09,405 - #15 int
+INFO  01:02:09,405 - #15 size
+INFO  01:02:09,406 - #8 =
+INFO  01:02:09,406 - #14 10
+INFO  01:02:09,406 - #5 ;
+INFO  01:02:09,407 - #22 abstract
+INFO  01:02:09,409 - #21 class
+INFO  01:02:09,409 - #15 Tab
+INFO  01:02:09,409 - #3 {
+INFO  01:02:09,413 - #55 public
+INFO  01:02:09,414 - #15 int
+INFO  01:02:09,415 - #15 size
+INFO  01:02:09,415 - #5 ;
+INFO  01:02:09,417 - #3 {
+INFO  01:02:09,418 - #55 public
+INFO  01:02:09,419 - #22 abstract
+INFO  01:02:09,419 - #15 int
+INFO  01:02:09,422 - #15 getp
+INFO  01:02:09,422 - #6 (
+INFO  01:02:09,422 - #15 int
+INFO  01:02:09,422 - #15 i
+INFO  01:02:09,422 - #7 )
+INFO  01:02:09,422 - #5 ;
+INFO  01:02:09,422 - #55 public
+INFO  01:02:09,423 - #22 abstract
+INFO  01:02:09,423 - #15 int
+INFO  01:02:09,423 - #15 getn
+INFO  01:02:09,423 - #6 (
+INFO  01:02:09,423 - #15 int
+INFO  01:02:09,423 - #15 i
+INFO  01:02:09,423 - #7 )
+INFO  01:02:09,423 - #5 ;
+INFO  01:02:09,423 - #55 public
+INFO  01:02:09,423 - #15 int
+INFO  01:02:09,423 - #15 getSize
+INFO  01:02:09,423 - #6 (
+INFO  01:02:09,423 - #7 )
+INFO  01:02:09,424 - #3 {
+INFO  01:02:09,424 - #9 return
+INFO  01:02:09,425 - #15 size
+INFO  01:02:09,425 - #5 ;
+INFO  01:02:09,428 - #4 }
+INFO  01:02:09,429 - #4 }
+INFO  01:02:09,430 - #4 }
+INFO  01:02:09,431 - #21 class
+INFO  01:02:09,431 - #15 Table
+INFO  01:02:09,431 - #27 extends
+INFO  01:02:09,431 - #15 Tab
+INFO  01:02:09,431 - #3 {
+INFO  01:02:09,431 - #55 public
+INFO  01:02:09,432 - #15 int
+INFO  01:02:09,432 - #15 pos
+INFO  01:02:09,432 - #44 [
+INFO  01:02:09,432 - #45 ]
+INFO  01:02:09,432 - #12 ,
+INFO  01:02:09,436 - #15 neg
+INFO  01:02:09,436 - #44 [
+INFO  01:02:09,436 - #45 ]
+INFO  01:02:09,436 - #5 ;
+INFO  01:02:09,436 - #3 {
+INFO  01:02:09,436 - #55 public
+INFO  01:02:09,437 - #13 void
+INFO  01:02:09,437 - #15 putp
+INFO  01:02:09,437 - #6 (
+INFO  01:02:09,437 - #15 int
+INFO  01:02:09,437 - #15 a
+INFO  01:02:09,437 - #12 ,
+INFO  01:02:09,437 - #15 int
+INFO  01:02:09,437 - #15 idx
+INFO  01:02:09,437 - #7 )
+INFO  01:02:09,437 - #3 {
+INFO  01:02:09,437 - #15 this
+INFO  01:02:09,437 - #43 .
+INFO  01:02:09,437 - #15 pos
+INFO  01:02:09,437 - #44 [
+INFO  01:02:09,438 - #15 idx
+INFO  01:02:09,438 - #45 ]
+INFO  01:02:09,438 - #8 =
+INFO  01:02:09,438 - #15 a
+INFO  01:02:09,438 - #5 ;
+INFO  01:02:09,439 - #4 }
+INFO  01:02:09,439 - #55 public
+INFO  01:02:09,439 - #13 void
+INFO  01:02:09,439 - #15 putn
+INFO  01:02:09,439 - #6 (
+INFO  01:02:09,439 - #15 int
+INFO  01:02:09,439 - #15 a
+INFO  01:02:09,439 - #12 ,
+INFO  01:02:09,439 - #15 int
+INFO  01:02:09,440 - #15 idx
+INFO  01:02:09,440 - #7 )
+INFO  01:02:09,440 - #3 {
+INFO  01:02:09,440 - #15 this
+INFO  01:02:09,440 - #43 .
+INFO  01:02:09,440 - #15 neg
+INFO  01:02:09,440 - #44 [
+INFO  01:02:09,440 - #15 idx
+INFO  01:02:09,440 - #45 ]
+INFO  01:02:09,440 - #8 =
+INFO  01:02:09,440 - #15 a
+INFO  01:02:09,440 - #5 ;
+INFO  01:02:09,441 - #4 }
+INFO  01:02:09,441 - #55 public
+INFO  01:02:09,441 - #15 int
+INFO  01:02:09,441 - #15 getp
+INFO  01:02:09,441 - #6 (
+INFO  01:02:09,441 - #15 int
+INFO  01:02:09,441 - #15 idx
+INFO  01:02:09,441 - #7 )
+INFO  01:02:09,441 - #3 {
+INFO  01:02:09,441 - #9 return
+INFO  01:02:09,441 - #15 pos
+INFO  01:02:09,441 - #44 [
+INFO  01:02:09,441 - #15 idx
+INFO  01:02:09,441 - #45 ]
+INFO  01:02:09,441 - #5 ;
+INFO  01:02:09,441 - #4 }
+INFO  01:02:09,441 - #55 public
+INFO  01:02:09,441 - #15 int
+INFO  01:02:09,441 - #15 getn
+INFO  01:02:09,441 - #6 (
+INFO  01:02:09,442 - #15 int
+INFO  01:02:09,442 - #15 idx
+INFO  01:02:09,442 - #7 )
+INFO  01:02:09,442 - #3 {
+INFO  01:02:09,442 - #9 return
+INFO  01:02:09,442 - #15 neg
+INFO  01:02:09,442 - #44 [
+INFO  01:02:09,442 - #15 idx
+INFO  01:02:09,442 - #45 ]
+INFO  01:02:09,442 - #5 ;
+INFO  01:02:09,442 - #4 }
+INFO  01:02:09,443 - #4 }
+INFO  01:02:09,443 - #4 }
+INFO  01:02:09,443 - #15 Table
+INFO  01:02:09,444 - #15 val
+INFO  01:02:09,444 - #5 ;
+INFO  01:02:09,444 - #3 {
+INFO  01:02:09,444 - #13 void
+INFO  01:02:09,445 - #15 f
+INFO  01:02:09,445 - #6 (
+INFO  01:02:09,445 - #15 char
+INFO  01:02:09,445 - #15 ch
+INFO  01:02:09,445 - #12 ,
+INFO  01:02:09,445 - #15 int
+INFO  01:02:09,445 - #15 a
+INFO  01:02:09,445 - #12 ,
+INFO  01:02:09,445 - #15 int
+INFO  01:02:09,445 - #15 arg
+INFO  01:02:09,446 - #7 )
+INFO  01:02:09,446 - #15 int
+INFO  01:02:09,446 - #15 x
+INFO  01:02:09,446 - #5 ;
+INFO  01:02:09,446 - #3 {
+INFO  01:02:09,446 - #15 x
+INFO  01:02:09,446 - #8 =
+INFO  01:02:09,446 - #15 arg
+INFO  01:02:09,446 - #5 ;
+INFO  01:02:09,447 - #4 }
+INFO  01:02:09,447 - #13 void
+INFO  01:02:09,447 - #15 main
+INFO  01:02:09,447 - #6 (
+INFO  01:02:09,447 - #7 )
+INFO  01:02:09,447 - #15 int
+INFO  01:02:09,447 - #15 x
+INFO  01:02:09,447 - #12 ,
+INFO  01:02:09,447 - #15 i
+INFO  01:02:09,447 - #5 ;
+INFO  01:02:09,447 - #15 char
+INFO  01:02:09,447 - #15 c
+INFO  01:02:09,447 - #5 ;
+INFO  01:02:09,447 - #3 {
+INFO  01:02:09,447 - #15 val
+INFO  01:02:09,447 - #8 =
+INFO  01:02:09,447 - #24 new
+INFO  01:02:09,447 - #15 Table
+INFO  01:02:09,447 - #5 ;
+INFO  01:02:09,447 - #15 val
+INFO  01:02:09,448 - #43 .
+INFO  01:02:09,448 - #15 pos
+INFO  01:02:09,448 - #8 =
+INFO  01:02:09,448 - #24 new
+INFO  01:02:09,448 - #15 int
+INFO  01:02:09,448 - #44 [
+INFO  01:02:09,448 - #15 size
+INFO  01:02:09,448 - #45 ]
+INFO  01:02:09,448 - #5 ;
+INFO  01:02:09,448 - #15 val
+INFO  01:02:09,448 - #43 .
+INFO  01:02:09,448 - #15 neg
+INFO  01:02:09,448 - #8 =
+INFO  01:02:09,448 - #24 new
+INFO  01:02:09,448 - #15 int
+INFO  01:02:09,448 - #44 [
+INFO  01:02:09,448 - #15 size
+INFO  01:02:09,448 - #45 ]
+INFO  01:02:09,448 - #5 ;
+INFO  01:02:09,448 - #26 for
+INFO  01:02:09,448 - #6 (
+INFO  01:02:09,448 - #15 i
+INFO  01:02:09,448 - #8 =
+INFO  01:02:09,449 - #14 0
+INFO  01:02:09,449 - #5 ;
+INFO  01:02:09,449 - #15 i
+INFO  01:02:09,449 - #37 <
+INFO  01:02:09,449 - #15 size
+INFO  01:02:09,450 - #5 ;
+INFO  01:02:09,451 - #15 i
+INFO  01:02:09,451 - #41 ++
+INFO  01:02:09,452 - #7 )
+INFO  01:02:09,452 - #3 {
+INFO  01:02:09,452 - #15 val
+INFO  01:02:09,452 - #43 .
+INFO  01:02:09,452 - #15 putp
+INFO  01:02:09,452 - #6 (
+INFO  01:02:09,452 - #14 0
+INFO  01:02:09,452 - #12 ,
+INFO  01:02:09,453 - #15 i
+INFO  01:02:09,453 - #7 )
+INFO  01:02:09,453 - #5 ;
+INFO  01:02:09,453 - #15 val
+INFO  01:02:09,453 - #43 .
+INFO  01:02:09,453 - #15 putn
+INFO  01:02:09,453 - #6 (
+INFO  01:02:09,453 - #14 0
+INFO  01:02:09,453 - #12 ,
+INFO  01:02:09,454 - #15 i
+INFO  01:02:09,454 - #7 )
+INFO  01:02:09,454 - #5 ;
+INFO  01:02:09,454 - #4 }
+INFO  01:02:09,454 - #15 f
+INFO  01:02:09,455 - #6 (
+INFO  01:02:09,455 - #15 c
+INFO  01:02:09,456 - #12 ,
+INFO  01:02:09,456 - #15 x
+INFO  01:02:09,456 - #12 ,
+INFO  01:02:09,456 - #15 i
+INFO  01:02:09,456 - #7 )
+INFO  01:02:09,456 - #5 ;
+INFO  01:02:09,456 - #25 read
+INFO  01:02:09,456 - #6 (
+INFO  01:02:09,456 - #15 x
+INFO  01:02:09,456 - #7 )
+INFO  01:02:09,456 - #5 ;
+INFO  01:02:09,456 - #26 for
+INFO  01:02:09,456 - #6 (
+INFO  01:02:09,456 - #5 ;
+INFO  01:02:09,457 - #15 x
+INFO  01:02:09,457 - #35 >
+INFO  01:02:09,457 - #14 0
+INFO  01:02:09,457 - #5 ;
+INFO  01:02:09,457 - #7 )
+INFO  01:02:09,458 - #3 {
+INFO  01:02:09,458 - #17 if
+INFO  01:02:09,458 - #6 (
+INFO  01:02:09,458 - #14 0
+INFO  01:02:09,458 - #38 <=
+INFO  01:02:09,458 - #15 x
+INFO  01:02:09,459 - #39 &&
+INFO  01:02:09,459 - #15 x
+INFO  01:02:09,459 - #37 <
+INFO  01:02:09,459 - #15 size
+INFO  01:02:09,460 - #7 )
+INFO  01:02:09,460 - #3 {
+INFO  01:02:09,460 - #15 val
+INFO  01:02:09,460 - #43 .
+INFO  01:02:09,460 - #15 putp
+INFO  01:02:09,460 - #6 (
+INFO  01:02:09,460 - #15 val
+INFO  01:02:09,460 - #43 .
+INFO  01:02:09,460 - #15 getp
+INFO  01:02:09,461 - #6 (
+INFO  01:02:09,461 - #15 x
+INFO  01:02:09,461 - #7 )
+INFO  01:02:09,461 - #10 +
+INFO  01:02:09,461 - #14 1
+INFO  01:02:09,462 - #7 )
+INFO  01:02:09,462 - #5 ;
+INFO  01:02:09,462 - #4 }
+INFO  01:02:09,462 - #18 else
+INFO  01:02:09,463 - #17 if
+INFO  01:02:09,463 - #6 (
+INFO  01:02:09,463 - #29 -
+INFO  01:02:09,463 - #15 size
+INFO  01:02:09,463 - #37 <
+INFO  01:02:09,464 - #15 x
+INFO  01:02:09,464 - #39 &&
+INFO  01:02:09,465 - #15 x
+INFO  01:02:09,465 - #37 <
+INFO  01:02:09,465 - #14 0
+INFO  01:02:09,465 - #7 )
+INFO  01:02:09,465 - #3 {
+INFO  01:02:09,465 - #15 val
+INFO  01:02:09,465 - #43 .
+INFO  01:02:09,465 - #15 putn
+INFO  01:02:09,465 - #6 (
+INFO  01:02:09,465 - #15 val
+INFO  01:02:09,465 - #43 .
+INFO  01:02:09,465 - #15 getn
+INFO  01:02:09,465 - #6 (
+INFO  01:02:09,465 - #29 -
+INFO  01:02:09,465 - #15 x
+INFO  01:02:09,465 - #7 )
+INFO  01:02:09,465 - #10 +
+INFO  01:02:09,465 - #14 1
+INFO  01:02:09,465 - #7 )
+INFO  01:02:09,465 - #5 ;
+INFO  01:02:09,465 - #4 }
+INFO  01:02:09,465 - #25 read
+INFO  01:02:09,465 - #6 (
+INFO  01:02:09,466 - #15 x
+INFO  01:02:09,466 - #7 )
+INFO  01:02:09,466 - #5 ;
+INFO  01:02:09,466 - #4 }
+INFO  01:02:09,466 - #4 }
+INFO  01:02:09,466 - #4 }
+INFO  01:02:09,472 - ===================================
+INFO  01:02:09,477 - Deklarisana konstanta tipa int size na liniji 2
+INFO  01:02:09,478 - Obradjuje se unutrasnja apstraktna klasa programa Tab na liniji 3
+INFO  01:02:09,478 - Deklarisano polje klase  size na liniji 4
+INFO  01:02:09,478 - Obradjuje se deklaracija apstraktne funkcije sa return iskazom getp na liniji 6
+INFO  01:02:09,479 - Deklarisan formalni parametar i funkcije:getp na liniji 6
+INFO  01:02:09,479 - Obradjuje se deklaracija apstraktne funkcije sa return iskazom getn na liniji 7
+INFO  01:02:09,480 - Deklarisan formalni parametar i funkcije:getn na liniji 7
+INFO  01:02:09,480 - Obradjuje se funkcija sa return iskazom getSize na liniji 8
+INFO  01:02:09,480 - Detektovan pristup polju klase:   size na liniji 8 na liniji 8
+INFO  01:02:09,481 - Obradjuje se unutrasnja klasa programa Table na liniji 11
+INFO  01:02:09,481 - Deklarisan polje klase pos na liniji 12
+INFO  01:02:09,481 - Deklarisan polje klase neg na liniji 12
+INFO  01:02:09,481 - Obradjuje se funkcija bez return iskaza putp na liniji 14
+INFO  01:02:09,481 - Deklarisan formalni parametar a funkcije:putp na liniji 14
+INFO  01:02:09,481 - Deklarisan formalni parametar idx funkcije:putp na liniji 14
+INFO  01:02:09,481 - Detektovan pristup polju klase:  pos na liniji 14 na liniji 14
+INFO  01:02:09,481 - Detektovan pristup elementu niza:   pos na liniji 14 na liniji 14
+INFO  01:02:09,481 - Obradjuje se funkcija bez return iskaza putn na liniji 15
+INFO  01:02:09,482 - Deklarisan formalni parametar a funkcije:putn na liniji 15
+INFO  01:02:09,482 - Deklarisan formalni parametar idx funkcije:putn na liniji 15
+INFO  01:02:09,482 - Detektovan pristup polju klase:  neg na liniji 15 na liniji 15
+INFO  01:02:09,482 - Detektovan pristup elementu niza:   neg na liniji 15 na liniji 15
+INFO  01:02:09,482 - Obradjuje se funkcija sa return iskazom getp na liniji 16
+INFO  01:02:09,482 - Deklarisan formalni parametar idx funkcije:getp na liniji 16
+INFO  01:02:09,482 - Detektovan pristup elementu niza:   pos na liniji 16 na liniji 16
+INFO  01:02:09,482 - Obradjuje se funkcija sa return iskazom getn na liniji 17
+INFO  01:02:09,482 - Deklarisan formalni parametar idx funkcije:getn na liniji 17
+INFO  01:02:09,482 - Detektovan pristup elementu niza:   neg na liniji 17 na liniji 17
+ERROR 01:02:09,482 - Semanticka greska na liniji 11: klasa izvedena iz apstraktne klase mora implementirati sve njene apstraktne metode!
+INFO  01:02:09,482 - Deklarisana promenljiva val na liniji 20
+INFO  01:02:09,482 - Obradjuje se funkcija bez return iskaza f na liniji 22
+INFO  01:02:09,482 - Deklarisan formalni parametar ch funkcije:f na liniji 22
+INFO  01:02:09,482 - Deklarisan formalni parametar a funkcije:f na liniji 22
+INFO  01:02:09,482 - Deklarisan formalni parametar arg funkcije:f na liniji 22
+INFO  01:02:09,482 - Deklarisana promenljiva x na liniji 23
+INFO  01:02:09,482 - Obradjuje se funkcija bez return iskaza main na liniji 28
+INFO  01:02:09,483 - Deklarisana promenljiva x na liniji 29
+INFO  01:02:09,483 - Deklarisana promenljiva i na liniji 29
+INFO  01:02:09,483 - Deklarisana promenljiva c na liniji 30
+INFO  01:02:09,483 - Detektovan pristup globalnoj promenljivoj:   val na liniji 32 na liniji 32
+INFO  01:02:09,483 - Detektovan pristup polju klase:  pos na liniji 33 na liniji 33
+INFO  01:02:09,483 - Detektovan pristup polju klase:   pos na liniji 33 na liniji 33
+INFO  01:02:09,483 - Detektovan pristup simbolickoj konstanti:   size na liniji 33 na liniji 33
+INFO  01:02:09,483 - Detektovan pristup polju klase:  neg na liniji 34 na liniji 34
+INFO  01:02:09,483 - Detektovan pristup polju klase:   neg na liniji 34 na liniji 34
+INFO  01:02:09,483 - Detektovan pristup simbolickoj konstanti:   size na liniji 34 na liniji 34
+INFO  01:02:09,483 - Detektovan pristup simbolickoj konstanti:   size na liniji 35 na liniji 35
+INFO  01:02:09,483 - Detektovan pristup polju klase:  putp na liniji 37 na liniji 37
+INFO  01:02:09,483 - Detektovan poziv  metoda unutrasnje klase:   putp na liniji 37 na liniji 37
+INFO  01:02:09,483 - Detektovan pristup polju klase:  putn na liniji 38 na liniji 38
+INFO  01:02:09,484 - Detektovan poziv  metoda unutrasnje klase:   putn na liniji 38 na liniji 38
+INFO  01:02:09,484 - Detektovan poziv  globalne f-je:   f na liniji 40 na liniji 40
+INFO  01:02:09,484 - Detektovan pristup simbolickoj konstanti:   size na liniji 45 na liniji 45
+INFO  01:02:09,484 - Detektovan pristup polju klase:  putp na liniji 47 na liniji 47
+INFO  01:02:09,484 - Detektovan poziv  metoda unutrasnje klase:   putp na liniji 47 na liniji 47
+INFO  01:02:09,484 - Detektovan pristup polju klase:  getp na liniji 47 na liniji 47
+INFO  01:02:09,484 - Detektovan poziv  metoda unutrasnje klase:   getp na liniji 47 na liniji 47
+ERROR 01:02:09,484 - Greska na liniji 47 Broj formalnih parametara funkcije i broj agrumenata poziva se ne podudaraju!
+INFO  01:02:09,484 - Detektovan pristup simbolickoj konstanti:   size na liniji 49 na liniji 49
+INFO  01:02:09,484 - Detektovan pristup polju klase:  putn na liniji 51 na liniji 51
+INFO  01:02:09,484 - Detektovan poziv  metoda unutrasnje klase:   putn na liniji 51 na liniji 51
+INFO  01:02:09,484 - Detektovan pristup polju klase:  getn na liniji 51 na liniji 51
+INFO  01:02:09,484 - Detektovan poziv  metoda unutrasnje klase:   getn na liniji 51 na liniji 51
+ERROR 01:02:09,485 - Greska na liniji 51 Broj formalnih parametara funkcije i broj agrumenata poziva se ne podudaraju!
+INFO  01:02:09,485 -  Print count calls = 0
+INFO  01:02:09,485 -  Deklarisanih promenljivih ima = 8
+INFO  01:02:09,485 - ===================================
+ERROR 01:02:09,485 - Parsiranje NIJE uspesno zavrseno!

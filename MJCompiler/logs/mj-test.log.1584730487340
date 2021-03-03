@@ -1,0 +1,97 @@
+INFO  19:53:51,420 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\parserProgram.mj
+INFO  19:53:51,469 - #2 program
+INFO  19:53:51,469 - #15 ParserTest
+INFO  19:53:51,470 - #15 int
+INFO  19:53:51,471 - #15 x
+INFO  19:53:51,473 - #12 ,
+INFO  19:53:51,474 - #15 y
+INFO  19:53:51,474 - #5 ;
+INFO  19:53:51,474 - #21 const
+INFO  19:53:51,477 - #15 int
+INFO  19:53:51,477 - #15 z
+INFO  19:53:51,477 - #8 =
+INFO  19:53:51,477 - #44 true
+INFO  19:53:51,477 - #5 ;
+INFO  19:53:51,479 - #15 cha
+INFO  19:53:51,481 - #15 r
+INFO  19:53:51,481 - #5 ;
+INFO  19:53:51,481 - #3 {
+INFO  19:53:51,481 - #13 void
+INFO  19:53:51,483 - #15 main
+INFO  19:53:51,483 - #6 (
+INFO  19:53:51,484 - #7 )
+INFO  19:53:51,485 - #3 {
+INFO  19:53:51,486 - #4 }
+INFO  19:53:51,486 - #4 }
+INFO  19:53:51,493 - Program(
+  ProgName(
+   ParserTest
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyDeclList(
+        MyNoDeclList(
+        ) [MyNoDeclList]
+        VarDeclListElem(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclElemNoBraces(
+             x
+            ) [VarDeclElemNoBraces]
+            MyVarDeclList(
+              MyNoVarDeclList(
+              ) [MyNoVarDeclList]
+              VarDeclElemNoBraces(
+               y
+              ) [VarDeclElemNoBraces]
+            ) [MyVarDeclList]
+          ) [VarDecl]
+        ) [VarDeclListElem]
+      ) [MyDeclList]
+      ConstDeclListElem(
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstDeclElem(
+           z
+            BoolConst(
+            ) [BoolConst]
+          ) [ConstDeclElem]
+          MyNoConstDeclList(
+          ) [MyNoConstDeclList]
+        ) [ConstDecl]
+      ) [ConstDeclListElem]
+    ) [MyDeclList]
+    VarDeclListElem(
+      VarDecl(
+        Type(
+         cha
+        ) [Type]
+        VarDeclElemNoBraces(
+         r
+        ) [VarDeclElemNoBraces]
+        MyNoVarDeclList(
+        ) [MyNoVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyNoDeclListVar(
+      ) [MyNoDeclListVar]
+      NoStmt(
+      ) [NoStmt]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:53:51,494 - ===================================

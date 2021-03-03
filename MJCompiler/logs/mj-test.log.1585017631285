@@ -1,0 +1,200 @@
+INFO  03:40:01,911 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\program.mj
+INFO  03:40:02,133 - #2 program
+INFO  03:40:02,133 - #15 MJProgram
+INFO  03:40:02,133 - #15 int
+INFO  03:40:02,135 - #15 x
+INFO  03:40:02,136 - #5 ;
+INFO  03:40:02,137 - #15 int
+INFO  03:40:02,139 - #15 y
+INFO  03:40:02,140 - #5 ;
+INFO  03:40:02,140 - #3 {
+INFO  03:40:02,140 - #13 void
+INFO  03:40:02,140 - #15 main
+INFO  03:40:02,141 - #6 (
+INFO  03:40:02,141 - #7 )
+INFO  03:40:02,141 - #3 {
+INFO  03:40:02,142 - #15 x
+INFO  03:40:02,142 - #8 =
+INFO  03:40:02,143 - #15 x
+INFO  03:40:02,144 - #10 +
+INFO  03:40:02,146 - #14 2
+INFO  03:40:02,148 - #30 *
+INFO  03:40:02,148 - #14 3
+INFO  03:40:02,154 - #30 *
+INFO  03:40:02,157 - #14 10
+INFO  03:40:02,158 - #31 /
+INFO  03:40:02,158 - #6 (
+INFO  03:40:02,159 - #14 6
+INFO  03:40:02,159 - #7 )
+INFO  03:40:02,159 - #5 ;
+INFO  03:40:02,160 - #11 print
+INFO  03:40:02,160 - #6 (
+INFO  03:40:02,160 - #15 x
+INFO  03:40:02,161 - #7 )
+INFO  03:40:02,161 - #5 ;
+INFO  03:40:02,161 - #4 }
+INFO  03:40:02,161 - #4 }
+INFO  03:40:02,179 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyNoDeclList(
+      ) [MyNoDeclList]
+      VarDeclListElem(
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           x
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    VarDeclListElem(
+      VarDecl(
+        VarDeclType(
+          Type(
+           int
+          ) [Type]
+        ) [VarDeclType]
+        VarDeclElemNoBraces(
+         y
+        ) [VarDeclElemNoBraces]
+        MyNoVarDeclList(
+        ) [MyNoVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyNoDeclListVar(
+      ) [MyNoDeclListVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          StatementDesStat(
+            DesignatorStatementAssign(
+              DesAssStmtm(
+                Design(
+                 x
+                  Variable(
+                  ) [Variable]
+                ) [Design]
+                Assign(
+                ) [Assign]
+                NoMinusExpr(
+                  Terms(
+                    Var(
+                      Design(
+                       x
+                        Variable(
+                        ) [Variable]
+                      ) [Design]
+                    ) [Var]
+                    MyNoTermList(
+                    ) [MyNoTermList]
+                  ) [Terms]
+                  MyExprList(
+                    MyNoExprList(
+                    ) [MyNoExprList]
+                    ExprListElems(
+                      Plus(
+                      ) [Plus]
+                      Terms(
+                        NumberFactor(
+                         2
+                        ) [NumberFactor]
+                        MyTermList(
+                          MyTermList(
+                            MyTermList(
+                              MyNoTermList(
+                              ) [MyNoTermList]
+                              TermListElems(
+                                Mul(
+                                ) [Mul]
+                                NumberFactor(
+                                 3
+                                ) [NumberFactor]
+                              ) [TermListElems]
+                            ) [MyTermList]
+                            TermListElems(
+                              Mul(
+                              ) [Mul]
+                              NumberFactor(
+                               10
+                              ) [NumberFactor]
+                            ) [TermListElems]
+                          ) [MyTermList]
+                          TermListElems(
+                            Div(
+                            ) [Div]
+                            ExprFactor(
+                              NoMinusExpr(
+                                Terms(
+                                  NumberFactor(
+                                   6
+                                  ) [NumberFactor]
+                                  MyNoTermList(
+                                  ) [MyNoTermList]
+                                ) [Terms]
+                                MyNoExprList(
+                                ) [MyNoExprList]
+                              ) [NoMinusExpr]
+                            ) [ExprFactor]
+                          ) [TermListElems]
+                        ) [MyTermList]
+                      ) [Terms]
+                    ) [ExprListElems]
+                  ) [MyExprList]
+                ) [NoMinusExpr]
+              ) [DesAssStmtm]
+            ) [DesignatorStatementAssign]
+          ) [StatementDesStat]
+        ) [Statements]
+        StatementPrint(
+          NoMinusExpr(
+            Terms(
+              Var(
+                Design(
+                 x
+                  Variable(
+                  ) [Variable]
+                ) [Design]
+              ) [Var]
+              MyNoTermList(
+              ) [MyNoTermList]
+            ) [Terms]
+            MyNoExprList(
+            ) [MyNoExprList]
+          ) [NoMinusExpr]
+        ) [StatementPrint]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:40:02,180 - ===================================
+INFO  03:40:02,183 - Deklarisana promenljiva x na liniji 2
+INFO  03:40:02,184 - Deklarisana promenljiva y na liniji 2
+INFO  03:40:02,184 - Obradjuje se funkcija bez return iskaza main na liniji 13
+INFO  03:40:02,184 - Detektovan pristup globalnoj promenljivoj:   x na liniji 15 na liniji 15
+INFO  03:40:02,184 - Detektovan pristup globalnoj promenljivoj:   x na liniji 15 na liniji 15
+INFO  03:40:02,186 - Detektovan pristup globalnoj promenljivoj:   x na liniji 16 na liniji 16
+INFO  03:40:02,186 -  Print count calls = 1
+INFO  03:40:02,186 -  Deklarisanih promenljivih ima = 2
+INFO  03:40:02,187 - ===================================
+INFO  03:40:02,211 - Parsiranje uspesno zavrseno!

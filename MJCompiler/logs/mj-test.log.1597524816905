@@ -1,0 +1,151 @@
+INFO  22:53:24,402 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\testMod.mj
+INFO  22:53:24,499 - #2 program
+INFO  22:53:24,499 - #15 MJProgram
+INFO  22:53:24,499 - #15 int
+INFO  22:53:24,502 - #15 x
+INFO  22:53:24,504 - #5 ;
+INFO  22:53:24,504 - #15 int
+INFO  22:53:24,506 - #15 y
+INFO  22:53:24,506 - #5 ;
+INFO  22:53:24,506 - #15 int
+INFO  22:53:24,506 - #15 arr
+INFO  22:53:24,506 - #44 [
+INFO  22:53:24,507 - #45 ]
+INFO  22:53:24,507 - #5 ;
+INFO  22:53:24,507 - #3 {
+INFO  22:53:24,508 - #13 void
+INFO  22:53:24,512 - #15 k
+INFO  22:53:24,512 - #6 (
+INFO  22:53:24,512 - #7 )
+INFO  22:53:24,513 - #3 {
+INFO  22:53:24,515 - #15 x
+INFO  22:53:24,516 - #41 ++
+INFO  22:53:24,518 - #5 ;
+INFO  22:53:24,519 - #4 }
+INFO  22:53:24,519 - #15 int
+INFO  22:53:24,521 - #15 f1
+INFO  22:53:24,521 - #6 (
+INFO  22:53:24,521 - #7 )
+INFO  22:53:24,521 - #3 {
+INFO  22:53:24,521 - #9 return
+INFO  22:53:24,521 - #14 10
+INFO  22:53:24,521 - #5 ;
+INFO  22:53:24,523 - #4 }
+INFO  22:53:24,524 - #13 void
+INFO  22:53:24,524 - #15 main
+INFO  22:53:24,524 - #6 (
+INFO  22:53:24,527 - #7 )
+INFO  22:53:24,527 - #15 char
+INFO  22:53:24,527 - #15 c
+INFO  22:53:24,528 - #5 ;
+INFO  22:53:24,528 - #15 bool
+INFO  22:53:24,528 - #15 b
+INFO  22:53:24,529 - #5 ;
+INFO  22:53:24,530 - #15 int
+INFO  22:53:24,530 - #15 x
+INFO  22:53:24,530 - #5 ;
+INFO  22:53:24,530 - #3 {
+INFO  22:53:24,530 - #15 arr
+INFO  22:53:24,530 - #8 =
+INFO  22:53:24,531 - #24 new
+INFO  22:53:24,532 - #15 int
+INFO  22:53:24,532 - #44 [
+INFO  22:53:24,532 - #14 10
+INFO  22:53:24,533 - #45 ]
+INFO  22:53:24,533 - #5 ;
+INFO  22:53:24,533 - #26 for
+INFO  22:53:24,533 - #6 (
+INFO  22:53:24,533 - #15 x
+INFO  22:53:24,534 - #8 =
+INFO  22:53:24,534 - #14 0
+INFO  22:53:24,539 - #5 ;
+INFO  22:53:24,539 - #15 x
+INFO  22:53:24,540 - #37 <
+INFO  22:53:24,540 - #14 10
+INFO  22:53:24,542 - #5 ;
+INFO  22:53:24,544 - #15 x
+INFO  22:53:24,544 - #41 ++
+INFO  22:53:24,544 - #7 )
+INFO  22:53:24,544 - #3 {
+INFO  22:53:24,544 - #15 arr
+INFO  22:53:24,544 - #44 [
+INFO  22:53:24,544 - #15 x
+INFO  22:53:24,545 - #45 ]
+INFO  22:53:24,545 - #8 =
+INFO  22:53:24,545 - #15 x
+INFO  22:53:24,545 - #10 +
+INFO  22:53:24,545 - #14 1
+INFO  22:53:24,546 - #5 ;
+INFO  22:53:24,546 - #4 }
+INFO  22:53:24,546 - #15 x
+INFO  22:53:24,547 - #8 =
+INFO  22:53:24,547 - #14 33
+INFO  22:53:24,547 - #5 ;
+INFO  22:53:24,547 - #15 b
+INFO  22:53:24,547 - #8 =
+INFO  22:53:24,547 - #16 false
+INFO  22:53:24,547 - #5 ;
+INFO  22:53:24,548 - #15 x
+INFO  22:53:24,548 - #8 =
+INFO  22:53:24,548 - #14 20
+INFO  22:53:24,548 - #5 ;
+INFO  22:53:24,548 - #17 if
+INFO  22:53:24,548 - #6 (
+INFO  22:53:24,549 - #15 b
+INFO  22:53:24,549 - #33 ==
+INFO  22:53:24,549 - #16 true
+INFO  22:53:24,550 - #7 )
+INFO  22:53:24,551 - #9 return
+INFO  22:53:24,551 - #5 ;
+INFO  22:53:24,551 - #15 b
+INFO  22:53:24,552 - #8 =
+INFO  22:53:24,552 - #16 true
+INFO  22:53:24,552 - #5 ;
+INFO  22:53:24,553 - #15 x
+INFO  22:53:24,553 - #8 =
+INFO  22:53:24,553 - #15 f1
+INFO  22:53:24,553 - #10 +
+INFO  22:53:24,553 - #14 5
+INFO  22:53:24,553 - #5 ;
+INFO  22:53:24,553 - #17 if
+INFO  22:53:24,553 - #6 (
+INFO  22:53:24,553 - #15 f1
+INFO  22:53:24,553 - #33 ==
+INFO  22:53:24,553 - #14 5
+INFO  22:53:24,553 - #7 )
+INFO  22:53:24,553 - #3 {
+INFO  22:53:24,554 - #11 print
+INFO  22:53:24,554 - #6 (
+INFO  22:53:24,554 - #19 a
+INFO  22:53:24,554 - #7 )
+INFO  22:53:24,554 - #5 ;
+INFO  22:53:24,554 - #4 }
+INFO  22:53:24,554 - #15 x
+INFO  22:53:24,554 - #46 +=
+INFO  22:53:24,554 - #15 f1
+INFO  22:53:24,560 - #5 ;
+INFO  22:53:24,560 - #4 }
+INFO  22:53:24,560 - #4 }
+INFO  22:53:24,573 - ===================================
+INFO  22:53:24,581 - Deklarisana promenljiva x na liniji 2
+INFO  22:53:24,581 - Deklarisana promenljiva y na liniji 2
+INFO  22:53:24,581 - Deklarisana promenljiva arr na liniji 3
+INFO  22:53:24,581 - Obradjuje se funkcija bez return iskaza k na liniji 14
+INFO  22:53:24,581 - Detektovan pristup globalnoj promenljivoj:   x na liniji 15 na liniji 15
+INFO  22:53:24,582 - Obradjuje se funkcija sa return iskazom f1 na liniji 18
+INFO  22:53:24,582 - Obradjuje se funkcija bez return iskaza main na liniji 22
+INFO  22:53:24,582 - Deklarisana promenljiva c na liniji 22
+INFO  22:53:24,582 - Deklarisana promenljiva b na liniji 22
+INFO  22:53:24,582 - Deklarisana promenljiva x na liniji 22
+INFO  22:53:24,582 - Detektovan pristup globalnoj promenljivoj:   arr na liniji 24 na liniji 24
+INFO  22:53:24,582 - Detektovan pristup elementu niza:   arr na liniji 27 na liniji 27
+INFO  22:53:24,582 - Detektovan poziv  globalne f-je:   f1 na liniji 60 na liniji 60
+ERROR 22:53:24,582 - Greska na liniji 60 promenljiva je tipa funkcije f1
+INFO  22:53:24,582 - Detektovan poziv  globalne f-je:   f1 na liniji 62 na liniji 62
+ERROR 22:53:24,582 - Greska na liniji 62 promenljiva je tipa funkcije f1
+INFO  22:53:24,583 - Detektovan poziv  globalne f-je:   f1 na liniji 66 na liniji 66
+ERROR 22:53:24,583 - Greska na liniji 66 promenljiva je tipa funkcije f1
+INFO  22:53:24,583 -  Print count calls = 1
+INFO  22:53:24,583 -  Deklarisanih promenljivih ima = 6
+INFO  22:53:24,583 - ===================================
+ERROR 22:53:24,583 - Parsiranje NIJE uspesno zavrseno!

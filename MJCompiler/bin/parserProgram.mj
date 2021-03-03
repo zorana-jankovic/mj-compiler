@@ -1,0 +1,40 @@
+program ParserTest
+	int x,y;
+	const int numConst = 10;
+	char r;
+	int  p;
+	const char charConst = 'm';
+	const bool boolConst = true;
+	bool uslov;
+	
+{
+	 //test program bez nizova
+
+	int k() int y; {
+		y  = 6;
+		x++;
+	    y--;
+		read(x);
+		print(3);
+		print(x,3);
+		
+		p = - numConst - x + y * numConst * 10 % 5 / 3;
+		
+		return p;
+	}
+
+	void main(){
+		
+		y = 5;
+		
+		k();
+		y = k();
+		
+		y = y % 10;
+		
+		uslov = false;
+		
+		return;
+	}
+	
+}

@@ -1,0 +1,102 @@
+program MJProgram
+int x; int y;
+int arr[];
+char the_answer[];
+{
+	int theAnswer() int i, len, x; char the_answer[]; {
+        len = 17;
+        the_answer = new char[len];
+        the_answer[0] = '4';
+        the_answer[1] = '2';
+        the_answer[2] = ' ';
+        the_answer[3] = 'i';
+        the_answer[4] = 's';
+        the_answer[5] = ' ';
+        the_answer[6] = 't';
+        the_answer[7] = 'h';
+        the_answer[8] = 'e';
+        the_answer[9] = ' ';
+        the_answer[10] = 'A';
+        the_answer[11] = 'n';
+        the_answer[12] = 's';
+        the_answer[13] = 'w';
+        the_answer[14] = 'e';
+        the_answer[15] = 'r';
+        the_answer[16] = '!';
+        
+        print(the_answer[14]);
+        x++;
+        print(x);
+        return -3;
+    }
+    
+	
+	void k (){
+		x++;
+	}
+	
+	int f1(){
+		return 10;
+	}
+		
+	void main() char c; bool b; int x;{
+	
+		x = 10;
+		
+		y = 100;
+		
+		c = 'a';
+		
+		print(c);
+		
+		b = true;
+		
+		print(b);
+	
+		x = (x + 2 * 3 * 10 /(10+50) + 10 - 1) % 10;
+
+		k();
+		
+		x = x - 5;
+		
+		x = y;
+		
+		//read(x);
+		
+		print(-x);
+		
+		arr = new int[10];
+		arr[0] = 5;
+		arr[1] = 10;
+		arr[1]++;
+		arr[1]--;
+		
+		
+		arr[0] = arr[1];
+		print (arr[0]);
+		x = -4 * 3 + 5;
+		print(x);
+		print('c',5);
+		x = f1();
+		print(x, 5);
+		
+		print(theAnswer());
+		
+		print(x);
+		
+		the_answer = new char[1+1-1];
+		
+		x = 1;
+		x = x + f1() * f1() - f1() * (x+3)/2;
+		print(x);
+		
+		the_answer[0] = 'a';
+		read(the_answer[0]);
+		print(the_answer[0]);
+		
+		
+		
+		read(c);
+		print(c);
+	}
+}

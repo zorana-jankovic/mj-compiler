@@ -1,0 +1,125 @@
+program MJProgram
+	int x; int y;
+	int arr[];
+	
+	abstract class Klasa0 
+	{
+		public int z;
+		
+		{
+			public abstract int dohvBr();
+		}
+		
+	}
+	
+	abstract class Klasa1 extends Klasa0
+	{	
+		public int m;
+		
+		{
+			 public int dohvBr()  int m;{
+			 	z = 3;
+			 	return z;
+			 }
+		}
+	
+	}
+	
+	
+	class Klasa2  extends Klasa1
+	{ 
+		public int n;
+		{
+			public void init(){
+				n = 10;
+				m = 15;
+				z = 5;
+			}
+			
+			public int dohvBr(){
+				// m = m+n;
+				return m + n + z;
+			}
+			
+		}
+	}
+	
+	class mojaKlasa extends Klasa2
+	{
+		public Klasa2 k2;
+		{
+			public void init(){
+				k2 = new Klasa2;
+			}
+			
+			public int dohvBr(){
+				k2.init();
+				return k2.dohvBr();
+			}
+		}
+	}
+	
+{		
+	void main() mojaKlasa km, nizklasa[]; 
+	int niz[] ,i, n;
+	{
+	
+		niz = new int[3];
+		
+		for(i = 0 ; i <= 2; i++){
+			read(niz[i]);
+		}
+		
+		foreach(i : niz){
+			print (i);
+			//read(i);
+			print (eol);
+		}
+		
+		print (eol);
+		print (eol);
+		print (eol);
+		
+		//k1 = new Klasa2;
+		//k1.init();
+		
+		//k2 = new Klasa2;
+		//k2.init();
+		
+		km = new mojaKlasa;
+		km.init();
+		
+		
+		
+		read(km.k2.n);
+		print(km.k2.n);
+		print(eol);
+		
+		print(km.dohvBr());
+		n = 5;
+		nizklasa = new mojaKlasa[n];
+		
+		for (i=0;i<n;i++){
+			nizklasa[i] = new mojaKlasa;
+		}
+		
+		nizklasa[n-1] = null;
+		
+		if (nizklasa[4] == null){
+			print('n');
+			print(eol);
+		}
+		i = 0;
+		foreach(km : nizklasa){
+			if (km == null){
+				continue;
+			}
+			i++;
+			km.init();
+			print(km.dohvBr() + i);
+			print(eol);
+		}
+		print(i);
+	}
+	
+}

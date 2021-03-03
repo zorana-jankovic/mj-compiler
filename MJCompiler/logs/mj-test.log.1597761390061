@@ -1,0 +1,97 @@
+INFO  16:33:46,768 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\modifTest.mj
+INFO  16:33:46,862 - #2 program
+INFO  16:33:46,862 - #15 MJProgram
+INFO  16:33:46,862 - #15 int
+INFO  16:33:46,862 - #15 x
+INFO  16:33:46,862 - #5 ;
+INFO  16:33:46,862 - #15 int
+INFO  16:33:46,862 - #15 y
+INFO  16:33:46,862 - #5 ;
+INFO  16:33:46,862 - #15 int
+INFO  16:33:46,862 - #15 arr
+INFO  16:33:46,862 - #44 [
+INFO  16:33:46,862 - #45 ]
+INFO  16:33:46,862 - #5 ;
+INFO  16:33:46,862 - #21 class
+INFO  16:33:46,862 - #15 MojaKlasa
+INFO  16:33:46,862 - #3 {
+INFO  16:33:46,862 - #55 public
+INFO  16:33:46,862 - #15 int
+INFO  16:33:46,862 - #15 z
+INFO  16:33:46,862 - #5 ;
+INFO  16:33:46,862 - #3 {
+INFO  16:33:46,862 - #55 public
+INFO  16:33:46,862 - #15 MojaKlasa
+INFO  16:33:46,862 - #6 (
+INFO  16:33:46,862 - #15 int
+INFO  16:33:46,862 - #15 x
+INFO  16:33:46,862 - #12 ,
+INFO  16:33:46,862 - #15 char
+INFO  16:33:46,862 - #15 y
+INFO  16:33:46,862 - #7 )
+INFO  16:33:46,862 - #3 {
+INFO  16:33:46,862 - #11 print
+INFO  16:33:46,862 - #6 (
+INFO  16:33:46,862 - #15 y
+INFO  16:33:46,862 - #7 )
+INFO  16:33:46,877 - #5 ;
+INFO  16:33:46,877 - #15 z
+INFO  16:33:46,877 - #8 =
+INFO  16:33:46,877 - #15 x
+INFO  16:33:46,877 - #5 ;
+INFO  16:33:46,877 - #11 print
+INFO  16:33:46,877 - #6 (
+INFO  16:33:46,877 - #15 z
+INFO  16:33:46,877 - #7 )
+INFO  16:33:46,877 - #5 ;
+INFO  16:33:46,877 - #4 }
+INFO  16:33:46,877 - #4 }
+INFO  16:33:46,877 - #4 }
+INFO  16:33:46,877 - #3 {
+INFO  16:33:46,877 - #13 void
+INFO  16:33:46,877 - #15 main
+INFO  16:33:46,877 - #6 (
+INFO  16:33:46,877 - #7 )
+INFO  16:33:46,877 - #15 char
+INFO  16:33:46,877 - #15 c
+INFO  16:33:46,877 - #5 ;
+INFO  16:33:46,877 - #15 bool
+INFO  16:33:46,877 - #15 b
+INFO  16:33:46,877 - #5 ;
+INFO  16:33:46,877 - #15 int
+INFO  16:33:46,877 - #15 x
+INFO  16:33:46,877 - #5 ;
+INFO  16:33:46,877 - #15 MojaKlasa
+INFO  16:33:46,877 - #15 m
+INFO  16:33:46,877 - #5 ;
+INFO  16:33:46,877 - #3 {
+INFO  16:33:46,877 - #15 m
+INFO  16:33:46,877 - #8 =
+INFO  16:33:46,877 - #24 new
+INFO  16:33:46,877 - #15 MojaKlasa
+INFO  16:33:46,877 - #6 (
+INFO  16:33:46,877 - #14 3
+INFO  16:33:46,877 - #12 ,
+INFO  16:33:46,877 - #19 l
+INFO  16:33:46,877 - #7 )
+INFO  16:33:46,877 - #5 ;
+INFO  16:33:46,877 - #4 }
+INFO  16:33:46,877 - #4 }
+INFO  16:33:46,909 - ===================================
+INFO  16:33:46,909 - Deklarisana promenljiva x na liniji 2
+INFO  16:33:46,909 - Deklarisana promenljiva y na liniji 2
+INFO  16:33:46,909 - Deklarisana promenljiva arr na liniji 3
+INFO  16:33:46,909 - Obradjuje se unutrasnja klasa programa MojaKlasa na liniji 5
+INFO  16:33:46,909 - Deklarisano polje klase  z na liniji 7
+INFO  16:33:46,909 - Obradjuje se funkcija bez return iskaza MojaKlasa na liniji 10
+INFO  16:33:46,909 - Deklarisan formalni parametar x funkcije:MojaKlasa na liniji 10
+INFO  16:33:46,909 - Deklarisan formalni parametar y funkcije:MojaKlasa na liniji 10
+INFO  16:33:46,909 - Detektovan pristup polju klase:   z na liniji 12 na liniji 12
+INFO  16:33:46,909 - Detektovan pristup polju klase:   z na liniji 13 na liniji 13
+INFO  16:33:46,909 - Obradjuje se funkcija bez return iskaza main na liniji 22
+INFO  16:33:46,909 - Deklarisana promenljiva c na liniji 22
+INFO  16:33:46,909 - Deklarisana promenljiva b na liniji 22
+INFO  16:33:46,909 - Deklarisana promenljiva x na liniji 22
+INFO  16:33:46,909 - Deklarisana promenljiva m na liniji 22
+ERROR 16:33:46,909 - Greska na liniji 24 tip reference na klasu mora biti osnovna klasa za tip objekta koji mu se dodeljuje!
+ERROR 16:33:46,909 - Greska na liniji 24 tip argumenta i formalnog parametra se ne podudaraju!

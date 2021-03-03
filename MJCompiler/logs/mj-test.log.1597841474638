@@ -1,0 +1,154 @@
+INFO  14:50:43,557 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\parserProgramSemanticMistakes.mj
+INFO  14:50:43,643 - #2 program
+INFO  14:50:43,644 - #15 ParserTestSemMistakes
+INFO  14:50:43,644 - #15 int
+INFO  14:50:43,647 - #15 x
+INFO  14:50:43,647 - #12 ,
+INFO  14:50:43,648 - #15 y
+INFO  14:50:43,648 - #5 ;
+INFO  14:50:43,648 - #23 const
+INFO  14:50:43,650 - #15 int
+INFO  14:50:43,650 - #15 numConst
+INFO  14:50:43,650 - #8 =
+INFO  14:50:43,650 - #14 10
+INFO  14:50:43,650 - #5 ;
+INFO  14:50:43,651 - #15 char
+INFO  14:50:43,652 - #15 r
+INFO  14:50:43,652 - #5 ;
+INFO  14:50:43,652 - #15 int
+INFO  14:50:43,653 - #15 p
+INFO  14:50:43,653 - #5 ;
+INFO  14:50:43,653 - #23 const
+INFO  14:50:43,656 - #15 char
+INFO  14:50:43,656 - #15 charConst
+INFO  14:50:43,656 - #8 =
+INFO  14:50:43,656 - #19 m
+INFO  14:50:43,656 - #5 ;
+INFO  14:50:43,656 - #23 const
+INFO  14:50:43,656 - #15 bool
+INFO  14:50:43,656 - #15 boolConst
+INFO  14:50:43,656 - #8 =
+INFO  14:50:43,656 - #16 true
+INFO  14:50:43,656 - #5 ;
+INFO  14:50:43,657 - #15 bool
+INFO  14:50:43,657 - #15 uslov
+INFO  14:50:43,657 - #8 =
+ERROR 14:50:43,657 - 
+Sintaksna greska na liniji 8
+INFO  14:50:43,657 - #16 false
+INFO  14:50:43,657 - #5 ;
+INFO  14:50:43,657 - #3 {
+INFO  14:50:43,658 - #15 int
+INFO  14:50:43,658 - #15 k
+ERROR 14:50:43,658 - Izvrsen oporavak do ; ili , u liniji 8
+INFO  14:50:43,659 - #6 (
+INFO  14:50:43,660 - #7 )
+INFO  14:50:43,660 - #15 int
+INFO  14:50:43,661 - #15 y
+INFO  14:50:43,661 - #5 ;
+INFO  14:50:43,662 - #3 {
+INFO  14:50:43,662 - #15 y
+INFO  14:50:43,663 - #8 =
+INFO  14:50:43,664 - #14 6
+INFO  14:50:43,665 - #5 ;
+INFO  14:50:43,666 - #15 x
+INFO  14:50:43,667 - #41 ++
+INFO  14:50:43,667 - #5 ;
+INFO  14:50:43,667 - #15 y
+INFO  14:50:43,667 - #42 --
+INFO  14:50:43,667 - #5 ;
+INFO  14:50:43,667 - #25 read
+INFO  14:50:43,667 - #6 (
+INFO  14:50:43,672 - #15 x
+INFO  14:50:43,672 - #7 )
+INFO  14:50:43,673 - #5 ;
+INFO  14:50:43,673 - #11 print
+INFO  14:50:43,673 - #6 (
+INFO  14:50:43,673 - #14 3
+INFO  14:50:43,673 - #7 )
+INFO  14:50:43,673 - #5 ;
+INFO  14:50:43,673 - #11 print
+INFO  14:50:43,674 - #6 (
+INFO  14:50:43,674 - #15 x
+INFO  14:50:43,674 - #12 ,
+INFO  14:50:43,674 - #14 3
+INFO  14:50:43,674 - #7 )
+INFO  14:50:43,674 - #5 ;
+INFO  14:50:43,674 - #15 r
+INFO  14:50:43,674 - #8 =
+INFO  14:50:43,675 - #29 -
+INFO  14:50:43,675 - #15 numConst
+INFO  14:50:43,675 - #5 ;
+INFO  14:50:43,676 - #15 numConst
+INFO  14:50:43,676 - #8 =
+INFO  14:50:43,676 - #29 -
+INFO  14:50:43,676 - #15 numConst
+INFO  14:50:43,676 - #5 ;
+INFO  14:50:43,676 - #15 p
+INFO  14:50:43,676 - #8 =
+INFO  14:50:43,677 - #29 -
+INFO  14:50:43,677 - #15 charConst
+INFO  14:50:43,677 - #5 ;
+INFO  14:50:43,677 - #15 p
+INFO  14:50:43,677 - #8 =
+INFO  14:50:43,677 - #29 -
+INFO  14:50:43,677 - #15 numConst
+INFO  14:50:43,677 - #29 -
+INFO  14:50:43,677 - #15 x
+INFO  14:50:43,678 - #10 +
+INFO  14:50:43,679 - #15 y
+INFO  14:50:43,679 - #30 *
+INFO  14:50:43,679 - #15 numConst
+INFO  14:50:43,680 - #30 *
+INFO  14:50:43,681 - #14 10
+INFO  14:50:43,681 - #10 +
+INFO  14:50:43,681 - #15 boolConst
+INFO  14:50:43,681 - #5 ;
+INFO  14:50:43,681 - #4 }
+INFO  14:50:43,681 - #13 void
+INFO  14:50:43,682 - #15 main
+INFO  14:50:43,682 - #6 (
+INFO  14:50:43,682 - #7 )
+INFO  14:50:43,682 - #3 {
+INFO  14:50:43,682 - #15 y
+INFO  14:50:43,682 - #8 =
+INFO  14:50:43,682 - #14 5
+INFO  14:50:43,682 - #5 ;
+INFO  14:50:43,682 - #4 }
+INFO  14:50:43,683 - #4 }
+INFO  14:50:43,704 - ===================================
+INFO  14:50:43,711 - Deklarisana promenljiva x na liniji 2
+INFO  14:50:43,711 - Deklarisana promenljiva y na liniji 2
+INFO  14:50:43,711 - Deklarisana konstanta tipa int numConst na liniji 3
+INFO  14:50:43,711 - Deklarisana promenljiva r na liniji 4
+INFO  14:50:43,711 - Deklarisana promenljiva p na liniji 5
+INFO  14:50:43,712 - Deklarisana konstanta tipa char charConst na liniji 6
+INFO  14:50:43,712 - Deklarisana konstanta tipa bool boolConst na liniji 7
+INFO  14:50:43,712 - Obradjuje se funkcija sa return iskazom k na liniji 13
+INFO  14:50:43,712 - Deklarisana promenljiva y na liniji 13
+INFO  14:50:43,712 - Detektovan pristup globalnoj promenljivoj:   x na liniji 15 na liniji 15
+INFO  14:50:43,712 - Detektovan pristup globalnoj promenljivoj:   x na liniji 17 na liniji 17
+INFO  14:50:43,712 - Detektovan pristup globalnoj promenljivoj:   x na liniji 19 na liniji 19
+INFO  14:50:43,712 - Detektovan pristup globalnoj promenljivoj:   r na liniji 21 na liniji 21
+INFO  14:50:43,712 - Detektovan pristup simbolickoj konstanti:   numConst na liniji 21 na liniji 21
+ERROR 14:50:43,713 - Greska na liniji 21 tip designatora kome se dodeljuje vrednost mora biti kompatibilan sa tipom vrednosti koja mu se dodeljuje!
+INFO  14:50:43,713 - Detektovan pristup simbolickoj konstanti:   numConst na liniji 23 na liniji 23
+INFO  14:50:43,713 - Detektovan pristup simbolickoj konstanti:   numConst na liniji 23 na liniji 23
+ERROR 14:50:43,713 - Greska na liniji 23 Designator mora oznacavati promenljivu, element niza ili polje unutar objekta
+INFO  14:50:43,713 - Detektovan pristup globalnoj promenljivoj:   p na liniji 25 na liniji 25
+INFO  14:50:43,713 - Detektovan pristup simbolickoj konstanti:   charConst na liniji 25 na liniji 25
+ERROR 14:50:43,713 - Greska na liniji 25 Term mora biti tipa int!
+ERROR 14:50:43,713 - Greska na liniji 25 tip designatora kome se dodeljuje vrednost mora biti kompatibilan sa tipom vrednosti koja mu se dodeljuje!
+INFO  14:50:43,713 - Detektovan pristup globalnoj promenljivoj:   p na liniji 27 na liniji 27
+INFO  14:50:43,713 - Detektovan pristup simbolickoj konstanti:   numConst na liniji 27 na liniji 27
+INFO  14:50:43,713 - Detektovan pristup globalnoj promenljivoj:   x na liniji 27 na liniji 27
+INFO  14:50:43,713 - Detektovan pristup simbolickoj konstanti:   numConst na liniji 27 na liniji 27
+INFO  14:50:43,713 - Detektovan pristup simbolickoj konstanti:   boolConst na liniji 27 na liniji 27
+ERROR 14:50:43,713 - Greska na liniji 27 Term mora biti tipa int!
+ERROR 14:50:43,713 - Semanticka greska na liniji 0: funkcija k nema return iskaz!
+INFO  14:50:43,713 - Obradjuje se funkcija bez return iskaza main na liniji 30
+INFO  14:50:43,713 - Detektovan pristup globalnoj promenljivoj:   y na liniji 32 na liniji 32
+INFO  14:50:43,713 -  Print count calls = 2
+INFO  14:50:43,713 -  Deklarisanih promenljivih ima = 5
+INFO  14:50:43,713 - ===================================
+ERROR 14:50:43,713 - Parsiranje NIJE uspesno zavrseno!

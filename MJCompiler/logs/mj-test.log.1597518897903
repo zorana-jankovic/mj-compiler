@@ -1,0 +1,307 @@
+INFO  21:14:41,609 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\testfinal3.mj
+INFO  21:14:41,688 - #2 program
+INFO  21:14:41,688 - #15 MJProgram
+INFO  21:14:41,688 - #15 int
+INFO  21:14:41,691 - #15 x
+INFO  21:14:41,692 - #5 ;
+INFO  21:14:41,692 - #15 int
+INFO  21:14:41,693 - #15 y
+INFO  21:14:41,693 - #5 ;
+INFO  21:14:41,694 - #15 char
+INFO  21:14:41,694 - #15 arr
+INFO  21:14:41,694 - #44 [
+INFO  21:14:41,694 - #45 ]
+INFO  21:14:41,694 - #5 ;
+INFO  21:14:41,694 - #15 int
+INFO  21:14:41,694 - #15 arr2
+INFO  21:14:41,694 - #44 [
+INFO  21:14:41,694 - #45 ]
+INFO  21:14:41,694 - #5 ;
+INFO  21:14:41,695 - #15 int
+INFO  21:14:41,695 - #15 sum
+INFO  21:14:41,695 - #5 ;
+INFO  21:14:41,695 - #3 {
+INFO  21:14:41,697 - #13 void
+INFO  21:14:41,698 - #15 init
+INFO  21:14:41,698 - #6 (
+INFO  21:14:41,698 - #15 char
+INFO  21:14:41,698 - #15 arr
+INFO  21:14:41,698 - #44 [
+INFO  21:14:41,698 - #45 ]
+INFO  21:14:41,698 - #12 ,
+INFO  21:14:41,699 - #15 int
+INFO  21:14:41,699 - #15 x
+INFO  21:14:41,699 - #7 )
+INFO  21:14:41,700 - #3 {
+INFO  21:14:41,700 - #26 for
+INFO  21:14:41,701 - #6 (
+INFO  21:14:41,701 - #15 x
+INFO  21:14:41,701 - #8 =
+INFO  21:14:41,703 - #14 0
+INFO  21:14:41,704 - #5 ;
+INFO  21:14:41,706 - #15 x
+INFO  21:14:41,706 - #37 <
+INFO  21:14:41,706 - #14 10
+INFO  21:14:41,708 - #5 ;
+INFO  21:14:41,710 - #15 x
+INFO  21:14:41,710 - #41 ++
+INFO  21:14:41,710 - #7 )
+INFO  21:14:41,710 - #3 {
+INFO  21:14:41,710 - #15 arr
+INFO  21:14:41,710 - #44 [
+INFO  21:14:41,711 - #15 x
+INFO  21:14:41,711 - #45 ]
+INFO  21:14:41,711 - #8 =
+INFO  21:14:41,711 - #15 chr
+INFO  21:14:41,711 - #6 (
+INFO  21:14:41,712 - #15 x
+INFO  21:14:41,712 - #10 +
+INFO  21:14:41,712 - #14 65
+INFO  21:14:41,713 - #7 )
+INFO  21:14:41,720 - #5 ;
+INFO  21:14:41,720 - #4 }
+INFO  21:14:41,720 - #4 }
+INFO  21:14:41,721 - #13 void
+INFO  21:14:41,722 - #15 main
+INFO  21:14:41,722 - #6 (
+INFO  21:14:41,722 - #7 )
+INFO  21:14:41,723 - #15 char
+INFO  21:14:41,723 - #15 c
+INFO  21:14:41,723 - #5 ;
+INFO  21:14:41,723 - #15 bool
+INFO  21:14:41,723 - #15 b
+INFO  21:14:41,723 - #5 ;
+INFO  21:14:41,723 - #15 int
+INFO  21:14:41,723 - #15 x
+INFO  21:14:41,723 - #5 ;
+INFO  21:14:41,723 - #15 int
+INFO  21:14:41,724 - #15 z
+INFO  21:14:41,724 - #5 ;
+INFO  21:14:41,724 - #15 bool
+INFO  21:14:41,724 - #15 niz
+INFO  21:14:41,724 - #44 [
+INFO  21:14:41,724 - #45 ]
+INFO  21:14:41,724 - #5 ;
+INFO  21:14:41,724 - #15 int
+INFO  21:14:41,724 - #15 i
+INFO  21:14:41,724 - #5 ;
+INFO  21:14:41,724 - #3 {
+INFO  21:14:41,724 - #15 arr
+INFO  21:14:41,724 - #8 =
+INFO  21:14:41,724 - #24 new
+INFO  21:14:41,724 - #15 char
+INFO  21:14:41,724 - #44 [
+INFO  21:14:41,724 - #14 10
+INFO  21:14:41,725 - #45 ]
+INFO  21:14:41,725 - #5 ;
+INFO  21:14:41,725 - #15 arr2
+INFO  21:14:41,725 - #8 =
+INFO  21:14:41,725 - #24 new
+INFO  21:14:41,725 - #15 int
+INFO  21:14:41,725 - #44 [
+INFO  21:14:41,725 - #14 3
+INFO  21:14:41,725 - #45 ]
+INFO  21:14:41,725 - #5 ;
+INFO  21:14:41,725 - #15 niz
+INFO  21:14:41,725 - #8 =
+INFO  21:14:41,725 - #24 new
+INFO  21:14:41,725 - #15 bool
+INFO  21:14:41,725 - #44 [
+INFO  21:14:41,725 - #14 3
+INFO  21:14:41,725 - #45 ]
+INFO  21:14:41,725 - #5 ;
+INFO  21:14:41,725 - #15 niz
+INFO  21:14:41,726 - #44 [
+INFO  21:14:41,726 - #14 0
+INFO  21:14:41,726 - #45 ]
+INFO  21:14:41,726 - #8 =
+INFO  21:14:41,726 - #16 false
+INFO  21:14:41,726 - #5 ;
+INFO  21:14:41,726 - #15 niz
+INFO  21:14:41,726 - #44 [
+INFO  21:14:41,726 - #14 1
+INFO  21:14:41,726 - #45 ]
+INFO  21:14:41,726 - #8 =
+INFO  21:14:41,726 - #16 true
+INFO  21:14:41,727 - #5 ;
+INFO  21:14:41,727 - #15 niz
+INFO  21:14:41,727 - #44 [
+INFO  21:14:41,727 - #14 2
+INFO  21:14:41,727 - #45 ]
+INFO  21:14:41,727 - #8 =
+INFO  21:14:41,727 - #16 false
+INFO  21:14:41,727 - #5 ;
+INFO  21:14:41,727 - #15 init
+INFO  21:14:41,727 - #6 (
+INFO  21:14:41,728 - #15 arr
+INFO  21:14:41,728 - #12 ,
+INFO  21:14:41,728 - #15 x
+INFO  21:14:41,728 - #7 )
+INFO  21:14:41,729 - #5 ;
+INFO  21:14:41,729 - #15 arr2
+INFO  21:14:41,729 - #44 [
+INFO  21:14:41,729 - #14 0
+INFO  21:14:41,729 - #45 ]
+INFO  21:14:41,729 - #8 =
+INFO  21:14:41,729 - #14 1
+INFO  21:14:41,729 - #5 ;
+INFO  21:14:41,729 - #15 arr2
+INFO  21:14:41,729 - #44 [
+INFO  21:14:41,729 - #14 1
+INFO  21:14:41,729 - #45 ]
+INFO  21:14:41,729 - #8 =
+INFO  21:14:41,729 - #14 1
+INFO  21:14:41,729 - #5 ;
+INFO  21:14:41,729 - #15 arr2
+INFO  21:14:41,729 - #44 [
+INFO  21:14:41,729 - #14 2
+INFO  21:14:41,730 - #45 ]
+INFO  21:14:41,730 - #8 =
+INFO  21:14:41,730 - #14 1
+INFO  21:14:41,730 - #5 ;
+INFO  21:14:41,730 - #51 foreach
+INFO  21:14:41,730 - #6 (
+INFO  21:14:41,730 - #15 c
+INFO  21:14:41,730 - #52 :
+INFO  21:14:41,731 - #15 arr
+INFO  21:14:41,731 - #7 )
+INFO  21:14:41,731 - #3 {
+INFO  21:14:41,731 - #51 foreach
+INFO  21:14:41,731 - #6 (
+INFO  21:14:41,731 - #15 x
+INFO  21:14:41,733 - #52 :
+INFO  21:14:41,733 - #15 arr2
+INFO  21:14:41,733 - #7 )
+INFO  21:14:41,733 - #3 {
+INFO  21:14:41,733 - #15 sum
+INFO  21:14:41,733 - #8 =
+INFO  21:14:41,733 - #15 sum
+INFO  21:14:41,733 - #10 +
+INFO  21:14:41,733 - #15 x
+INFO  21:14:41,733 - #5 ;
+INFO  21:14:41,733 - #11 print
+INFO  21:14:41,733 - #6 (
+INFO  21:14:41,733 - #15 sum
+INFO  21:14:41,733 - #7 )
+INFO  21:14:41,734 - #5 ;
+INFO  21:14:41,734 - #26 for
+INFO  21:14:41,734 - #6 (
+INFO  21:14:41,734 - #15 i
+INFO  21:14:41,734 - #8 =
+INFO  21:14:41,734 - #14 0
+INFO  21:14:41,734 - #5 ;
+INFO  21:14:41,734 - #15 i
+INFO  21:14:41,734 - #37 <
+INFO  21:14:41,734 - #15 len
+INFO  21:14:41,734 - #6 (
+INFO  21:14:41,734 - #15 niz
+INFO  21:14:41,734 - #7 )
+INFO  21:14:41,735 - #5 ;
+INFO  21:14:41,735 - #15 i
+INFO  21:14:41,735 - #41 ++
+INFO  21:14:41,735 - #7 )
+INFO  21:14:41,735 - #3 {
+INFO  21:14:41,735 - #11 print
+INFO  21:14:41,735 - #6 (
+INFO  21:14:41,735 - #15 niz
+INFO  21:14:41,735 - #44 [
+INFO  21:14:41,735 - #15 i
+INFO  21:14:41,735 - #45 ]
+INFO  21:14:41,735 - #7 )
+INFO  21:14:41,735 - #5 ;
+INFO  21:14:41,735 - #17 if
+INFO  21:14:41,735 - #6 (
+INFO  21:14:41,736 - #15 niz
+INFO  21:14:41,736 - #44 [
+INFO  21:14:41,736 - #15 i
+INFO  21:14:41,736 - #45 ]
+INFO  21:14:41,736 - #7 )
+INFO  21:14:41,737 - #20 break
+INFO  21:14:41,737 - #5 ;
+INFO  21:14:41,737 - #4 }
+INFO  21:14:41,738 - #17 if
+INFO  21:14:41,738 - #6 (
+INFO  21:14:41,738 - #15 sum
+INFO  21:14:41,738 - #36 >=
+INFO  21:14:41,738 - #14 20
+INFO  21:14:41,739 - #7 )
+INFO  21:14:41,739 - #20 break
+INFO  21:14:41,739 - #5 ;
+INFO  21:14:41,739 - #4 }
+INFO  21:14:41,739 - #11 print
+INFO  21:14:41,740 - #6 (
+INFO  21:14:41,740 - #15 c
+INFO  21:14:41,740 - #7 )
+INFO  21:14:41,740 - #5 ;
+INFO  21:14:41,740 - #11 print
+INFO  21:14:41,740 - #6 (
+INFO  21:14:41,740 - #15 eol
+INFO  21:14:41,740 - #7 )
+INFO  21:14:41,740 - #5 ;
+INFO  21:14:41,741 - #4 }
+INFO  21:14:41,741 - #11 print
+INFO  21:14:41,741 - #6 (
+INFO  21:14:41,741 - #15 sum
+INFO  21:14:41,741 - #7 )
+INFO  21:14:41,741 - #5 ;
+INFO  21:14:41,741 - #15 arr2
+INFO  21:14:41,741 - #44 [
+INFO  21:14:41,741 - #14 0
+INFO  21:14:41,741 - #45 ]
+INFO  21:14:41,741 - #8 =
+INFO  21:14:41,741 - #15 z
+INFO  21:14:41,741 - #48 *=
+INFO  21:14:41,742 - #14 1
+INFO  21:14:41,743 - #10 +
+INFO  21:14:41,743 - #6 (
+INFO  21:14:41,743 - #14 3
+INFO  21:14:41,743 - #29 -
+INFO  21:14:41,743 - #14 1
+INFO  21:14:41,744 - #7 )
+INFO  21:14:41,744 - #5 ;
+INFO  21:14:41,744 - #4 }
+INFO  21:14:41,744 - #4 }
+INFO  21:14:41,765 - ===================================
+INFO  21:14:41,770 - Deklarisana promenljiva x na liniji 2
+INFO  21:14:41,770 - Deklarisana promenljiva y na liniji 2
+INFO  21:14:41,770 - Deklarisana promenljiva arr na liniji 3
+INFO  21:14:41,770 - Deklarisana promenljiva arr2 na liniji 4
+INFO  21:14:41,770 - Deklarisana promenljiva sum na liniji 5
+INFO  21:14:41,770 - Obradjuje se funkcija bez return iskaza init na liniji 9
+INFO  21:14:41,770 - Deklarisan formalni parametar arr funkcije:init na liniji 9
+INFO  21:14:41,770 - Deklarisan formalni parametar x funkcije:init na liniji 9
+INFO  21:14:41,771 - Detektovan pristup elementu niza:   arr na liniji 11 na liniji 11
+INFO  21:14:41,771 - Detektovan poziv  globalne f-je:   chr na liniji 11 na liniji 11
+INFO  21:14:41,771 - Obradjuje se funkcija bez return iskaza main na liniji 17
+INFO  21:14:41,771 - Deklarisana promenljiva c na liniji 17
+INFO  21:14:41,771 - Deklarisana promenljiva b na liniji 17
+INFO  21:14:41,771 - Deklarisana promenljiva x na liniji 17
+INFO  21:14:41,771 - Deklarisana promenljiva z na liniji 17
+INFO  21:14:41,771 - Deklarisana promenljiva niz na liniji 17
+INFO  21:14:41,771 - Deklarisana promenljiva i na liniji 17
+INFO  21:14:41,772 - Detektovan pristup globalnoj promenljivoj:   arr na liniji 20 na liniji 20
+INFO  21:14:41,772 - Detektovan pristup globalnoj promenljivoj:   arr2 na liniji 21 na liniji 21
+INFO  21:14:41,772 - Detektovan pristup elementu niza:   niz na liniji 24 na liniji 24
+INFO  21:14:41,772 - Detektovan pristup elementu niza:   niz na liniji 25 na liniji 25
+INFO  21:14:41,772 - Detektovan pristup elementu niza:   niz na liniji 26 na liniji 26
+INFO  21:14:41,772 - Detektovan poziv  globalne f-je:   init na liniji 28 na liniji 28
+INFO  21:14:41,772 - Detektovan pristup globalnoj promenljivoj:   arr na liniji 28 na liniji 28
+INFO  21:14:41,772 - Detektovan pristup elementu niza:   arr2 na liniji 30 na liniji 30
+INFO  21:14:41,772 - Detektovan pristup elementu niza:   arr2 na liniji 31 na liniji 31
+INFO  21:14:41,772 - Detektovan pristup elementu niza:   arr2 na liniji 32 na liniji 32
+INFO  21:14:41,772 - Detektovan pristup globalnoj promenljivoj:   arr na liniji 34 na liniji 34
+INFO  21:14:41,772 - Detektovan pristup globalnoj promenljivoj:   arr2 na liniji 35 na liniji 35
+INFO  21:14:41,772 - Detektovan pristup globalnoj promenljivoj:   sum na liniji 36 na liniji 36
+INFO  21:14:41,772 - Detektovan pristup globalnoj promenljivoj:   sum na liniji 36 na liniji 36
+INFO  21:14:41,772 - Detektovan pristup globalnoj promenljivoj:   sum na liniji 37 na liniji 37
+INFO  21:14:41,772 - Detektovan poziv  globalne f-je:   len na liniji 38 na liniji 38
+INFO  21:14:41,772 - Detektovan pristup elementu niza:   niz na liniji 39 na liniji 39
+INFO  21:14:41,773 - Detektovan pristup elementu niza:   niz na liniji 41 na liniji 41
+INFO  21:14:41,773 - Detektovan pristup globalnoj promenljivoj:   sum na liniji 44 na liniji 44
+INFO  21:14:41,773 - Detektovan pristup simbolickoj konstanti:   eol na liniji 48 na liniji 48
+INFO  21:14:41,773 - Detektovan pristup globalnoj promenljivoj:   sum na liniji 52 na liniji 52
+INFO  21:14:41,773 - Detektovan pristup elementu niza:   arr2 na liniji 54 na liniji 54
+INFO  21:14:41,773 -  Print count calls = 5
+INFO  21:14:41,773 -  Deklarisanih promenljivih ima = 11
+INFO  21:14:41,773 - ===================================
+INFO  21:14:41,784 - Parsiranje uspesno zavrseno!

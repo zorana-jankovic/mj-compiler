@@ -1,0 +1,284 @@
+INFO  23:24:13,162 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\parserProgram.mj
+INFO  23:24:13,318 - #2 program
+INFO  23:24:13,319 - #15 ParserTest
+INFO  23:24:13,319 - #15 int
+INFO  23:24:13,320 - #15 x
+INFO  23:24:13,320 - #12 ,
+INFO  23:24:13,321 - #15 y
+INFO  23:24:13,321 - #5 ;
+INFO  23:24:13,321 - #21 const
+INFO  23:24:13,323 - #15 int
+INFO  23:24:13,323 - #15 z
+INFO  23:24:13,323 - #8 =
+INFO  23:24:13,323 - #44 true
+INFO  23:24:13,323 - #5 ;
+INFO  23:24:13,325 - #15 cha
+INFO  23:24:13,326 - #15 r
+INFO  23:24:13,327 - #5 ;
+INFO  23:24:13,327 - #15 int
+INFO  23:24:13,327 - #42 [
+ERROR 23:24:13,327 - 
+Sintaksna greska na liniji 5
+INFO  23:24:13,328 - #43 ]
+INFO  23:24:13,329 - #15 j
+INFO  23:24:13,329 - #12 ,
+INFO  23:24:13,329 - #15 p
+INFO  23:24:13,329 - #5 ;
+INFO  23:24:13,329 - #3 {
+ERROR 23:24:13,329 - Izvrsen oporavak do ; ili , u liniji 5
+INFO  23:24:13,331 - #15 int
+INFO  23:24:13,331 - #15 k
+INFO  23:24:13,331 - #6 (
+INFO  23:24:13,332 - #15 int
+INFO  23:24:13,332 - #15 x
+INFO  23:24:13,332 - #12 ,
+INFO  23:24:13,332 - #15 char
+INFO  23:24:13,332 - #15 c
+INFO  23:24:13,332 - #7 )
+INFO  23:24:13,333 - #3 {
+INFO  23:24:13,333 - #11 print
+INFO  23:24:13,334 - #6 (
+INFO  23:24:13,334 - #15 x
+INFO  23:24:13,334 - #7 )
+INFO  23:24:13,336 - #5 ;
+INFO  23:24:13,336 - #4 }
+INFO  23:24:13,337 - #13 void
+INFO  23:24:13,338 - #15 main
+INFO  23:24:13,338 - #6 (
+INFO  23:24:13,338 - #7 )
+INFO  23:24:13,339 - #3 {
+INFO  23:24:13,339 - #15 k
+INFO  23:24:13,339 - #6 (
+INFO  23:24:13,339 - #14 3
+INFO  23:24:13,339 - #12 ,
+INFO  23:24:13,340 - #45 c
+INFO  23:24:13,340 - #7 )
+INFO  23:24:13,341 - #5 ;
+INFO  23:24:13,341 - #16 if
+INFO  23:24:13,341 - #6 (
+INFO  23:24:13,341 - #15 milosjeglup
+INFO  23:24:13,341 - #7 )
+INFO  23:24:13,348 - #14 10
+ERROR 23:24:13,348 - 
+Sintaksna greska na liniji 20
+INFO  23:24:13,348 - #5 ;
+INFO  23:24:13,349 - #17 else
+INFO  23:24:13,349 - #14 0
+INFO  23:24:13,349 - #5 ;
+INFO  23:24:13,349 - #4 }
+INFO  23:24:13,349 - #4 }
+ERROR 23:24:13,349 - Izvrsen oporavak do ; u liniji 19
+INFO  23:24:13,366 - Program(
+  ProgName(
+   ParserTest
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyDeclList(
+        MyDeclList(
+          MyNoDeclList(
+          ) [MyNoDeclList]
+          VarDeclListElem(
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              VarDeclElemNoBraces(
+               x
+              ) [VarDeclElemNoBraces]
+              MyVarDeclList(
+                MyNoVarDeclList(
+                ) [MyNoVarDeclList]
+                VarDeclElemNoBraces(
+                 y
+                ) [VarDeclElemNoBraces]
+              ) [MyVarDeclList]
+            ) [VarDecl]
+          ) [VarDeclListElem]
+        ) [MyDeclList]
+        ConstDeclListElem(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstDeclElem(
+             z
+              BoolConst(
+              ) [BoolConst]
+            ) [ConstDeclElem]
+            MyNoConstDeclList(
+            ) [MyNoConstDeclList]
+          ) [ConstDecl]
+        ) [ConstDeclListElem]
+      ) [MyDeclList]
+      VarDeclListElem(
+        VarDecl(
+          Type(
+           cha
+          ) [Type]
+          VarDeclElemNoBraces(
+           r
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    VarDeclListElem(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        ErrorStmt(
+        ) [ErrorStmt]
+        MyVarDeclList(
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+          VarDeclElemNoBraces(
+           p
+          ) [VarDeclElemNoBraces]
+        ) [MyVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeNameRet(
+          Type(
+           int
+          ) [Type]
+         k
+        ) [MethodTypeNameRet]
+        FormParams(
+          FormalParamDecls(
+            SingleFormalParamDecl(
+              FormalParamDeclNoBraces(
+                Type(
+                 int
+                ) [Type]
+               x
+              ) [FormalParamDeclNoBraces]
+            ) [SingleFormalParamDecl]
+            FormalParamDeclNoBraces(
+              Type(
+               char
+              ) [Type]
+             c
+            ) [FormalParamDeclNoBraces]
+          ) [FormalParamDecls]
+        ) [FormParams]
+        MyNoDeclListVar(
+        ) [MyNoDeclListVar]
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          StatementPrint(
+            NoMinusExpr(
+              Terms(
+                Var(
+                  Design(
+                   x
+                    NoDesList(
+                    ) [NoDesList]
+                  ) [Design]
+                ) [Var]
+                MyNoTermList(
+                ) [MyNoTermList]
+              ) [Terms]
+              MyNoExprList(
+              ) [MyNoExprList]
+            ) [NoMinusExpr]
+          ) [StatementPrint]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyNoDeclListVar(
+      ) [MyNoDeclListVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          StatementDesStat(
+            DesignatorStatementFuncCall(
+              Design(
+               k
+                NoDesList(
+                ) [NoDesList]
+              ) [Design]
+              Actuals(
+                ActualParams(
+                  ActualParam(
+                    NoMinusExpr(
+                      Terms(
+                        NumberFactor(
+                         3
+                        ) [NumberFactor]
+                        MyNoTermList(
+                        ) [MyNoTermList]
+                      ) [Terms]
+                      MyNoExprList(
+                      ) [MyNoExprList]
+                    ) [NoMinusExpr]
+                  ) [ActualParam]
+                  NoMinusExpr(
+                    Terms(
+                      CharFactor(
+                      ) [CharFactor]
+                      MyNoTermList(
+                      ) [MyNoTermList]
+                    ) [Terms]
+                    MyNoExprList(
+                    ) [MyNoExprList]
+                  ) [NoMinusExpr]
+                ) [ActualParams]
+              ) [Actuals]
+            ) [DesignatorStatementFuncCall]
+          ) [StatementDesStat]
+        ) [Statements]
+        StatementIf(
+          Condition(
+            CondTerms(
+              CondFactNoRelop(
+                NoMinusExpr(
+                  Terms(
+                    Var(
+                      Design(
+                       milosjeglup
+                        NoDesList(
+                        ) [NoDesList]
+                      ) [Design]
+                    ) [Var]
+                    MyNoTermList(
+                    ) [MyNoTermList]
+                  ) [Terms]
+                  MyNoExprList(
+                  ) [MyNoExprList]
+                ) [NoMinusExpr]
+              ) [CondFactNoRelop]
+              MyNoCondTermList(
+              ) [MyNoCondTermList]
+            ) [CondTerms]
+            MyNoConditionList(
+            ) [MyNoConditionList]
+          ) [Condition]
+          StatementDesStat(
+            DesignatorStatementAssign(
+              ErrorDesAssStmtm(
+              ) [ErrorDesAssStmtm]
+            ) [DesignatorStatementAssign]
+          ) [StatementDesStat]
+        ) [StatementIf]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:24:13,368 - ===================================

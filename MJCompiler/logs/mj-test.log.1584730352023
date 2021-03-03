@@ -1,0 +1,80 @@
+INFO  19:50:46,718 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\parserProgram.mj
+INFO  19:50:46,769 - #2 program
+INFO  19:50:46,769 - #15 ParserTest
+INFO  19:50:46,769 - #15 int
+INFO  19:50:46,771 - #15 x
+INFO  19:50:46,773 - #12 ,
+INFO  19:50:46,774 - #15 y
+INFO  19:50:46,774 - #5 ;
+INFO  19:50:46,774 - #21 const
+INFO  19:50:46,777 - #15 int
+INFO  19:50:46,777 - #15 z
+INFO  19:50:46,777 - #8 =
+INFO  19:50:46,777 - #44 true
+INFO  19:50:46,777 - #5 ;
+INFO  19:50:46,780 - #3 {
+INFO  19:50:46,781 - #13 void
+INFO  19:50:46,781 - #15 main
+INFO  19:50:46,781 - #6 (
+INFO  19:50:46,782 - #7 )
+INFO  19:50:46,782 - #3 {
+INFO  19:50:46,783 - #4 }
+INFO  19:50:46,786 - #4 }
+INFO  19:50:46,794 - Program(
+  ProgName(
+   ParserTest
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyNoDeclList(
+      ) [MyNoDeclList]
+      VarDeclListElem(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclElemNoBraces(
+           x
+          ) [VarDeclElemNoBraces]
+          MyVarDeclList(
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+            VarDeclElemNoBraces(
+             y
+            ) [VarDeclElemNoBraces]
+          ) [MyVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    ConstDeclListElem(
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        ConstDeclElem(
+         z
+          BoolConst(
+          ) [BoolConst]
+        ) [ConstDeclElem]
+        MyNoConstDeclList(
+        ) [MyNoConstDeclList]
+      ) [ConstDecl]
+    ) [ConstDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyNoDeclListVar(
+      ) [MyNoDeclListVar]
+      NoStmt(
+      ) [NoStmt]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:50:46,794 - ===================================

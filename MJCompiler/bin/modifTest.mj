@@ -1,0 +1,31 @@
+program MJProgram
+	int x; int y;
+	int arr[];
+
+	class MojaKlasa
+	{
+		public int z;
+		public static int a;
+		
+		{
+			public MojaKlasa(int x,char y){
+				print(y);
+				z = x;
+				print(z);
+				MojaKlasa.a = 1;
+				a++;
+			}
+		}
+		
+	}
+	
+	
+	{
+	
+	void main() char c; bool b; int x; MojaKlasa m;{
+		
+		m = new MojaKlasa(3, 'z');
+		MojaKlasa.a++;
+		print(MojaKlasa.a); //  treba 3 da se isprinta
+	}
+}

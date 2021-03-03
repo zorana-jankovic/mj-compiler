@@ -1,0 +1,99 @@
+INFO  16:38:29,669 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\modifTest.mj
+INFO  16:38:29,763 - #2 program
+INFO  16:38:29,763 - #15 MJProgram
+INFO  16:38:29,763 - #15 int
+INFO  16:38:29,763 - #15 x
+INFO  16:38:29,763 - #5 ;
+INFO  16:38:29,763 - #15 int
+INFO  16:38:29,763 - #15 y
+INFO  16:38:29,763 - #5 ;
+INFO  16:38:29,763 - #15 int
+INFO  16:38:29,763 - #15 arr
+INFO  16:38:29,763 - #44 [
+INFO  16:38:29,763 - #45 ]
+INFO  16:38:29,763 - #5 ;
+INFO  16:38:29,763 - #21 class
+INFO  16:38:29,763 - #15 MojaKlasa
+INFO  16:38:29,763 - #3 {
+INFO  16:38:29,763 - #55 public
+INFO  16:38:29,763 - #15 int
+INFO  16:38:29,763 - #15 z
+INFO  16:38:29,763 - #5 ;
+INFO  16:38:29,763 - #3 {
+INFO  16:38:29,763 - #55 public
+INFO  16:38:29,763 - #15 MojaKlasa
+INFO  16:38:29,763 - #6 (
+INFO  16:38:29,763 - #15 int
+INFO  16:38:29,763 - #15 x
+INFO  16:38:29,763 - #12 ,
+INFO  16:38:29,763 - #15 char
+INFO  16:38:29,763 - #15 y
+INFO  16:38:29,763 - #7 )
+INFO  16:38:29,763 - #3 {
+INFO  16:38:29,763 - #11 print
+INFO  16:38:29,763 - #6 (
+INFO  16:38:29,763 - #15 y
+INFO  16:38:29,763 - #7 )
+INFO  16:38:29,763 - #5 ;
+INFO  16:38:29,763 - #15 z
+INFO  16:38:29,763 - #8 =
+INFO  16:38:29,763 - #15 x
+INFO  16:38:29,763 - #5 ;
+INFO  16:38:29,778 - #11 print
+INFO  16:38:29,778 - #6 (
+INFO  16:38:29,778 - #15 z
+INFO  16:38:29,778 - #7 )
+INFO  16:38:29,778 - #5 ;
+INFO  16:38:29,778 - #4 }
+INFO  16:38:29,778 - #4 }
+INFO  16:38:29,778 - #4 }
+INFO  16:38:29,778 - #3 {
+INFO  16:38:29,778 - #13 void
+INFO  16:38:29,778 - #15 main
+INFO  16:38:29,778 - #6 (
+INFO  16:38:29,778 - #7 )
+INFO  16:38:29,778 - #15 char
+INFO  16:38:29,778 - #15 c
+INFO  16:38:29,778 - #5 ;
+INFO  16:38:29,778 - #15 bool
+INFO  16:38:29,778 - #15 b
+INFO  16:38:29,778 - #5 ;
+INFO  16:38:29,778 - #15 int
+INFO  16:38:29,778 - #15 x
+INFO  16:38:29,778 - #5 ;
+INFO  16:38:29,778 - #15 MojaKlasa
+INFO  16:38:29,778 - #15 m
+INFO  16:38:29,778 - #5 ;
+INFO  16:38:29,778 - #3 {
+INFO  16:38:29,778 - #15 m
+INFO  16:38:29,778 - #8 =
+INFO  16:38:29,778 - #24 new
+INFO  16:38:29,778 - #15 MojaKlasa
+INFO  16:38:29,778 - #6 (
+INFO  16:38:29,778 - #14 3
+INFO  16:38:29,778 - #12 ,
+INFO  16:38:29,778 - #19 l
+INFO  16:38:29,778 - #7 )
+INFO  16:38:29,778 - #5 ;
+INFO  16:38:29,778 - #4 }
+INFO  16:38:29,778 - #4 }
+INFO  16:38:29,794 - ===================================
+INFO  16:38:29,809 - Deklarisana promenljiva x na liniji 2
+INFO  16:38:29,809 - Deklarisana promenljiva y na liniji 2
+INFO  16:38:29,809 - Deklarisana promenljiva arr na liniji 3
+INFO  16:38:29,809 - Obradjuje se unutrasnja klasa programa MojaKlasa na liniji 5
+INFO  16:38:29,809 - Deklarisano polje klase  z na liniji 7
+INFO  16:38:29,809 - Obradjuje se funkcija bez return iskaza MojaKlasa na liniji 10
+INFO  16:38:29,809 - Deklarisan formalni parametar x funkcije:MojaKlasa na liniji 10
+INFO  16:38:29,809 - Deklarisan formalni parametar y funkcije:MojaKlasa na liniji 10
+INFO  16:38:29,809 - Detektovan pristup polju klase:   z na liniji 12 na liniji 12
+INFO  16:38:29,809 - Detektovan pristup polju klase:   z na liniji 13 na liniji 13
+INFO  16:38:29,809 - Obradjuje se funkcija bez return iskaza main na liniji 22
+INFO  16:38:29,809 - Deklarisana promenljiva c na liniji 22
+INFO  16:38:29,809 - Deklarisana promenljiva b na liniji 22
+INFO  16:38:29,809 - Deklarisana promenljiva x na liniji 22
+INFO  16:38:29,809 - Deklarisana promenljiva m na liniji 22
+INFO  16:38:29,809 -  Print count calls = 2
+INFO  16:38:29,809 -  Deklarisanih promenljivih ima = 8
+INFO  16:38:29,809 - ===================================
+INFO  16:38:29,809 - Parsiranje uspesno zavrseno!

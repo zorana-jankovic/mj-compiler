@@ -1,0 +1,63 @@
+program MJProgram
+	int x; int y;
+	int arr[];
+{
+
+	//int k() int c;  {
+		//c = 2;
+		
+		//print(0);
+		
+		//return c+2;
+	//}
+	
+	void k (){
+		x++;
+	}
+	
+	int f1(){
+		return 10;
+	}
+		
+	void main() char c; bool b; int x;{
+	
+		x = 10;
+		
+		y = 100;
+		
+		c = 'a';
+		
+		print(c);
+		
+		b = true;
+		
+		print(b);
+	
+		x = (x + 2 * 3 * 10 /(10+50) + 10 - 1) % 10;
+
+		k();
+		
+		x = x - 5;
+		
+		x = y;
+		
+		read(x);
+		
+		print(-x);
+		
+		arr = new int[10];
+		arr[0] = 5;
+		arr[1] = 10;
+		arr[1]++;
+		arr[1]--;
+		
+		
+		arr[0] = arr[1];
+		print (arr[0]);
+		x = -4 + 5;
+		print(x);
+		
+		x = f1();
+		print(x, 5);
+	}
+}

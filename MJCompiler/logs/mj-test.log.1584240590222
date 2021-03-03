@@ -1,0 +1,91 @@
+INFO  03:47:39,667 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\pp1_domaci\workspace\MJCompiler\test\program.mj
+INFO  03:47:39,690 - #2 program
+INFO  03:47:39,690 - #15 MJProgram
+INFO  03:47:39,690 - #15 int
+INFO  03:47:39,690 - #15 x
+INFO  03:47:39,690 - #5 ;
+INFO  03:47:39,690 - #15 int
+INFO  03:47:39,690 - #15 y
+INFO  03:47:39,690 - #5 ;
+INFO  03:47:39,690 - #3 {
+INFO  03:47:39,690 - #15 int
+INFO  03:47:39,690 - #15 main
+INFO  03:47:39,690 - #6 (
+INFO  03:47:39,690 - #7 )
+INFO  03:47:39,690 - #3 {
+INFO  03:47:39,690 - #11 print
+INFO  03:47:39,705 - #6 (
+INFO  03:47:39,705 - #14 1
+INFO  03:47:39,705 - #7 )
+INFO  03:47:39,705 - #5 ;
+INFO  03:47:39,705 - #11 print
+INFO  03:47:39,705 - #6 (
+INFO  03:47:39,705 - #14 2
+INFO  03:47:39,705 - #7 )
+INFO  03:47:39,705 - #5 ;
+INFO  03:47:39,705 - #4 }
+INFO  03:47:39,705 - #4 }
+INFO  03:47:39,705 - Program(
+ MJProgram
+  VarDeclarations(
+    VarDeclarations(
+      NoVarDecl(
+      ) [NoVarDecl]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+       x
+      ) [VarDecl]
+    ) [VarDeclarations]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+     y
+    ) [VarDecl]
+  ) [VarDeclarations]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      Type(
+       int
+      ) [Type]
+     main
+      NoFormParam(
+      ) [NoFormParam]
+      NoVarDecl(
+      ) [NoVarDecl]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          PrintStmt(
+            TermExpr(
+              Term(
+                Const(
+                 1
+                ) [Const]
+              ) [Term]
+            ) [TermExpr]
+          ) [PrintStmt]
+        ) [Statements]
+        PrintStmt(
+          TermExpr(
+            Term(
+              Const(
+               2
+              ) [Const]
+            ) [Term]
+          ) [TermExpr]
+        ) [PrintStmt]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  03:47:39,705 - ===================================
+INFO  03:47:39,705 - Prepoznata naredba print!
+INFO  03:47:39,705 - Prepoznata naredba print!
+INFO  03:47:39,705 -  Print count calls = 2
+INFO  03:47:39,705 -  Deklarisanih promenljivih ima = 2

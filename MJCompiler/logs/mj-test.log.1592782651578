@@ -1,0 +1,158 @@
+INFO  01:37:25,068 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\nasledjivanje.mj
+INFO  01:37:25,150 - #2 program
+INFO  01:37:25,150 - #15 P
+INFO  01:37:25,150 - #22 abstract
+INFO  01:37:25,151 - #21 class
+INFO  01:37:25,152 - #15 I
+INFO  01:37:25,152 - #3 {
+INFO  01:37:25,153 - #3 {
+INFO  01:37:25,154 - #55 public
+INFO  01:37:25,154 - #22 abstract
+INFO  01:37:25,155 - #13 void
+INFO  01:37:25,158 - #15 pisi
+INFO  01:37:25,158 - #6 (
+INFO  01:37:25,158 - #7 )
+INFO  01:37:25,159 - #5 ;
+INFO  01:37:25,159 - #4 }
+INFO  01:37:25,159 - #4 }
+INFO  01:37:25,160 - #21 class
+INFO  01:37:25,160 - #15 A
+INFO  01:37:25,160 - #27 extends
+INFO  01:37:25,161 - #15 I
+INFO  01:37:25,163 - #3 {
+INFO  01:37:25,163 - #3 {
+INFO  01:37:25,163 - #55 public
+INFO  01:37:25,164 - #13 void
+INFO  01:37:25,164 - #15 pisi
+INFO  01:37:25,164 - #6 (
+INFO  01:37:25,164 - #7 )
+INFO  01:37:25,165 - #3 {
+INFO  01:37:25,165 - #11 print
+INFO  01:37:25,165 - #6 (
+INFO  01:37:25,165 - #19 A
+INFO  01:37:25,166 - #7 )
+INFO  01:37:25,167 - #5 ;
+INFO  01:37:25,167 - #4 }
+INFO  01:37:25,167 - #4 }
+INFO  01:37:25,168 - #4 }
+INFO  01:37:25,168 - #21 class
+INFO  01:37:25,169 - #15 B
+INFO  01:37:25,169 - #27 extends
+INFO  01:37:25,169 - #15 I
+INFO  01:37:25,169 - #3 {
+INFO  01:37:25,169 - #55 public
+INFO  01:37:25,169 - #15 int
+INFO  01:37:25,169 - #15 a
+INFO  01:37:25,169 - #5 ;
+INFO  01:37:25,170 - #4 }
+INFO  01:37:25,172 - #21 class
+INFO  01:37:25,172 - #15 C
+INFO  01:37:25,173 - #27 extends
+INFO  01:37:25,173 - #15 A
+INFO  01:37:25,173 - #3 {
+INFO  01:37:25,173 - #4 }
+INFO  01:37:25,173 - #21 class
+INFO  01:37:25,173 - #15 D
+INFO  01:37:25,173 - #27 extends
+INFO  01:37:25,173 - #15 B
+INFO  01:37:25,173 - #3 {
+INFO  01:37:25,173 - #4 }
+INFO  01:37:25,177 - #21 class
+INFO  01:37:25,177 - #15 E
+INFO  01:37:25,177 - #27 extends
+INFO  01:37:25,177 - #15 D
+INFO  01:37:25,177 - #3 {
+INFO  01:37:25,178 - #4 }
+INFO  01:37:25,178 - #3 {
+INFO  01:37:25,178 - #13 void
+INFO  01:37:25,178 - #15 main
+INFO  01:37:25,178 - #6 (
+INFO  01:37:25,178 - #7 )
+INFO  01:37:25,178 - #15 I
+INFO  01:37:25,178 - #15 i
+INFO  01:37:25,179 - #5 ;
+INFO  01:37:25,179 - #3 {
+INFO  01:37:25,179 - #15 i
+INFO  01:37:25,179 - #8 =
+INFO  01:37:25,180 - #24 new
+INFO  01:37:25,180 - #15 A
+INFO  01:37:25,180 - #5 ;
+INFO  01:37:25,181 - #15 i
+INFO  01:37:25,181 - #43 .
+INFO  01:37:25,181 - #15 pisi
+INFO  01:37:25,181 - #6 (
+INFO  01:37:25,182 - #7 )
+INFO  01:37:25,182 - #5 ;
+INFO  01:37:25,182 - #15 i
+INFO  01:37:25,182 - #8 =
+INFO  01:37:25,182 - #24 new
+INFO  01:37:25,183 - #15 B
+INFO  01:37:25,183 - #5 ;
+INFO  01:37:25,183 - #15 i
+INFO  01:37:25,183 - #43 .
+INFO  01:37:25,183 - #15 pisi
+INFO  01:37:25,183 - #6 (
+INFO  01:37:25,183 - #7 )
+INFO  01:37:25,183 - #5 ;
+INFO  01:37:25,183 - #15 i
+INFO  01:37:25,183 - #8 =
+INFO  01:37:25,184 - #24 new
+INFO  01:37:25,184 - #15 C
+INFO  01:37:25,184 - #5 ;
+INFO  01:37:25,184 - #15 i
+INFO  01:37:25,184 - #43 .
+INFO  01:37:25,184 - #15 pisi
+INFO  01:37:25,184 - #6 (
+INFO  01:37:25,184 - #7 )
+INFO  01:37:25,184 - #5 ;
+INFO  01:37:25,184 - #15 i
+INFO  01:37:25,184 - #8 =
+INFO  01:37:25,184 - #24 new
+INFO  01:37:25,184 - #15 D
+INFO  01:37:25,184 - #5 ;
+INFO  01:37:25,185 - #15 i
+INFO  01:37:25,185 - #43 .
+INFO  01:37:25,185 - #15 pisi
+INFO  01:37:25,185 - #6 (
+INFO  01:37:25,185 - #7 )
+INFO  01:37:25,185 - #5 ;
+INFO  01:37:25,185 - #15 i
+INFO  01:37:25,185 - #8 =
+INFO  01:37:25,185 - #24 new
+INFO  01:37:25,185 - #15 E
+INFO  01:37:25,185 - #5 ;
+INFO  01:37:25,185 - #15 i
+INFO  01:37:25,186 - #43 .
+INFO  01:37:25,186 - #15 pisi
+INFO  01:37:25,186 - #6 (
+INFO  01:37:25,186 - #7 )
+INFO  01:37:25,186 - #5 ;
+INFO  01:37:25,186 - #4 }
+INFO  01:37:25,186 - #4 }
+INFO  01:37:25,200 - ===================================
+INFO  01:37:25,205 - Obradjuje se unutrasnja apstraktna klasa programa I na liniji 2
+INFO  01:37:25,205 - Obradjuje se deklaracija apstraktne funkcije bez return iskaza pisi na liniji 4
+INFO  01:37:25,205 - Obradjuje se unutrasnja klasa programa A na liniji 8
+INFO  01:37:25,205 - Obradjuje se funkcija bez return iskaza pisi na liniji 10
+INFO  01:37:25,206 - Obradjuje se unutrasnja klasa programa B na liniji 13
+INFO  01:37:25,206 - Deklarisano polje klase  a na liniji 14
+ERROR 01:37:25,206 - Semanticka greska na liniji 13: klasa izvedena iz apstraktne klase mora implementirati sve njene apstraktne metode!
+INFO  01:37:25,206 - Obradjuje se unutrasnja klasa programa C na liniji 17
+INFO  01:37:25,206 - Obradjuje se unutrasnja klasa programa D na liniji 20
+INFO  01:37:25,206 - Obradjuje se unutrasnja klasa programa E na liniji 23
+INFO  01:37:25,206 - Obradjuje se funkcija bez return iskaza main na liniji 29
+INFO  01:37:25,206 - Deklarisana promenljiva i na liniji 30
+INFO  01:37:25,206 - Detektovan pristup polju klase:  pisi na liniji 33 na liniji 33
+INFO  01:37:25,206 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 33 na liniji 33
+INFO  01:37:25,206 - Detektovan pristup polju klase:  pisi na liniji 35 na liniji 35
+INFO  01:37:25,206 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 35 na liniji 35
+INFO  01:37:25,206 - Detektovan pristup polju klase:  pisi na liniji 37 na liniji 37
+INFO  01:37:25,207 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 37 na liniji 37
+INFO  01:37:25,207 - Detektovan pristup polju klase:  pisi na liniji 39 na liniji 39
+INFO  01:37:25,207 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 39 na liniji 39
+INFO  01:37:25,207 - Detektovan pristup polju klase:  pisi na liniji 41 na liniji 41
+INFO  01:37:25,207 - Detektovan poziv  metoda unutrasnje klase:   pisi na liniji 41 na liniji 41
+INFO  01:37:25,207 -  Print count calls = 1
+INFO  01:37:25,207 -  Deklarisanih promenljivih ima = 2
+INFO  01:37:25,207 - ===================================
+ERROR 01:37:25,207 - Parsiranje NIJE uspesno zavrseno!

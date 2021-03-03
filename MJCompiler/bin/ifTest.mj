@@ -1,0 +1,48 @@
+program MJProgram
+	int x; int y;
+	int arr[];
+{
+
+	
+		
+	int f(int a){
+		return 1;
+	}
+	
+	void main() bool c; bool b; int x;{
+	
+		//x = 5;
+		//y = 3;
+		
+		//if (x<y){
+		//	print(x);
+		//}
+		//else{
+		//	print(y);
+		//}
+		
+		//arr = new int[3];
+		
+		//arr[0] = x;
+		//arr[1] = x+1;
+		
+		//if (f(0)<arr[1]){
+		//	print(f(0));
+		//}
+		
+		b = true;
+		c = true;
+		
+		if (c || false || true && false && true){
+		 	if (false || true && true){
+				print('i');
+			}
+			else{
+				print('z');
+			}
+		}
+		else{
+			print('e');
+		}
+	}
+}

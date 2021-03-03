@@ -1,0 +1,81 @@
+INFO  19:50:29,367 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\parserProgram.mj
+INFO  19:50:29,420 - #2 program
+INFO  19:50:29,421 - #15 ParserTest
+INFO  19:50:29,422 - #15 int
+INFO  19:50:29,423 - #15 x
+INFO  19:50:29,424 - #12 ,
+INFO  19:50:29,425 - #15 y
+INFO  19:50:29,426 - #5 ;
+INFO  19:50:29,426 - #21 const
+INFO  19:50:29,427 - #15 int
+INFO  19:50:29,427 - #15 z
+INFO  19:50:29,428 - #8 =
+INFO  19:50:29,428 - #14 5
+INFO  19:50:29,428 - #5 ;
+INFO  19:50:29,429 - #3 {
+INFO  19:50:29,430 - #13 void
+INFO  19:50:29,431 - #15 main
+INFO  19:50:29,431 - #6 (
+INFO  19:50:29,431 - #7 )
+INFO  19:50:29,432 - #3 {
+INFO  19:50:29,433 - #4 }
+INFO  19:50:29,435 - #4 }
+INFO  19:50:29,450 - Program(
+  ProgName(
+   ParserTest
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyNoDeclList(
+      ) [MyNoDeclList]
+      VarDeclListElem(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclElemNoBraces(
+           x
+          ) [VarDeclElemNoBraces]
+          MyVarDeclList(
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+            VarDeclElemNoBraces(
+             y
+            ) [VarDeclElemNoBraces]
+          ) [MyVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    ConstDeclListElem(
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        ConstDeclElem(
+         z
+          NumConst(
+           5
+          ) [NumConst]
+        ) [ConstDeclElem]
+        MyNoConstDeclList(
+        ) [MyNoConstDeclList]
+      ) [ConstDecl]
+    ) [ConstDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyNoDeclListVar(
+      ) [MyNoDeclListVar]
+      NoStmt(
+      ) [NoStmt]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:50:29,450 - ===================================

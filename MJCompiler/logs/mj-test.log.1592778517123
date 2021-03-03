@@ -1,0 +1,469 @@
+INFO  00:26:40,908 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\ClassTest.mj
+INFO  00:26:40,978 - #2 program
+INFO  00:26:40,978 - #15 MJProgram
+INFO  00:26:40,978 - #15 int
+INFO  00:26:40,979 - #15 x
+INFO  00:26:40,980 - #5 ;
+INFO  00:26:40,980 - #15 int
+INFO  00:26:40,981 - #15 y
+INFO  00:26:40,981 - #5 ;
+INFO  00:26:40,981 - #15 int
+INFO  00:26:40,982 - #15 arr
+INFO  00:26:40,982 - #44 [
+INFO  00:26:40,982 - #45 ]
+INFO  00:26:40,982 - #5 ;
+INFO  00:26:40,982 - #22 abstract
+INFO  00:26:40,982 - #21 class
+INFO  00:26:40,982 - #15 Klasa0
+INFO  00:26:40,982 - #3 {
+INFO  00:26:40,983 - #55 public
+INFO  00:26:40,984 - #15 int
+INFO  00:26:40,984 - #15 z
+INFO  00:26:40,986 - #5 ;
+INFO  00:26:40,986 - #3 {
+INFO  00:26:40,986 - #55 public
+INFO  00:26:40,987 - #22 abstract
+INFO  00:26:40,987 - #15 int
+INFO  00:26:40,988 - #15 dohvBr
+INFO  00:26:40,988 - #6 (
+INFO  00:26:40,988 - #7 )
+INFO  00:26:40,989 - #5 ;
+INFO  00:26:40,989 - #4 }
+INFO  00:26:40,989 - #4 }
+INFO  00:26:40,989 - #22 abstract
+INFO  00:26:40,990 - #21 class
+INFO  00:26:40,990 - #15 Klasa1
+INFO  00:26:40,991 - #27 extends
+INFO  00:26:40,991 - #15 Klasa0
+INFO  00:26:40,991 - #3 {
+INFO  00:26:40,991 - #55 public
+INFO  00:26:40,991 - #15 int
+INFO  00:26:40,991 - #15 m
+INFO  00:26:40,991 - #5 ;
+INFO  00:26:40,991 - #3 {
+INFO  00:26:40,991 - #55 public
+INFO  00:26:40,991 - #15 int
+INFO  00:26:40,991 - #15 dohvBr
+INFO  00:26:40,991 - #6 (
+INFO  00:26:40,991 - #7 )
+INFO  00:26:40,991 - #15 int
+INFO  00:26:40,991 - #15 m
+INFO  00:26:40,992 - #5 ;
+INFO  00:26:40,992 - #3 {
+INFO  00:26:40,992 - #15 z
+INFO  00:26:40,993 - #8 =
+INFO  00:26:40,994 - #14 3
+INFO  00:26:40,995 - #5 ;
+INFO  00:26:40,996 - #9 return
+INFO  00:26:40,997 - #15 z
+INFO  00:26:40,997 - #5 ;
+INFO  00:26:41,001 - #4 }
+INFO  00:26:41,001 - #4 }
+INFO  00:26:41,002 - #4 }
+INFO  00:26:41,002 - #21 class
+INFO  00:26:41,002 - #15 Klasa2
+INFO  00:26:41,003 - #27 extends
+INFO  00:26:41,004 - #15 Klasa1
+INFO  00:26:41,004 - #3 {
+INFO  00:26:41,004 - #55 public
+INFO  00:26:41,004 - #15 int
+INFO  00:26:41,004 - #15 n
+INFO  00:26:41,004 - #5 ;
+INFO  00:26:41,004 - #3 {
+INFO  00:26:41,004 - #55 public
+INFO  00:26:41,005 - #13 void
+INFO  00:26:41,006 - #15 init
+INFO  00:26:41,006 - #6 (
+INFO  00:26:41,006 - #7 )
+INFO  00:26:41,006 - #3 {
+INFO  00:26:41,006 - #15 n
+INFO  00:26:41,006 - #8 =
+INFO  00:26:41,007 - #14 10
+INFO  00:26:41,007 - #5 ;
+INFO  00:26:41,007 - #15 m
+INFO  00:26:41,007 - #8 =
+INFO  00:26:41,007 - #14 15
+INFO  00:26:41,007 - #5 ;
+INFO  00:26:41,008 - #15 z
+INFO  00:26:41,008 - #8 =
+INFO  00:26:41,008 - #14 5
+INFO  00:26:41,008 - #5 ;
+INFO  00:26:41,008 - #4 }
+INFO  00:26:41,008 - #55 public
+INFO  00:26:41,008 - #15 int
+INFO  00:26:41,008 - #15 dohvBr
+INFO  00:26:41,008 - #6 (
+INFO  00:26:41,009 - #7 )
+INFO  00:26:41,009 - #3 {
+INFO  00:26:41,009 - #9 return
+INFO  00:26:41,009 - #15 m
+INFO  00:26:41,009 - #10 +
+INFO  00:26:41,009 - #15 n
+INFO  00:26:41,010 - #10 +
+INFO  00:26:41,011 - #15 z
+INFO  00:26:41,011 - #5 ;
+INFO  00:26:41,011 - #4 }
+INFO  00:26:41,011 - #4 }
+INFO  00:26:41,011 - #4 }
+INFO  00:26:41,012 - #21 class
+INFO  00:26:41,012 - #15 mojaKlasa
+INFO  00:26:41,012 - #27 extends
+INFO  00:26:41,012 - #15 Klasa2
+INFO  00:26:41,012 - #3 {
+INFO  00:26:41,012 - #55 public
+INFO  00:26:41,012 - #15 Klasa2
+INFO  00:26:41,012 - #15 k2
+INFO  00:26:41,013 - #5 ;
+INFO  00:26:41,013 - #3 {
+INFO  00:26:41,013 - #55 public
+INFO  00:26:41,013 - #13 void
+INFO  00:26:41,013 - #15 init
+INFO  00:26:41,013 - #6 (
+INFO  00:26:41,013 - #7 )
+INFO  00:26:41,013 - #3 {
+INFO  00:26:41,013 - #15 k2
+INFO  00:26:41,013 - #8 =
+INFO  00:26:41,014 - #24 new
+INFO  00:26:41,014 - #15 Klasa2
+INFO  00:26:41,014 - #5 ;
+INFO  00:26:41,014 - #4 }
+INFO  00:26:41,014 - #55 public
+INFO  00:26:41,015 - #15 int
+INFO  00:26:41,015 - #15 dohvBr
+INFO  00:26:41,015 - #6 (
+INFO  00:26:41,015 - #7 )
+INFO  00:26:41,015 - #3 {
+INFO  00:26:41,015 - #15 k2
+INFO  00:26:41,015 - #43 .
+INFO  00:26:41,015 - #15 init
+INFO  00:26:41,015 - #6 (
+INFO  00:26:41,016 - #7 )
+INFO  00:26:41,016 - #5 ;
+INFO  00:26:41,017 - #9 return
+INFO  00:26:41,017 - #15 k2
+INFO  00:26:41,017 - #43 .
+INFO  00:26:41,017 - #15 dohvBr
+INFO  00:26:41,017 - #6 (
+INFO  00:26:41,017 - #7 )
+INFO  00:26:41,018 - #5 ;
+INFO  00:26:41,018 - #4 }
+INFO  00:26:41,018 - #4 }
+INFO  00:26:41,018 - #4 }
+INFO  00:26:41,018 - #3 {
+INFO  00:26:41,018 - #13 void
+INFO  00:26:41,018 - #15 main
+INFO  00:26:41,018 - #6 (
+INFO  00:26:41,018 - #7 )
+INFO  00:26:41,018 - #15 mojaKlasa
+INFO  00:26:41,018 - #15 km
+INFO  00:26:41,018 - #12 ,
+INFO  00:26:41,018 - #15 nizklasa
+INFO  00:26:41,018 - #44 [
+INFO  00:26:41,018 - #45 ]
+INFO  00:26:41,018 - #5 ;
+INFO  00:26:41,018 - #15 int
+INFO  00:26:41,019 - #15 niz
+INFO  00:26:41,019 - #44 [
+INFO  00:26:41,019 - #45 ]
+INFO  00:26:41,019 - #12 ,
+INFO  00:26:41,019 - #15 i
+INFO  00:26:41,019 - #12 ,
+INFO  00:26:41,019 - #15 n
+INFO  00:26:41,019 - #5 ;
+INFO  00:26:41,019 - #3 {
+INFO  00:26:41,019 - #15 niz
+INFO  00:26:41,019 - #8 =
+INFO  00:26:41,019 - #24 new
+INFO  00:26:41,019 - #15 int
+INFO  00:26:41,019 - #44 [
+INFO  00:26:41,019 - #14 3
+INFO  00:26:41,019 - #45 ]
+INFO  00:26:41,020 - #5 ;
+INFO  00:26:41,020 - #26 for
+INFO  00:26:41,020 - #6 (
+INFO  00:26:41,020 - #15 i
+INFO  00:26:41,020 - #8 =
+INFO  00:26:41,020 - #14 0
+INFO  00:26:41,020 - #5 ;
+INFO  00:26:41,020 - #15 i
+INFO  00:26:41,020 - #38 <=
+INFO  00:26:41,020 - #14 2
+INFO  00:26:41,021 - #5 ;
+INFO  00:26:41,023 - #15 i
+INFO  00:26:41,023 - #41 ++
+INFO  00:26:41,023 - #7 )
+INFO  00:26:41,023 - #3 {
+INFO  00:26:41,023 - #25 read
+INFO  00:26:41,023 - #6 (
+INFO  00:26:41,024 - #15 niz
+INFO  00:26:41,024 - #44 [
+INFO  00:26:41,024 - #15 i
+INFO  00:26:41,024 - #45 ]
+INFO  00:26:41,024 - #7 )
+INFO  00:26:41,024 - #5 ;
+INFO  00:26:41,024 - #4 }
+INFO  00:26:41,024 - #51 foreach
+INFO  00:26:41,025 - #6 (
+INFO  00:26:41,025 - #15 i
+INFO  00:26:41,025 - #52 :
+INFO  00:26:41,026 - #15 niz
+INFO  00:26:41,026 - #7 )
+INFO  00:26:41,027 - #3 {
+INFO  00:26:41,027 - #11 print
+INFO  00:26:41,027 - #6 (
+INFO  00:26:41,027 - #15 i
+INFO  00:26:41,027 - #7 )
+INFO  00:26:41,027 - #5 ;
+INFO  00:26:41,027 - #11 print
+INFO  00:26:41,027 - #6 (
+INFO  00:26:41,027 - #15 eol
+INFO  00:26:41,027 - #7 )
+INFO  00:26:41,027 - #5 ;
+INFO  00:26:41,027 - #4 }
+INFO  00:26:41,027 - #11 print
+INFO  00:26:41,028 - #6 (
+INFO  00:26:41,028 - #15 eol
+INFO  00:26:41,028 - #7 )
+INFO  00:26:41,028 - #5 ;
+INFO  00:26:41,028 - #11 print
+INFO  00:26:41,028 - #6 (
+INFO  00:26:41,028 - #15 eol
+INFO  00:26:41,028 - #7 )
+INFO  00:26:41,028 - #5 ;
+INFO  00:26:41,028 - #11 print
+INFO  00:26:41,029 - #6 (
+INFO  00:26:41,029 - #15 eol
+INFO  00:26:41,029 - #7 )
+INFO  00:26:41,029 - #5 ;
+INFO  00:26:41,029 - #15 km
+INFO  00:26:41,029 - #8 =
+INFO  00:26:41,029 - #24 new
+INFO  00:26:41,029 - #15 mojaKlasa
+INFO  00:26:41,029 - #5 ;
+INFO  00:26:41,029 - #15 km
+INFO  00:26:41,029 - #43 .
+INFO  00:26:41,029 - #15 init
+INFO  00:26:41,029 - #6 (
+INFO  00:26:41,029 - #7 )
+INFO  00:26:41,029 - #5 ;
+INFO  00:26:41,029 - #25 read
+INFO  00:26:41,029 - #6 (
+INFO  00:26:41,029 - #15 km
+INFO  00:26:41,029 - #43 .
+INFO  00:26:41,029 - #15 k2
+INFO  00:26:41,030 - #43 .
+INFO  00:26:41,030 - #15 n
+INFO  00:26:41,030 - #7 )
+INFO  00:26:41,030 - #5 ;
+INFO  00:26:41,030 - #11 print
+INFO  00:26:41,030 - #6 (
+INFO  00:26:41,031 - #15 km
+INFO  00:26:41,031 - #43 .
+INFO  00:26:41,031 - #15 k2
+INFO  00:26:41,031 - #43 .
+INFO  00:26:41,031 - #15 n
+INFO  00:26:41,031 - #7 )
+INFO  00:26:41,031 - #5 ;
+INFO  00:26:41,031 - #11 print
+INFO  00:26:41,031 - #6 (
+INFO  00:26:41,031 - #15 eol
+INFO  00:26:41,031 - #7 )
+INFO  00:26:41,031 - #5 ;
+INFO  00:26:41,031 - #11 print
+INFO  00:26:41,031 - #6 (
+INFO  00:26:41,031 - #15 km
+INFO  00:26:41,031 - #43 .
+INFO  00:26:41,031 - #15 dohvBr
+INFO  00:26:41,031 - #6 (
+INFO  00:26:41,032 - #7 )
+INFO  00:26:41,032 - #7 )
+INFO  00:26:41,032 - #5 ;
+INFO  00:26:41,032 - #15 n
+INFO  00:26:41,032 - #8 =
+INFO  00:26:41,032 - #14 5
+INFO  00:26:41,032 - #5 ;
+INFO  00:26:41,032 - #15 nizklasa
+INFO  00:26:41,032 - #8 =
+INFO  00:26:41,032 - #24 new
+INFO  00:26:41,032 - #15 mojaKlasa
+INFO  00:26:41,032 - #44 [
+INFO  00:26:41,032 - #15 n
+INFO  00:26:41,032 - #45 ]
+INFO  00:26:41,033 - #5 ;
+INFO  00:26:41,033 - #26 for
+INFO  00:26:41,033 - #6 (
+INFO  00:26:41,033 - #15 i
+INFO  00:26:41,033 - #8 =
+INFO  00:26:41,033 - #14 0
+INFO  00:26:41,033 - #5 ;
+INFO  00:26:41,033 - #15 i
+INFO  00:26:41,033 - #37 <
+INFO  00:26:41,033 - #15 n
+INFO  00:26:41,034 - #5 ;
+INFO  00:26:41,034 - #15 i
+INFO  00:26:41,034 - #41 ++
+INFO  00:26:41,034 - #7 )
+INFO  00:26:41,034 - #3 {
+INFO  00:26:41,034 - #15 nizklasa
+INFO  00:26:41,034 - #44 [
+INFO  00:26:41,034 - #15 i
+INFO  00:26:41,034 - #45 ]
+INFO  00:26:41,034 - #8 =
+INFO  00:26:41,034 - #24 new
+INFO  00:26:41,034 - #15 mojaKlasa
+INFO  00:26:41,034 - #5 ;
+INFO  00:26:41,034 - #4 }
+INFO  00:26:41,034 - #15 nizklasa
+INFO  00:26:41,034 - #44 [
+INFO  00:26:41,035 - #15 n
+INFO  00:26:41,035 - #29 -
+INFO  00:26:41,035 - #14 1
+INFO  00:26:41,035 - #45 ]
+INFO  00:26:41,035 - #8 =
+INFO  00:26:41,035 - #15 null
+INFO  00:26:41,035 - #5 ;
+INFO  00:26:41,035 - #17 if
+INFO  00:26:41,035 - #6 (
+INFO  00:26:41,036 - #15 nizklasa
+INFO  00:26:41,036 - #44 [
+INFO  00:26:41,036 - #14 4
+INFO  00:26:41,036 - #45 ]
+INFO  00:26:41,036 - #33 ==
+INFO  00:26:41,036 - #15 null
+INFO  00:26:41,037 - #7 )
+INFO  00:26:41,037 - #3 {
+INFO  00:26:41,037 - #11 print
+INFO  00:26:41,038 - #6 (
+INFO  00:26:41,038 - #19 n
+INFO  00:26:41,038 - #7 )
+INFO  00:26:41,038 - #5 ;
+INFO  00:26:41,038 - #11 print
+INFO  00:26:41,038 - #6 (
+INFO  00:26:41,038 - #15 eol
+INFO  00:26:41,038 - #7 )
+INFO  00:26:41,038 - #5 ;
+INFO  00:26:41,038 - #4 }
+INFO  00:26:41,038 - #15 i
+INFO  00:26:41,039 - #8 =
+INFO  00:26:41,039 - #14 0
+INFO  00:26:41,039 - #5 ;
+INFO  00:26:41,039 - #51 foreach
+INFO  00:26:41,039 - #6 (
+INFO  00:26:41,039 - #15 km
+INFO  00:26:41,040 - #52 :
+INFO  00:26:41,040 - #15 nizklasa
+INFO  00:26:41,040 - #7 )
+INFO  00:26:41,040 - #3 {
+INFO  00:26:41,040 - #17 if
+INFO  00:26:41,040 - #6 (
+INFO  00:26:41,040 - #15 km
+INFO  00:26:41,040 - #33 ==
+INFO  00:26:41,040 - #15 null
+INFO  00:26:41,040 - #7 )
+INFO  00:26:41,040 - #3 {
+INFO  00:26:41,040 - #28 continue
+INFO  00:26:41,040 - #5 ;
+INFO  00:26:41,040 - #4 }
+INFO  00:26:41,041 - #15 i
+INFO  00:26:41,041 - #41 ++
+INFO  00:26:41,041 - #5 ;
+INFO  00:26:41,041 - #15 km
+INFO  00:26:41,041 - #43 .
+INFO  00:26:41,041 - #15 init
+INFO  00:26:41,041 - #6 (
+INFO  00:26:41,041 - #7 )
+INFO  00:26:41,041 - #5 ;
+INFO  00:26:41,041 - #11 print
+INFO  00:26:41,041 - #6 (
+INFO  00:26:41,041 - #15 km
+INFO  00:26:41,041 - #43 .
+INFO  00:26:41,041 - #15 dohvBr
+INFO  00:26:41,041 - #6 (
+INFO  00:26:41,041 - #7 )
+INFO  00:26:41,041 - #10 +
+INFO  00:26:41,041 - #15 i
+INFO  00:26:41,041 - #7 )
+INFO  00:26:41,042 - #5 ;
+INFO  00:26:41,042 - #11 print
+INFO  00:26:41,042 - #6 (
+INFO  00:26:41,042 - #15 eol
+INFO  00:26:41,042 - #7 )
+INFO  00:26:41,042 - #5 ;
+INFO  00:26:41,042 - #4 }
+INFO  00:26:41,042 - #11 print
+INFO  00:26:41,042 - #6 (
+INFO  00:26:41,042 - #15 i
+INFO  00:26:41,042 - #7 )
+INFO  00:26:41,042 - #5 ;
+INFO  00:26:41,042 - #4 }
+INFO  00:26:41,042 - #4 }
+INFO  00:26:41,049 - ===================================
+INFO  00:26:41,053 - Deklarisana promenljiva x na liniji 2
+INFO  00:26:41,054 - Deklarisana promenljiva y na liniji 2
+INFO  00:26:41,054 - Deklarisana promenljiva arr na liniji 3
+INFO  00:26:41,054 - Obradjuje se unutrasnja apstraktna klasa programa Klasa0 na liniji 5
+INFO  00:26:41,054 - Deklarisano polje klase  z na liniji 7
+INFO  00:26:41,054 - Obradjuje se deklaracija apstraktne funkcije sa return iskazom dohvBr na liniji 10
+INFO  00:26:41,054 - Obradjuje se unutrasnja apstraktna klasa programa Klasa1 na liniji 15
+INFO  00:26:41,054 - Deklarisano polje klase  m na liniji 17
+INFO  00:26:41,054 - Obradjuje se funkcija sa return iskazom dohvBr na liniji 20
+INFO  00:26:41,054 - Deklarisana promenljiva m na liniji 20
+INFO  00:26:41,054 - Detektovan pristup polju klase:   z na liniji 21 na liniji 21
+INFO  00:26:41,054 - Detektovan pristup polju klase:   z na liniji 22 na liniji 22
+INFO  00:26:41,055 - Obradjuje se unutrasnja klasa programa Klasa2 na liniji 29
+INFO  00:26:41,055 - Deklarisano polje klase  n na liniji 31
+INFO  00:26:41,055 - Obradjuje se funkcija bez return iskaza init na liniji 33
+INFO  00:26:41,055 - Detektovan pristup polju klase:   n na liniji 34 na liniji 34
+INFO  00:26:41,055 - Detektovan pristup polju klase:   m na liniji 35 na liniji 35
+INFO  00:26:41,055 - Detektovan pristup polju klase:   z na liniji 36 na liniji 36
+INFO  00:26:41,055 - Obradjuje se funkcija sa return iskazom dohvBr na liniji 39
+INFO  00:26:41,055 - Detektovan pristup polju klase:   m na liniji 41 na liniji 41
+INFO  00:26:41,055 - Detektovan pristup polju klase:   n na liniji 41 na liniji 41
+INFO  00:26:41,055 - Detektovan pristup polju klase:   z na liniji 41 na liniji 41
+INFO  00:26:41,056 - Obradjuje se unutrasnja klasa programa mojaKlasa na liniji 47
+INFO  00:26:41,056 - Deklarisano polje klase  k2 na liniji 49
+INFO  00:26:41,056 - Obradjuje se funkcija bez return iskaza init na liniji 51
+INFO  00:26:41,056 - Detektovan pristup polju klase:   k2 na liniji 52 na liniji 52
+INFO  00:26:41,056 - Obradjuje se funkcija sa return iskazom dohvBr na liniji 55
+INFO  00:26:41,056 - Detektovan pristup polju klase:  init na liniji 56 na liniji 56
+INFO  00:26:41,056 - Detektovan poziv  metoda unutrasnje klase:   init na liniji 56 na liniji 56
+INFO  00:26:41,056 - Detektovan pristup polju klase:  dohvBr na liniji 57 na liniji 57
+INFO  00:26:41,056 - Detektovan poziv  metoda unutrasnje klase:   dohvBr na liniji 57 na liniji 57
+INFO  00:26:41,056 - Obradjuje se funkcija bez return iskaza main na liniji 63
+INFO  00:26:41,056 - Deklarisana promenljiva km na liniji 63
+INFO  00:26:41,056 - Deklarisana promenljiva nizklasa na liniji 63
+INFO  00:26:41,056 - Deklarisana promenljiva niz na liniji 64
+INFO  00:26:41,056 - Deklarisana promenljiva i na liniji 64
+INFO  00:26:41,056 - Deklarisana promenljiva n na liniji 64
+INFO  00:26:41,056 - Detektovan pristup elementu niza:   niz na liniji 70 na liniji 70
+INFO  00:26:41,057 - Detektovan pristup simbolickoj konstanti:   eol na liniji 76 na liniji 76
+INFO  00:26:41,057 - Detektovan pristup simbolickoj konstanti:   eol na liniji 79 na liniji 79
+INFO  00:26:41,057 - Detektovan pristup simbolickoj konstanti:   eol na liniji 80 na liniji 80
+INFO  00:26:41,057 - Detektovan pristup simbolickoj konstanti:   eol na liniji 81 na liniji 81
+INFO  00:26:41,057 - Detektovan pristup polju klase:  init na liniji 90 na liniji 90
+INFO  00:26:41,057 - Detektovan poziv  metoda unutrasnje klase:   init na liniji 90 na liniji 90
+INFO  00:26:41,057 - Detektovan pristup polju klase:  k2 na liniji 94 na liniji 94
+INFO  00:26:41,057 - Detektovan pristup polju klase:  n na liniji 94 na liniji 94
+INFO  00:26:41,057 - Detektovan pristup polju klase:   n na liniji 94 na liniji 94
+INFO  00:26:41,057 - Detektovan pristup polju klase:  k2 na liniji 95 na liniji 95
+INFO  00:26:41,057 - Detektovan pristup polju klase:  n na liniji 95 na liniji 95
+INFO  00:26:41,057 - Detektovan pristup polju klase:   n na liniji 95 na liniji 95
+INFO  00:26:41,057 - Detektovan pristup simbolickoj konstanti:   eol na liniji 96 na liniji 96
+INFO  00:26:41,057 - Detektovan pristup polju klase:  dohvBr na liniji 98 na liniji 98
+INFO  00:26:41,057 - Detektovan poziv  metoda unutrasnje klase:   dohvBr na liniji 98 na liniji 98
+INFO  00:26:41,057 - Detektovan pristup elementu niza:   nizklasa na liniji 103 na liniji 103
+INFO  00:26:41,057 - Detektovan pristup elementu niza:   nizklasa na liniji 106 na liniji 106
+INFO  00:26:41,057 - Detektovan pristup simbolickoj konstanti:   null na liniji 106 na liniji 106
+INFO  00:26:41,057 - Detektovan pristup elementu niza:   nizklasa na liniji 108 na liniji 108
+INFO  00:26:41,057 - Detektovan pristup simbolickoj konstanti:   null na liniji 108 na liniji 108
+INFO  00:26:41,058 - Detektovan pristup simbolickoj konstanti:   eol na liniji 110 na liniji 110
+INFO  00:26:41,058 - Detektovan pristup simbolickoj konstanti:   null na liniji 114 na liniji 114
+INFO  00:26:41,058 - Detektovan pristup polju klase:  init na liniji 118 na liniji 118
+INFO  00:26:41,058 - Detektovan poziv  metoda unutrasnje klase:   init na liniji 118 na liniji 118
+INFO  00:26:41,058 - Detektovan pristup polju klase:  dohvBr na liniji 119 na liniji 119
+INFO  00:26:41,058 - Detektovan poziv  metoda unutrasnje klase:   dohvBr na liniji 119 na liniji 119
+INFO  00:26:41,058 - Detektovan pristup simbolickoj konstanti:   eol na liniji 120 na liniji 120
+INFO  00:26:41,058 -  Print count calls = 13
+INFO  00:26:41,058 -  Deklarisanih promenljivih ima = 13
+INFO  00:26:41,058 - ===================================
+INFO  00:26:41,070 - Parsiranje uspesno zavrseno!

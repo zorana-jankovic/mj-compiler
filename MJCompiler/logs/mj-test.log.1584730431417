@@ -1,0 +1,61 @@
+INFO  19:52:32,026 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\parserProgram.mj
+INFO  19:52:32,084 - #2 program
+INFO  19:52:32,084 - #15 ParserTest
+INFO  19:52:32,084 - #15 int
+INFO  19:52:32,085 - #15 x
+INFO  19:52:32,087 - #12 ,
+INFO  19:52:32,089 - #15 y
+INFO  19:52:32,089 - #5 ;
+INFO  19:52:32,089 - #21 const
+INFO  19:52:32,092 - #15 int
+INFO  19:52:32,092 - #15 z
+INFO  19:52:32,092 - #8 =
+INFO  19:52:32,092 - #44 true
+INFO  19:52:32,093 - #5 ;
+INFO  19:52:32,095 - #3 {
+INFO  19:52:32,096 - #4 }
+INFO  19:52:32,111 - Program(
+  ProgName(
+   ParserTest
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyNoDeclList(
+      ) [MyNoDeclList]
+      VarDeclListElem(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclElemNoBraces(
+           x
+          ) [VarDeclElemNoBraces]
+          MyVarDeclList(
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+            VarDeclElemNoBraces(
+             y
+            ) [VarDeclElemNoBraces]
+          ) [MyVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    ConstDeclListElem(
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        ConstDeclElem(
+         z
+          BoolConst(
+          ) [BoolConst]
+        ) [ConstDeclElem]
+        MyNoConstDeclList(
+        ) [MyNoConstDeclList]
+      ) [ConstDecl]
+    ) [ConstDeclListElem]
+  ) [MyDeclList]
+  NoMethodDecl(
+  ) [NoMethodDecl]
+) [Program]
+INFO  19:52:32,113 - ===================================

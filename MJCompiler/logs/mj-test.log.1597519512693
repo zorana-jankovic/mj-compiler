@@ -1,0 +1,178 @@
+INFO  21:23:56,475 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\nasledjivanje.mj
+INFO  21:23:56,563 - #2 program
+INFO  21:23:56,563 - #15 P
+INFO  21:23:56,564 - #22 abstract
+INFO  21:23:56,565 - #21 class
+INFO  21:23:56,565 - #15 Testnista
+INFO  21:23:56,565 - #3 {
+INFO  21:23:56,567 - #4 }
+INFO  21:23:56,568 - #22 abstract
+INFO  21:23:56,568 - #21 class
+INFO  21:23:56,569 - #15 I
+INFO  21:23:56,569 - #3 {
+INFO  21:23:56,569 - #4 }
+INFO  21:23:56,569 - #21 class
+INFO  21:23:56,569 - #15 A
+INFO  21:23:56,569 - #27 extends
+INFO  21:23:56,570 - #15 I
+INFO  21:23:56,570 - #3 {
+INFO  21:23:56,571 - #3 {
+INFO  21:23:56,571 - #55 public
+INFO  21:23:56,572 - #13 void
+INFO  21:23:56,573 - #15 pisi
+INFO  21:23:56,576 - #6 (
+INFO  21:23:56,576 - #7 )
+INFO  21:23:56,577 - #3 {
+INFO  21:23:56,577 - #11 print
+INFO  21:23:56,578 - #6 (
+INFO  21:23:56,578 - #19 A
+INFO  21:23:56,578 - #7 )
+INFO  21:23:56,580 - #5 ;
+INFO  21:23:56,580 - #4 }
+INFO  21:23:56,581 - #4 }
+INFO  21:23:56,582 - #4 }
+INFO  21:23:56,582 - #21 class
+INFO  21:23:56,583 - #15 B
+INFO  21:23:56,583 - #27 extends
+INFO  21:23:56,583 - #15 I
+INFO  21:23:56,583 - #3 {
+INFO  21:23:56,583 - #3 {
+INFO  21:23:56,583 - #55 public
+INFO  21:23:56,583 - #13 void
+INFO  21:23:56,583 - #15 pisi
+INFO  21:23:56,583 - #6 (
+INFO  21:23:56,583 - #7 )
+INFO  21:23:56,583 - #3 {
+INFO  21:23:56,583 - #11 print
+INFO  21:23:56,584 - #6 (
+INFO  21:23:56,584 - #19 B
+INFO  21:23:56,584 - #7 )
+INFO  21:23:56,584 - #5 ;
+INFO  21:23:56,584 - #4 }
+INFO  21:23:56,584 - #4 }
+INFO  21:23:56,584 - #4 }
+INFO  21:23:56,584 - #21 class
+INFO  21:23:56,584 - #15 C
+INFO  21:23:56,584 - #27 extends
+INFO  21:23:56,584 - #15 A
+INFO  21:23:56,585 - #3 {
+INFO  21:23:56,585 - #4 }
+INFO  21:23:56,586 - #21 class
+INFO  21:23:56,592 - #15 D
+INFO  21:23:56,593 - #27 extends
+INFO  21:23:56,593 - #15 B
+INFO  21:23:56,593 - #3 {
+INFO  21:23:56,593 - #4 }
+INFO  21:23:56,593 - #21 class
+INFO  21:23:56,593 - #15 E
+INFO  21:23:56,593 - #27 extends
+INFO  21:23:56,593 - #15 D
+INFO  21:23:56,593 - #3 {
+INFO  21:23:56,593 - #4 }
+INFO  21:23:56,594 - #3 {
+INFO  21:23:56,594 - #13 void
+INFO  21:23:56,594 - #15 main
+INFO  21:23:56,595 - #6 (
+INFO  21:23:56,595 - #7 )
+INFO  21:23:56,595 - #15 I
+INFO  21:23:56,595 - #15 i
+INFO  21:23:56,595 - #5 ;
+INFO  21:23:56,596 - #3 {
+INFO  21:23:56,597 - #15 i
+INFO  21:23:56,597 - #8 =
+INFO  21:23:56,598 - #24 new
+INFO  21:23:56,599 - #15 A
+INFO  21:23:56,599 - #5 ;
+INFO  21:23:56,599 - #15 i
+INFO  21:23:56,600 - #43 .
+INFO  21:23:56,600 - #15 pisi
+INFO  21:23:56,600 - #6 (
+INFO  21:23:56,601 - #7 )
+INFO  21:23:56,601 - #5 ;
+INFO  21:23:56,602 - #15 i
+INFO  21:23:56,602 - #8 =
+INFO  21:23:56,602 - #24 new
+INFO  21:23:56,602 - #15 B
+INFO  21:23:56,602 - #5 ;
+INFO  21:23:56,602 - #15 i
+INFO  21:23:56,602 - #43 .
+INFO  21:23:56,602 - #15 pisi
+INFO  21:23:56,603 - #6 (
+INFO  21:23:56,603 - #7 )
+INFO  21:23:56,603 - #5 ;
+INFO  21:23:56,603 - #15 i
+INFO  21:23:56,603 - #8 =
+INFO  21:23:56,603 - #24 new
+INFO  21:23:56,603 - #15 C
+INFO  21:23:56,603 - #5 ;
+INFO  21:23:56,603 - #15 i
+INFO  21:23:56,603 - #43 .
+INFO  21:23:56,603 - #15 pisi
+INFO  21:23:56,603 - #6 (
+INFO  21:23:56,603 - #7 )
+INFO  21:23:56,604 - #5 ;
+INFO  21:23:56,604 - #15 i
+INFO  21:23:56,604 - #8 =
+INFO  21:23:56,604 - #24 new
+INFO  21:23:56,604 - #15 D
+INFO  21:23:56,604 - #5 ;
+INFO  21:23:56,604 - #15 i
+INFO  21:23:56,604 - #43 .
+INFO  21:23:56,604 - #15 pisi
+INFO  21:23:56,604 - #6 (
+INFO  21:23:56,604 - #7 )
+INFO  21:23:56,604 - #5 ;
+INFO  21:23:56,605 - #15 i
+INFO  21:23:56,605 - #8 =
+INFO  21:23:56,605 - #24 new
+INFO  21:23:56,605 - #15 E
+INFO  21:23:56,605 - #5 ;
+INFO  21:23:56,605 - #15 i
+INFO  21:23:56,605 - #43 .
+INFO  21:23:56,605 - #15 pisi
+INFO  21:23:56,605 - #6 (
+INFO  21:23:56,605 - #7 )
+INFO  21:23:56,605 - #5 ;
+INFO  21:23:56,605 - #4 }
+INFO  21:23:56,606 - #4 }
+INFO  21:23:56,626 - ===================================
+INFO  21:23:56,631 - Obradjuje se unutrasnja apstraktna klasa programa Testnista na liniji 3
+INFO  21:23:56,631 - Obradjuje se unutrasnja apstraktna klasa programa I na liniji 7
+INFO  21:23:56,631 - Obradjuje se unutrasnja klasa programa A na liniji 11
+INFO  21:23:56,631 - Obradjuje se funkcija bez return iskaza pisi na liniji 13
+INFO  21:23:56,632 - Obradjuje se unutrasnja klasa programa B na liniji 16
+INFO  21:23:56,632 - Obradjuje se funkcija bez return iskaza pisi na liniji 18
+INFO  21:23:56,632 - Obradjuje se unutrasnja klasa programa C na liniji 22
+INFO  21:23:56,632 - Obradjuje se unutrasnja klasa programa D na liniji 25
+INFO  21:23:56,632 - Obradjuje se unutrasnja klasa programa E na liniji 28
+INFO  21:23:56,632 - Obradjuje se funkcija bez return iskaza main na liniji 34
+INFO  21:23:56,632 - Deklarisana promenljiva i na liniji 35
+ERROR 21:23:56,632 - Greska na liniji 38 : ime pisi mora biti polje ili metoda navedene unutrasnje klase!
+INFO  21:23:56,633 - Detektovan pristup polju klase:  pisi na liniji 38 na liniji 38
+ERROR 21:23:56,633 - Greska na liniji 38 : ime noObj nije deklarisano! 
+ERROR 21:23:56,633 - Greska na liniji 38 Designator mora oznacavati nestaticku metodu unutrasnje klase ili  globalnu funkciju glavnog programa
+ERROR 21:23:56,633 - Greska na liniji 38 Broj formalnih parametara funkcije i broj agrumenata poziva se ne podudaraju!
+ERROR 21:23:56,633 - Greska na liniji 40 : ime pisi mora biti polje ili metoda navedene unutrasnje klase!
+INFO  21:23:56,633 - Detektovan pristup polju klase:  pisi na liniji 40 na liniji 40
+ERROR 21:23:56,633 - Greska na liniji 40 : ime noObj nije deklarisano! 
+ERROR 21:23:56,633 - Greska na liniji 40 Designator mora oznacavati nestaticku metodu unutrasnje klase ili  globalnu funkciju glavnog programa
+ERROR 21:23:56,633 - Greska na liniji 40 Broj formalnih parametara funkcije i broj agrumenata poziva se ne podudaraju!
+ERROR 21:23:56,633 - Greska na liniji 42 : ime pisi mora biti polje ili metoda navedene unutrasnje klase!
+INFO  21:23:56,633 - Detektovan pristup polju klase:  pisi na liniji 42 na liniji 42
+ERROR 21:23:56,634 - Greska na liniji 42 : ime noObj nije deklarisano! 
+ERROR 21:23:56,634 - Greska na liniji 42 Designator mora oznacavati nestaticku metodu unutrasnje klase ili  globalnu funkciju glavnog programa
+ERROR 21:23:56,634 - Greska na liniji 42 Broj formalnih parametara funkcije i broj agrumenata poziva se ne podudaraju!
+ERROR 21:23:56,634 - Greska na liniji 44 : ime pisi mora biti polje ili metoda navedene unutrasnje klase!
+INFO  21:23:56,634 - Detektovan pristup polju klase:  pisi na liniji 44 na liniji 44
+ERROR 21:23:56,634 - Greska na liniji 44 : ime noObj nije deklarisano! 
+ERROR 21:23:56,634 - Greska na liniji 44 Designator mora oznacavati nestaticku metodu unutrasnje klase ili  globalnu funkciju glavnog programa
+ERROR 21:23:56,635 - Greska na liniji 44 Broj formalnih parametara funkcije i broj agrumenata poziva se ne podudaraju!
+ERROR 21:23:56,635 - Greska na liniji 46 : ime pisi mora biti polje ili metoda navedene unutrasnje klase!
+INFO  21:23:56,635 - Detektovan pristup polju klase:  pisi na liniji 46 na liniji 46
+ERROR 21:23:56,635 - Greska na liniji 46 : ime noObj nije deklarisano! 
+ERROR 21:23:56,635 - Greska na liniji 46 Designator mora oznacavati nestaticku metodu unutrasnje klase ili  globalnu funkciju glavnog programa
+ERROR 21:23:56,635 - Greska na liniji 46 Broj formalnih parametara funkcije i broj agrumenata poziva se ne podudaraju!
+INFO  21:23:56,636 -  Print count calls = 2
+INFO  21:23:56,636 -  Deklarisanih promenljivih ima = 1
+INFO  21:23:56,636 - ===================================
+ERROR 21:23:56,636 - Parsiranje NIJE uspesno zavrseno!

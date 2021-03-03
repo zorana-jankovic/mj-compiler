@@ -1,0 +1,42 @@
+program MJProgram
+	int x; int y;
+	int arr[];
+{
+
+	
+	
+	//void k (){
+	//	x++;
+	//}
+	
+	int f1(int x, int y, int z){
+		return x+y+z;
+	}
+		
+	int m(int z){
+		return z;
+	}
+	
+	int slovo(int b, char c){
+		return b+1;
+	}
+	
+	void main() char c; bool b; int x;{
+		//x(5);
+		//print(1);
+		//x = 5;
+		arr = new int[10];
+		arr[0] = 26;
+		//print(f1(f1(f1(4+3+2,5,7),1,2),3,7));
+		
+		//print(m(10));
+		
+		//print(f1(m(10), f1(1,2,2), m(m(5))));
+		
+		m(1);
+		
+		print(slovo(slovo(1,'3'),'a'));
+		
+		//x = f1('c');
+	}
+}

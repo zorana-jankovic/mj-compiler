@@ -1,0 +1,58 @@
+program MJProgram
+	int x; int y;
+	char arr[];
+	int arr2[];
+	int sum;
+{
+
+	
+	void init(char arr[], int x){
+		for (x = 0 ; x < 10 ; x++){
+			arr[x] = chr(x + 65);
+		}
+	}
+	
+	
+		
+	void main() char c; bool b; int x; int z; bool niz[]; int i; {
+
+		
+		arr = new char[10];
+		arr2 = new int[3];
+		niz = new bool [3];
+		
+		niz[0] = false;
+		niz[1] = true;
+		niz[2] = false;
+		
+		init(arr,x);
+		
+		arr2[0] = 1;
+		arr2[1] = 1;
+		arr2[2] = 1;
+		
+		foreach( c : arr){
+			foreach(x : arr2){
+				sum = sum + x;
+				print(sum);
+				for(i = 0; i < len(niz) ; i++){
+					print(niz[i]);
+					//print(eol);
+					if(niz[i])
+						break;
+				}
+				if(sum>=20)
+					break;
+			}
+			print(c);
+			print(eol);
+			//y = z += x /= 3;
+		}
+		
+		print(sum);
+		
+		arr2[0] = z *= 1 + (3-1);
+
+	
+	}
+}

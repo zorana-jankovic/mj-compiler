@@ -1,0 +1,109 @@
+INFO  14:42:50,033 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\ifTest.mj
+INFO  14:42:50,154 - #2 program
+INFO  14:42:50,154 - #15 MJProgram
+INFO  14:42:50,154 - #15 int
+INFO  14:42:50,157 - #15 x
+INFO  14:42:50,158 - #5 ;
+INFO  14:42:50,159 - #15 int
+INFO  14:42:50,160 - #15 y
+INFO  14:42:50,160 - #5 ;
+INFO  14:42:50,160 - #15 int
+INFO  14:42:50,161 - #15 arr
+INFO  14:42:50,161 - #44 [
+INFO  14:42:50,161 - #45 ]
+INFO  14:42:50,161 - #5 ;
+INFO  14:42:50,161 - #3 {
+INFO  14:42:50,161 - #15 int
+INFO  14:42:50,162 - #15 f
+INFO  14:42:50,162 - #6 (
+INFO  14:42:50,162 - #15 int
+INFO  14:42:50,162 - #15 a
+INFO  14:42:50,163 - #7 )
+INFO  14:42:50,163 - #3 {
+INFO  14:42:50,164 - #9 return
+INFO  14:42:50,166 - #14 1
+INFO  14:42:50,166 - #5 ;
+INFO  14:42:50,168 - #4 }
+INFO  14:42:50,168 - #13 void
+INFO  14:42:50,168 - #15 main
+INFO  14:42:50,168 - #6 (
+INFO  14:42:50,169 - #7 )
+INFO  14:42:50,170 - #15 bool
+INFO  14:42:50,170 - #15 c
+INFO  14:42:50,170 - #5 ;
+INFO  14:42:50,170 - #15 bool
+INFO  14:42:50,170 - #15 b
+INFO  14:42:50,170 - #5 ;
+INFO  14:42:50,170 - #15 int
+INFO  14:42:50,170 - #15 x
+INFO  14:42:50,170 - #5 ;
+INFO  14:42:50,171 - #3 {
+INFO  14:42:50,171 - #15 b
+INFO  14:42:50,171 - #8 =
+INFO  14:42:50,173 - #16 true
+INFO  14:42:50,174 - #5 ;
+INFO  14:42:50,175 - #15 c
+INFO  14:42:50,175 - #8 =
+INFO  14:42:50,175 - #16 true
+INFO  14:42:50,175 - #5 ;
+INFO  14:42:50,175 - #17 if
+INFO  14:42:50,175 - #6 (
+INFO  14:42:50,176 - #15 c
+INFO  14:42:50,177 - #40 ||
+INFO  14:42:50,179 - #16 false
+INFO  14:42:50,179 - #40 ||
+INFO  14:42:50,179 - #16 true
+INFO  14:42:50,179 - #39 &&
+INFO  14:42:50,180 - #16 false
+INFO  14:42:50,180 - #39 &&
+INFO  14:42:50,180 - #16 true
+INFO  14:42:50,180 - #7 )
+INFO  14:42:50,187 - #3 {
+INFO  14:42:50,187 - #17 if
+INFO  14:42:50,187 - #6 (
+INFO  14:42:50,188 - #16 true
+INFO  14:42:50,188 - #40 ||
+INFO  14:42:50,188 - #16 false
+INFO  14:42:50,188 - #39 &&
+INFO  14:42:50,188 - #16 false
+INFO  14:42:50,188 - #7 )
+INFO  14:42:50,188 - #3 {
+INFO  14:42:50,188 - #11 print
+INFO  14:42:50,188 - #6 (
+INFO  14:42:50,188 - #19 i
+INFO  14:42:50,188 - #7 )
+INFO  14:42:50,189 - #5 ;
+INFO  14:42:50,189 - #4 }
+INFO  14:42:50,189 - #18 else
+INFO  14:42:50,190 - #3 {
+INFO  14:42:50,190 - #11 print
+INFO  14:42:50,190 - #6 (
+INFO  14:42:50,190 - #19 z
+INFO  14:42:50,190 - #7 )
+INFO  14:42:50,190 - #5 ;
+INFO  14:42:50,190 - #4 }
+INFO  14:42:50,190 - #4 }
+INFO  14:42:50,190 - #18 else
+INFO  14:42:50,190 - #3 {
+INFO  14:42:50,191 - #11 print
+INFO  14:42:50,191 - #6 (
+INFO  14:42:50,191 - #19 e
+INFO  14:42:50,191 - #7 )
+INFO  14:42:50,191 - #5 ;
+INFO  14:42:50,191 - #4 }
+INFO  14:42:50,191 - #4 }
+INFO  14:42:50,191 - #4 }
+INFO  14:42:50,215 - ===================================
+INFO  14:42:50,221 - Deklarisana promenljiva x na liniji 2
+INFO  14:42:50,221 - Deklarisana promenljiva y na liniji 2
+INFO  14:42:50,221 - Deklarisana promenljiva arr na liniji 3
+INFO  14:42:50,221 - Obradjuje se funkcija sa return iskazom f na liniji 8
+INFO  14:42:50,221 - Deklarisan formalni parametar a funkcije:f na liniji 8
+INFO  14:42:50,221 - Obradjuje se funkcija bez return iskaza main na liniji 12
+INFO  14:42:50,221 - Deklarisana promenljiva c na liniji 12
+INFO  14:42:50,222 - Deklarisana promenljiva b na liniji 12
+INFO  14:42:50,222 - Deklarisana promenljiva x na liniji 12
+INFO  14:42:50,222 -  Print count calls = 3
+INFO  14:42:50,222 -  Deklarisanih promenljivih ima = 6
+INFO  14:42:50,222 - ===================================
+INFO  14:42:50,228 - Parsiranje uspesno zavrseno!

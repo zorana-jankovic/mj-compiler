@@ -1,0 +1,58 @@
+INFO  19:48:24,139 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\parserProgram.mj
+INFO  19:48:24,263 - #2 program
+INFO  19:48:24,263 - #15 ParserTest
+INFO  19:48:24,264 - #15 int
+INFO  19:48:24,266 - #15 x
+INFO  19:48:24,267 - #12 ,
+INFO  19:48:24,268 - #15 y
+INFO  19:48:24,268 - #5 ;
+INFO  19:48:24,269 - #3 {
+INFO  19:48:24,271 - #13 void
+INFO  19:48:24,272 - #15 main
+INFO  19:48:24,273 - #6 (
+INFO  19:48:24,274 - #7 )
+INFO  19:48:24,276 - #3 {
+INFO  19:48:24,278 - #4 }
+INFO  19:48:24,279 - #4 }
+INFO  19:48:24,302 - Program(
+  ProgName(
+   ParserTest
+  ) [ProgName]
+  MyDeclList(
+    MyNoDeclList(
+    ) [MyNoDeclList]
+    VarDeclListElem(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclElemNoBraces(
+         x
+        ) [VarDeclElemNoBraces]
+        MyVarDeclList(
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+          VarDeclElemNoBraces(
+           y
+          ) [VarDeclElemNoBraces]
+        ) [MyVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyNoDeclListVar(
+      ) [MyNoDeclListVar]
+      NoStmt(
+      ) [NoStmt]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  19:48:24,304 - ===================================

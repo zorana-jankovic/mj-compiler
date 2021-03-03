@@ -1,0 +1,74 @@
+INFO  16:07:11,685 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\modifTest.mj
+INFO  16:07:11,794 - #2 program
+INFO  16:07:11,794 - #15 MJProgram
+INFO  16:07:11,794 - #15 int
+INFO  16:07:11,794 - #15 x
+INFO  16:07:11,794 - #5 ;
+INFO  16:07:11,794 - #15 int
+INFO  16:07:11,794 - #15 y
+INFO  16:07:11,794 - #5 ;
+INFO  16:07:11,794 - #15 int
+INFO  16:07:11,794 - #15 arr
+INFO  16:07:11,810 - #44 [
+INFO  16:07:11,810 - #45 ]
+INFO  16:07:11,810 - #5 ;
+INFO  16:07:11,810 - #21 class
+INFO  16:07:11,810 - #15 MojaKlasa
+INFO  16:07:11,810 - #3 {
+INFO  16:07:11,810 - #55 public
+INFO  16:07:11,810 - #15 int
+INFO  16:07:11,810 - #15 z
+INFO  16:07:11,810 - #5 ;
+INFO  16:07:11,810 - #3 {
+INFO  16:07:11,810 - #55 public
+INFO  16:07:11,810 - #15 MojaKlasa
+INFO  16:07:11,810 - #6 (
+INFO  16:07:11,810 - #7 )
+INFO  16:07:11,810 - #3 {
+INFO  16:07:11,810 - #4 }
+INFO  16:07:11,810 - #4 }
+INFO  16:07:11,810 - #4 }
+INFO  16:07:11,810 - #3 {
+INFO  16:07:11,810 - #13 void
+INFO  16:07:11,810 - #15 main
+INFO  16:07:11,810 - #6 (
+INFO  16:07:11,810 - #7 )
+INFO  16:07:11,810 - #15 char
+INFO  16:07:11,810 - #15 c
+INFO  16:07:11,810 - #5 ;
+INFO  16:07:11,810 - #15 bool
+INFO  16:07:11,810 - #15 b
+INFO  16:07:11,810 - #5 ;
+INFO  16:07:11,810 - #15 int
+INFO  16:07:11,810 - #15 x
+INFO  16:07:11,810 - #5 ;
+INFO  16:07:11,810 - #15 MojaKlasa
+INFO  16:07:11,826 - #15 m
+INFO  16:07:11,826 - #5 ;
+INFO  16:07:11,826 - #3 {
+INFO  16:07:11,826 - #15 m
+INFO  16:07:11,826 - #8 =
+INFO  16:07:11,826 - #24 new
+INFO  16:07:11,826 - #15 MojaKlasa
+INFO  16:07:11,826 - #6 (
+INFO  16:07:11,826 - #7 )
+INFO  16:07:11,826 - #5 ;
+INFO  16:07:11,826 - #4 }
+INFO  16:07:11,826 - #4 }
+INFO  16:07:11,841 - ===================================
+INFO  16:07:11,872 - Deklarisana promenljiva x na liniji 2
+INFO  16:07:11,872 - Deklarisana promenljiva y na liniji 2
+INFO  16:07:11,872 - Deklarisana promenljiva arr na liniji 3
+INFO  16:07:11,872 - Obradjuje se unutrasnja klasa programa MojaKlasa na liniji 5
+INFO  16:07:11,872 - Deklarisano polje klase  z na liniji 7
+INFO  16:07:11,872 - Obradjuje se funkcija bez return iskaza MojaKlasa na liniji 10
+INFO  16:07:11,872 - Obradjuje se funkcija bez return iskaza main na liniji 20
+INFO  16:07:11,888 - Deklarisana promenljiva c na liniji 20
+INFO  16:07:11,888 - Deklarisana promenljiva b na liniji 20
+INFO  16:07:11,888 - Deklarisana promenljiva x na liniji 20
+INFO  16:07:11,888 - Deklarisana promenljiva m na liniji 20
+ERROR 16:07:11,888 - Greska na liniji 22 :  nedefinisan konstruktor
+INFO  16:07:11,888 -  Print count calls = 0
+INFO  16:07:11,888 -  Deklarisanih promenljivih ima = 8
+INFO  16:07:11,888 - ===================================
+ERROR 16:07:11,888 - Parsiranje NIJE uspesno zavrseno!

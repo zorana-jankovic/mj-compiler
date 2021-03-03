@@ -1,0 +1,119 @@
+program MJProgram
+	int x; int y;
+	int arr[];
+	
+	class O {
+		public int a;
+	}
+	class Klasa {
+		public O niz[];
+		public int a;
+		private int b;
+		private int c;
+		private int arr[];
+		{
+		
+			public void init(int a, int b, int cc){
+				this.a = a;
+				this.b = b;
+				c = cc;
+				arr = new int[3];
+				arr[0] = a;
+				this.arr[1] = b;
+				this.arr[2] = this.c;
+				
+				niz = new O[3];
+				niz[0] = new O;
+				
+				niz[0].a = 5;
+				
+				print(niz[0].a+=this.arr[2]+7);
+				print(this.niz[0].a);
+				print(eol);
+			}
+			
+			private void test(){
+				a+=6; //a = 7
+				
+				b += a += 5;	//a=12, b=14
+				c *= b-= a /= 2;	//a=6 b=8 c=24
+				
+				print(a);
+				print(b);
+				print(c);
+				
+				arr[0]+=6; //a = 7
+				
+				this.arr[1] += arr[0] += 5;	//a=12, b=14
+				arr[2] *= this.arr[1]-= arr[0] /= 2;	//a=6 b=8 c=24
+				
+				print(arr[0]);
+				print(this.arr[1]);
+				print(arr[2]);
+				
+				if (a==6){
+			
+					test();
+				}
+			}
+			
+			public void testP(){
+				test();
+			}
+		}
+	}
+
+	Klasa k;
+	
+	
+	
+{		
+	int fibo(int n){
+		if (n <= 0)
+			return 0;
+		else if (n<=1)
+			return 1;
+			
+		return fibo(n-1) + fibo(n-2);
+	}
+	
+	void main(){
+		arr = new int[10];
+		k = new Klasa;
+		k.init(1,2,3);
+		
+		k.testP();
+		
+		//read(arr[0]);
+		
+		arr[0] = 0;
+		arr[1] = 5;
+		arr[2] = 3;
+		
+		x = 10;
+		
+		arr[0] += x *= arr[1] /= arr[2] -= 1;
+		arr[0] ++;
+		// arr[0] = 11
+		print(arr[0]);
+		
+		
+		print(fibo(8));
+		
+		x = 5;
+		
+		print(eol);
+		print(x+=10);
+		print(x);
+		
+		y = 5;
+		arr[0] = y+= -3 + 6%4-2;
+		print(eol);
+		print(arr[0]);
+		print(y);
+		
+		print(eol);
+		print(fibo(arr[0]+=6-2+4/2));
+		print(arr[0]);
+	}
+}

@@ -1,0 +1,283 @@
+INFO  20:14:40,510 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\classTest.mj
+INFO  20:14:41,048 - #2 program
+INFO  20:14:41,048 - #15 MJProgram
+INFO  20:14:41,049 - #15 int
+INFO  20:14:41,054 - #15 x
+INFO  20:14:41,057 - #5 ;
+INFO  20:14:41,058 - #15 int
+INFO  20:14:41,061 - #15 y
+INFO  20:14:41,061 - #5 ;
+INFO  20:14:41,062 - #15 int
+INFO  20:14:41,062 - #15 arr
+INFO  20:14:41,064 - #44 [
+INFO  20:14:41,064 - #45 ]
+INFO  20:14:41,064 - #5 ;
+INFO  20:14:41,065 - #21 class
+INFO  20:14:41,067 - #15 Klasa1
+INFO  20:14:41,068 - #3 {
+INFO  20:14:41,076 - #15 int
+INFO  20:14:41,076 - #15 n
+INFO  20:14:41,076 - #5 ;
+INFO  20:14:41,076 - #3 {
+INFO  20:14:41,077 - #15 int
+INFO  20:14:41,084 - #15 dohvBr
+INFO  20:14:41,085 - #6 (
+INFO  20:14:41,086 - #7 )
+INFO  20:14:41,089 - #3 {
+INFO  20:14:41,091 - #9 return
+INFO  20:14:41,093 - #15 n
+INFO  20:14:41,093 - #5 ;
+INFO  20:14:41,104 - #4 }
+INFO  20:14:41,104 - #4 }
+INFO  20:14:41,107 - #4 }
+INFO  20:14:41,107 - #3 {
+INFO  20:14:41,108 - #13 void
+INFO  20:14:41,108 - #15 main
+INFO  20:14:41,108 - #6 (
+INFO  20:14:41,108 - #7 )
+INFO  20:14:41,108 - #15 Klasa1
+INFO  20:14:41,108 - #15 k1
+INFO  20:14:41,108 - #5 ;
+INFO  20:14:41,108 - #3 {
+INFO  20:14:41,108 - #15 k1
+INFO  20:14:41,108 - #8 =
+INFO  20:14:41,109 - #24 new
+INFO  20:14:41,115 - #15 Klasa1
+INFO  20:14:41,116 - #5 ;
+INFO  20:14:41,117 - #11 print
+INFO  20:14:41,118 - #6 (
+INFO  20:14:41,121 - #15 k1
+INFO  20:14:41,122 - #43 .
+INFO  20:14:41,123 - #15 dohvBr
+INFO  20:14:41,124 - #6 (
+INFO  20:14:41,126 - #7 )
+INFO  20:14:41,130 - #7 )
+INFO  20:14:41,130 - #5 ;
+INFO  20:14:41,131 - #4 }
+INFO  20:14:41,131 - #4 }
+INFO  20:14:41,155 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyDeclList(
+        MyDeclList(
+          MyNoDeclList(
+          ) [MyNoDeclList]
+          VarDeclListElem(
+            VarDecl(
+              VarDeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarDeclType]
+              VarDeclElemNoBraces(
+               x
+              ) [VarDeclElemNoBraces]
+              MyNoVarDeclList(
+              ) [MyNoVarDeclList]
+            ) [VarDecl]
+          ) [VarDeclListElem]
+        ) [MyDeclList]
+        VarDeclListElem(
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            VarDeclElemNoBraces(
+             y
+            ) [VarDeclElemNoBraces]
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+          ) [VarDecl]
+        ) [VarDeclListElem]
+      ) [MyDeclList]
+      VarDeclListElem(
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemBraces(
+           arr
+          ) [VarDeclElemBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    ClassDeclElem(
+      MyClassDecl(
+        ClassType(
+         Klasa1
+        ) [ClassType]
+        MyNoExtendsClass(
+        ) [MyNoExtendsClass]
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           n
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+        MyMethodDeclClass(
+          MethodDeclarations(
+            NoMethodDecl(
+            ) [NoMethodDecl]
+            MethodDecl(
+              MethodTypeNameRet(
+                Type(
+                 int
+                ) [Type]
+               dohvBr
+              ) [MethodTypeNameRet]
+              NoFormParam(
+              ) [NoFormParam]
+              MyNoDeclListVar(
+              ) [MyNoDeclListVar]
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                StatementReturnExpr(
+                  NoMinusExpr(
+                    Terms(
+                      Var(
+                        Design(
+                          DesignatorIdent(
+                           n
+                          ) [DesignatorIdent]
+                          MyNoDesignatorElemList(
+                          ) [MyNoDesignatorElemList]
+                        ) [Design]
+                      ) [Var]
+                      MyNoTermList(
+                      ) [MyNoTermList]
+                    ) [Terms]
+                    MyNoExprList(
+                    ) [MyNoExprList]
+                  ) [NoMinusExpr]
+                ) [StatementReturnExpr]
+              ) [Statements]
+            ) [MethodDecl]
+          ) [MethodDeclarations]
+        ) [MyMethodDeclClass]
+      ) [MyClassDecl]
+    ) [ClassDeclElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    NoMethodDecl(
+    ) [NoMethodDecl]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyDeclListVar(
+        MyNoDeclListVar(
+        ) [MyNoDeclListVar]
+        VarDecl(
+          VarDeclType(
+            Type(
+             Klasa1
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           k1
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [MyDeclListVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          StatementDesStat(
+            DesignatorStatementAssign(
+              DesAssStmtm(
+                Design(
+                  DesignatorIdent(
+                   k1
+                  ) [DesignatorIdent]
+                  MyNoDesignatorElemList(
+                  ) [MyNoDesignatorElemList]
+                ) [Design]
+                DesAssStmtCombOper(
+                  Assign(
+                  ) [Assign]
+                ) [DesAssStmtCombOper]
+                NoMinusExpr(
+                  Terms(
+                    NewClass(
+                      Type(
+                       Klasa1
+                      ) [Type]
+                    ) [NewClass]
+                    MyNoTermList(
+                    ) [MyNoTermList]
+                  ) [Terms]
+                  MyNoExprList(
+                  ) [MyNoExprList]
+                ) [NoMinusExpr]
+              ) [DesAssStmtm]
+            ) [DesignatorStatementAssign]
+          ) [StatementDesStat]
+        ) [Statements]
+        StatementPrint(
+          NoMinusExpr(
+            Terms(
+              FuncCallFactor(
+                FuncCallFactorDesignator(
+                  Design(
+                    DesignatorIdent(
+                     k1
+                    ) [DesignatorIdent]
+                    MyDesignatorElemList(
+                      ClassField(
+                       dohvBr
+                      ) [ClassField]
+                      MyNoDesignatorElemList(
+                      ) [MyNoDesignatorElemList]
+                    ) [MyDesignatorElemList]
+                  ) [Design]
+                ) [FuncCallFactorDesignator]
+                NoActuals(
+                ) [NoActuals]
+              ) [FuncCallFactor]
+              MyNoTermList(
+              ) [MyNoTermList]
+            ) [Terms]
+            MyNoExprList(
+            ) [MyNoExprList]
+          ) [NoMinusExpr]
+        ) [StatementPrint]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:14:41,165 - ===================================
+INFO  20:14:41,176 - Deklarisana promenljiva x na liniji 2
+INFO  20:14:41,176 - Deklarisana promenljiva y na liniji 2
+INFO  20:14:41,177 - Deklarisana promenljiva arr na liniji 3
+INFO  20:14:41,177 - Obradjuje se unutrasnja klasa programa Klasa1 na liniji 5
+INFO  20:14:41,177 - Deklarisano polje klase  n na liniji 6
+INFO  20:14:41,177 - Obradjuje se funkcija sa return iskazom dohvBr na liniji 8
+INFO  20:14:41,177 - Detektovan pristup polju klase:   n na liniji 9 na liniji 9
+INFO  20:14:41,177 - Obradjuje se funkcija bez return iskaza main na liniji 16
+INFO  20:14:41,178 - Deklarisana promenljiva k1 na liniji 16
+INFO  20:14:41,179 - Detektovan pristup polju klase:  dohvBr na liniji 20 na liniji 20
+INFO  20:14:41,179 - Detektovan poziv  metoda unutrasnje klase:   k1 na liniji 20 na liniji 20
+INFO  20:14:41,179 -  Print count calls = 1
+INFO  20:14:41,179 -  Deklarisanih promenljivih ima = 5
+INFO  20:14:41,179 - ===================================
+INFO  20:14:41,215 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,92 @@
+program MJProgram
+	int x; int y;
+	int arr[];
+{
+
+	
+	
+	//int k() int c;  {
+		//c = 2;
+		
+		//print(0);
+		
+		//return c+2;
+	//}
+	
+	void k (){
+		x++;
+	}
+	
+	int f1(){
+		return 10;
+	}
+		
+	void main() char c; bool b; int x;{
+		
+		arr = new int[10];
+		
+		for(x = 0; x < 10 ; x++){
+			arr[x]=x+0;
+		}
+		
+		x = arr @ 6;
+		//print(x);
+		
+		//arr[0] = 22;
+		
+		//arr[5] = 33;
+		
+		//arr[9] = 100;
+		
+		x = 33;
+		
+		arr[0] = 20;
+		arr[1]=3;
+		arr[2] = 8;
+		arr[3] = 10;
+		arr[4]=122;
+		arr[5] = 15;
+		arr[6] = 15;
+		arr[7] = 15;
+		arr[8] = 15;
+		arr[9] = 15;
+		
+		x = &arr;
+		print(x);
+		
+		for(x = 0; x < 10 ; x++){
+			//print(arr[x]);
+		}
+		
+		b = false;
+		
+		//x = arr @ 0;
+	
+		//x = 10;
+	
+		
+		//print(x);
+		
+		//x = ^ arr;
+		
+		//print(x);
+		
+		x = 20;
+		if (b == true) return;
+		b = true;
+		
+		//f1 = 5;
+		
+		//x = f1 + 5;
+		
+		//if (f1 == 5){
+		//	print('a');
+		//}
+		
+		x = 5;
+		
+		//x += f1 += 3;
+		
+		//print(x);
+	}
+}

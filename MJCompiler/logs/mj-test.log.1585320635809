@@ -1,0 +1,284 @@
+INFO  15:45:16,196 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\testB.mj
+INFO  15:45:16,275 - #2 program
+INFO  15:45:16,276 - #15 MJProgram
+INFO  15:45:16,276 - #15 int
+INFO  15:45:16,279 - #15 x
+INFO  15:45:16,280 - #5 ;
+INFO  15:45:16,281 - #15 int
+INFO  15:45:16,282 - #15 y
+INFO  15:45:16,282 - #5 ;
+INFO  15:45:16,282 - #15 int
+INFO  15:45:16,282 - #15 arr
+INFO  15:45:16,282 - #44 [
+INFO  15:45:16,282 - #45 ]
+INFO  15:45:16,282 - #5 ;
+INFO  15:45:16,283 - #3 {
+INFO  15:45:16,283 - #15 int
+INFO  15:45:16,283 - #15 f1
+INFO  15:45:16,284 - #6 (
+INFO  15:45:16,284 - #15 int
+INFO  15:45:16,284 - #15 x
+INFO  15:45:16,284 - #12 ,
+INFO  15:45:16,286 - #15 int
+INFO  15:45:16,286 - #15 y
+INFO  15:45:16,286 - #12 ,
+INFO  15:45:16,286 - #15 char
+INFO  15:45:16,286 - #15 c
+INFO  15:45:16,287 - #7 )
+INFO  15:45:16,287 - #3 {
+INFO  15:45:16,288 - #9 return
+INFO  15:45:16,288 - #15 x
+INFO  15:45:16,289 - #5 ;
+INFO  15:45:16,291 - #4 }
+INFO  15:45:16,291 - #13 void
+INFO  15:45:16,292 - #15 main
+INFO  15:45:16,292 - #6 (
+INFO  15:45:16,292 - #7 )
+INFO  15:45:16,293 - #15 char
+INFO  15:45:16,293 - #15 c
+INFO  15:45:16,293 - #5 ;
+INFO  15:45:16,293 - #15 bool
+INFO  15:45:16,293 - #15 b
+INFO  15:45:16,293 - #5 ;
+INFO  15:45:16,293 - #15 int
+INFO  15:45:16,293 - #15 x
+INFO  15:45:16,293 - #5 ;
+INFO  15:45:16,294 - #3 {
+INFO  15:45:16,294 - #11 print
+INFO  15:45:16,294 - #6 (
+INFO  15:45:16,294 - #14 1
+INFO  15:45:16,294 - #7 )
+INFO  15:45:16,294 - #5 ;
+INFO  15:45:16,294 - #15 f1
+INFO  15:45:16,295 - #6 (
+INFO  15:45:16,296 - #14 5
+INFO  15:45:16,296 - #7 )
+INFO  15:45:16,296 - #5 ;
+INFO  15:45:16,297 - #4 }
+INFO  15:45:16,297 - #4 }
+INFO  15:45:16,316 - Program(
+  ProgName(
+   MJProgram
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyDeclList(
+        MyNoDeclList(
+        ) [MyNoDeclList]
+        VarDeclListElem(
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            VarDeclElemNoBraces(
+             x
+            ) [VarDeclElemNoBraces]
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+          ) [VarDecl]
+        ) [VarDeclListElem]
+      ) [MyDeclList]
+      VarDeclListElem(
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           y
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [VarDeclListElem]
+    ) [MyDeclList]
+    VarDeclListElem(
+      VarDecl(
+        VarDeclType(
+          Type(
+           int
+          ) [Type]
+        ) [VarDeclType]
+        VarDeclElemBraces(
+         arr
+        ) [VarDeclElemBraces]
+        MyNoVarDeclList(
+        ) [MyNoVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeNameRet(
+          Type(
+           int
+          ) [Type]
+         f1
+        ) [MethodTypeNameRet]
+        FormParams(
+          FormalParamDecls(
+            FormalParamDecls(
+              SingleFormalParamDecl(
+                FormalParamDeclNoBraces(
+                  Type(
+                   int
+                  ) [Type]
+                 x
+                ) [FormalParamDeclNoBraces]
+              ) [SingleFormalParamDecl]
+              FormalParamDeclNoBraces(
+                Type(
+                 int
+                ) [Type]
+               y
+              ) [FormalParamDeclNoBraces]
+            ) [FormalParamDecls]
+            FormalParamDeclNoBraces(
+              Type(
+               char
+              ) [Type]
+             c
+            ) [FormalParamDeclNoBraces]
+          ) [FormalParamDecls]
+        ) [FormParams]
+        MyNoDeclListVar(
+        ) [MyNoDeclListVar]
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          StatementReturnExpr(
+            NoMinusExpr(
+              Terms(
+                Var(
+                  Design(
+                   x
+                    Variable(
+                    ) [Variable]
+                  ) [Design]
+                ) [Var]
+                MyNoTermList(
+                ) [MyNoTermList]
+              ) [Terms]
+              MyNoExprList(
+              ) [MyNoExprList]
+            ) [NoMinusExpr]
+          ) [StatementReturnExpr]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyDeclListVar(
+        MyDeclListVar(
+          MyDeclListVar(
+            MyNoDeclListVar(
+            ) [MyNoDeclListVar]
+            VarDecl(
+              VarDeclType(
+                Type(
+                 char
+                ) [Type]
+              ) [VarDeclType]
+              VarDeclElemNoBraces(
+               c
+              ) [VarDeclElemNoBraces]
+              MyNoVarDeclList(
+              ) [MyNoVarDeclList]
+            ) [VarDecl]
+          ) [MyDeclListVar]
+          VarDecl(
+            VarDeclType(
+              Type(
+               bool
+              ) [Type]
+            ) [VarDeclType]
+            VarDeclElemNoBraces(
+             b
+            ) [VarDeclElemNoBraces]
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+          ) [VarDecl]
+        ) [MyDeclListVar]
+        VarDecl(
+          VarDeclType(
+            Type(
+             int
+            ) [Type]
+          ) [VarDeclType]
+          VarDeclElemNoBraces(
+           x
+          ) [VarDeclElemNoBraces]
+          MyNoVarDeclList(
+          ) [MyNoVarDeclList]
+        ) [VarDecl]
+      ) [MyDeclListVar]
+      Statements(
+        Statements(
+          NoStmt(
+          ) [NoStmt]
+          StatementPrint(
+            NoMinusExpr(
+              Terms(
+                NumberFactor(
+                 1
+                ) [NumberFactor]
+                MyNoTermList(
+                ) [MyNoTermList]
+              ) [Terms]
+              MyNoExprList(
+              ) [MyNoExprList]
+            ) [NoMinusExpr]
+          ) [StatementPrint]
+        ) [Statements]
+        StatementDesStat(
+          DesignatorStatementFuncCall(
+            DesStmtFuncCallDesignator(
+              Design(
+               f1
+                Variable(
+                ) [Variable]
+              ) [Design]
+            ) [DesStmtFuncCallDesignator]
+            Actuals(
+              ActualParam(
+                NoMinusExpr(
+                  Terms(
+                    NumberFactor(
+                     5
+                    ) [NumberFactor]
+                    MyNoTermList(
+                    ) [MyNoTermList]
+                  ) [Terms]
+                  MyNoExprList(
+                  ) [MyNoExprList]
+                ) [NoMinusExpr]
+              ) [ActualParam]
+            ) [Actuals]
+          ) [DesignatorStatementFuncCall]
+        ) [StatementDesStat]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  15:45:16,318 - ===================================
+INFO  15:45:16,353 - Deklarisana promenljiva x na liniji 2
+INFO  15:45:16,353 - Deklarisana promenljiva y na liniji 2
+INFO  15:45:16,353 - Deklarisana promenljiva arr na liniji 3
+INFO  15:45:16,353 - Obradjuje se funkcija sa return iskazom f1 na liniji 12
+INFO  15:45:16,353 - Deklarisan formalni parametar x funkcije:f1 na liniji 12
+INFO  15:45:16,353 - Deklarisan formalni parametar y funkcije:f1 na liniji 12
+INFO  15:45:16,353 - Deklarisan formalni parametar c funkcije:f1 na liniji 12
+INFO  15:45:16,354 - Obradjuje se funkcija bez return iskaza main na liniji 16
+INFO  15:45:16,354 - Deklarisana promenljiva c na liniji 16
+INFO  15:45:16,354 - Deklarisana promenljiva b na liniji 16
+INFO  15:45:16,354 - Deklarisana promenljiva x na liniji 16

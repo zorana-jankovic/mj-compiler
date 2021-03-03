@@ -1,0 +1,656 @@
+INFO  00:14:06,260 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\testfinal1.mj
+INFO  00:14:06,330 - #2 program
+INFO  00:14:06,331 - #15 MJProgram
+INFO  00:14:06,331 - #15 int
+INFO  00:14:06,333 - #15 x
+INFO  00:14:06,334 - #5 ;
+INFO  00:14:06,334 - #15 int
+INFO  00:14:06,336 - #15 y
+INFO  00:14:06,336 - #5 ;
+INFO  00:14:06,336 - #15 int
+INFO  00:14:06,336 - #15 arr
+INFO  00:14:06,336 - #44 [
+INFO  00:14:06,336 - #45 ]
+INFO  00:14:06,336 - #5 ;
+INFO  00:14:06,336 - #21 class
+INFO  00:14:06,337 - #15 O
+INFO  00:14:06,337 - #3 {
+INFO  00:14:06,338 - #55 public
+INFO  00:14:06,338 - #15 int
+INFO  00:14:06,339 - #15 a
+INFO  00:14:06,339 - #5 ;
+INFO  00:14:06,342 - #4 }
+INFO  00:14:06,343 - #21 class
+INFO  00:14:06,343 - #15 Klasa
+INFO  00:14:06,343 - #3 {
+INFO  00:14:06,343 - #55 public
+INFO  00:14:06,343 - #15 O
+INFO  00:14:06,343 - #15 niz
+INFO  00:14:06,343 - #44 [
+INFO  00:14:06,343 - #45 ]
+INFO  00:14:06,343 - #5 ;
+INFO  00:14:06,343 - #55 public
+INFO  00:14:06,344 - #15 int
+INFO  00:14:06,344 - #15 a
+INFO  00:14:06,344 - #5 ;
+INFO  00:14:06,344 - #53 private
+INFO  00:14:06,344 - #15 int
+INFO  00:14:06,344 - #15 b
+INFO  00:14:06,344 - #5 ;
+INFO  00:14:06,345 - #53 private
+INFO  00:14:06,345 - #15 int
+INFO  00:14:06,345 - #15 c
+INFO  00:14:06,345 - #5 ;
+INFO  00:14:06,345 - #53 private
+INFO  00:14:06,345 - #15 int
+INFO  00:14:06,345 - #15 arr
+INFO  00:14:06,345 - #44 [
+INFO  00:14:06,345 - #45 ]
+INFO  00:14:06,346 - #5 ;
+INFO  00:14:06,346 - #3 {
+INFO  00:14:06,346 - #55 public
+INFO  00:14:06,347 - #13 void
+INFO  00:14:06,347 - #15 init
+INFO  00:14:06,347 - #6 (
+INFO  00:14:06,347 - #15 int
+INFO  00:14:06,348 - #15 a
+INFO  00:14:06,348 - #12 ,
+INFO  00:14:06,349 - #15 int
+INFO  00:14:06,349 - #15 b
+INFO  00:14:06,353 - #12 ,
+INFO  00:14:06,354 - #15 int
+INFO  00:14:06,354 - #15 cc
+INFO  00:14:06,354 - #7 )
+INFO  00:14:06,354 - #3 {
+INFO  00:14:06,354 - #15 this
+INFO  00:14:06,355 - #43 .
+INFO  00:14:06,355 - #15 a
+INFO  00:14:06,355 - #8 =
+INFO  00:14:06,356 - #15 a
+INFO  00:14:06,357 - #5 ;
+INFO  00:14:06,358 - #15 this
+INFO  00:14:06,358 - #43 .
+INFO  00:14:06,358 - #15 b
+INFO  00:14:06,358 - #8 =
+INFO  00:14:06,358 - #15 b
+INFO  00:14:06,358 - #5 ;
+INFO  00:14:06,358 - #15 c
+INFO  00:14:06,359 - #8 =
+INFO  00:14:06,359 - #15 cc
+INFO  00:14:06,359 - #5 ;
+INFO  00:14:06,359 - #15 arr
+INFO  00:14:06,359 - #8 =
+INFO  00:14:06,359 - #24 new
+INFO  00:14:06,359 - #15 int
+INFO  00:14:06,359 - #44 [
+INFO  00:14:06,359 - #14 3
+INFO  00:14:06,359 - #45 ]
+INFO  00:14:06,359 - #5 ;
+INFO  00:14:06,360 - #15 arr
+INFO  00:14:06,360 - #44 [
+INFO  00:14:06,360 - #14 0
+INFO  00:14:06,360 - #45 ]
+INFO  00:14:06,360 - #8 =
+INFO  00:14:06,360 - #15 a
+INFO  00:14:06,360 - #5 ;
+INFO  00:14:06,360 - #15 this
+INFO  00:14:06,360 - #43 .
+INFO  00:14:06,360 - #15 arr
+INFO  00:14:06,360 - #44 [
+INFO  00:14:06,361 - #14 1
+INFO  00:14:06,361 - #45 ]
+INFO  00:14:06,361 - #8 =
+INFO  00:14:06,361 - #15 b
+INFO  00:14:06,361 - #5 ;
+INFO  00:14:06,361 - #15 this
+INFO  00:14:06,361 - #43 .
+INFO  00:14:06,361 - #15 arr
+INFO  00:14:06,361 - #44 [
+INFO  00:14:06,361 - #14 2
+INFO  00:14:06,361 - #45 ]
+INFO  00:14:06,361 - #8 =
+INFO  00:14:06,361 - #15 this
+INFO  00:14:06,361 - #43 .
+INFO  00:14:06,362 - #15 c
+INFO  00:14:06,362 - #5 ;
+INFO  00:14:06,362 - #15 niz
+INFO  00:14:06,362 - #8 =
+INFO  00:14:06,362 - #24 new
+INFO  00:14:06,362 - #15 O
+INFO  00:14:06,362 - #44 [
+INFO  00:14:06,362 - #14 3
+INFO  00:14:06,362 - #45 ]
+INFO  00:14:06,362 - #5 ;
+INFO  00:14:06,362 - #15 niz
+INFO  00:14:06,362 - #44 [
+INFO  00:14:06,362 - #14 0
+INFO  00:14:06,362 - #45 ]
+INFO  00:14:06,362 - #8 =
+INFO  00:14:06,362 - #24 new
+INFO  00:14:06,362 - #15 O
+INFO  00:14:06,362 - #5 ;
+INFO  00:14:06,362 - #15 niz
+INFO  00:14:06,362 - #44 [
+INFO  00:14:06,362 - #14 0
+INFO  00:14:06,362 - #45 ]
+INFO  00:14:06,363 - #43 .
+INFO  00:14:06,363 - #15 a
+INFO  00:14:06,363 - #8 =
+INFO  00:14:06,363 - #14 5
+INFO  00:14:06,363 - #5 ;
+INFO  00:14:06,363 - #11 print
+INFO  00:14:06,363 - #6 (
+INFO  00:14:06,363 - #15 niz
+INFO  00:14:06,363 - #44 [
+INFO  00:14:06,363 - #14 0
+INFO  00:14:06,363 - #45 ]
+INFO  00:14:06,363 - #43 .
+INFO  00:14:06,363 - #15 a
+INFO  00:14:06,363 - #46 +=
+INFO  00:14:06,364 - #15 this
+INFO  00:14:06,365 - #43 .
+INFO  00:14:06,365 - #15 arr
+INFO  00:14:06,365 - #44 [
+INFO  00:14:06,365 - #14 2
+INFO  00:14:06,365 - #45 ]
+INFO  00:14:06,365 - #10 +
+INFO  00:14:06,365 - #14 7
+INFO  00:14:06,366 - #7 )
+INFO  00:14:06,367 - #5 ;
+INFO  00:14:06,367 - #11 print
+INFO  00:14:06,367 - #6 (
+INFO  00:14:06,367 - #15 this
+INFO  00:14:06,367 - #43 .
+INFO  00:14:06,367 - #15 niz
+INFO  00:14:06,367 - #44 [
+INFO  00:14:06,367 - #14 0
+INFO  00:14:06,367 - #45 ]
+INFO  00:14:06,367 - #43 .
+INFO  00:14:06,367 - #15 a
+INFO  00:14:06,367 - #7 )
+INFO  00:14:06,367 - #5 ;
+INFO  00:14:06,367 - #11 print
+INFO  00:14:06,367 - #6 (
+INFO  00:14:06,367 - #15 eol
+INFO  00:14:06,367 - #7 )
+INFO  00:14:06,367 - #5 ;
+INFO  00:14:06,367 - #4 }
+INFO  00:14:06,367 - #53 private
+INFO  00:14:06,368 - #13 void
+INFO  00:14:06,369 - #15 test
+INFO  00:14:06,369 - #6 (
+INFO  00:14:06,369 - #7 )
+INFO  00:14:06,369 - #3 {
+INFO  00:14:06,369 - #15 a
+INFO  00:14:06,369 - #46 +=
+INFO  00:14:06,369 - #14 6
+INFO  00:14:06,369 - #5 ;
+INFO  00:14:06,369 - #15 b
+INFO  00:14:06,369 - #46 +=
+INFO  00:14:06,369 - #15 a
+INFO  00:14:06,369 - #46 +=
+INFO  00:14:06,369 - #14 5
+INFO  00:14:06,369 - #5 ;
+INFO  00:14:06,369 - #15 c
+INFO  00:14:06,370 - #48 *=
+INFO  00:14:06,370 - #15 b
+INFO  00:14:06,370 - #47 -=
+INFO  00:14:06,370 - #15 a
+INFO  00:14:06,371 - #49 /=
+INFO  00:14:06,371 - #14 2
+INFO  00:14:06,371 - #5 ;
+INFO  00:14:06,371 - #11 print
+INFO  00:14:06,371 - #6 (
+INFO  00:14:06,371 - #15 a
+INFO  00:14:06,371 - #7 )
+INFO  00:14:06,371 - #5 ;
+INFO  00:14:06,372 - #11 print
+INFO  00:14:06,372 - #6 (
+INFO  00:14:06,372 - #15 b
+INFO  00:14:06,372 - #7 )
+INFO  00:14:06,372 - #5 ;
+INFO  00:14:06,372 - #11 print
+INFO  00:14:06,372 - #6 (
+INFO  00:14:06,372 - #15 c
+INFO  00:14:06,372 - #7 )
+INFO  00:14:06,372 - #5 ;
+INFO  00:14:06,372 - #15 arr
+INFO  00:14:06,372 - #44 [
+INFO  00:14:06,372 - #14 0
+INFO  00:14:06,372 - #45 ]
+INFO  00:14:06,372 - #46 +=
+INFO  00:14:06,372 - #14 6
+INFO  00:14:06,372 - #5 ;
+INFO  00:14:06,372 - #15 this
+INFO  00:14:06,373 - #43 .
+INFO  00:14:06,373 - #15 arr
+INFO  00:14:06,373 - #44 [
+INFO  00:14:06,373 - #14 1
+INFO  00:14:06,373 - #45 ]
+INFO  00:14:06,373 - #46 +=
+INFO  00:14:06,373 - #15 arr
+INFO  00:14:06,373 - #44 [
+INFO  00:14:06,373 - #14 0
+INFO  00:14:06,373 - #45 ]
+INFO  00:14:06,374 - #46 +=
+INFO  00:14:06,374 - #14 5
+INFO  00:14:06,374 - #5 ;
+INFO  00:14:06,374 - #15 arr
+INFO  00:14:06,374 - #44 [
+INFO  00:14:06,374 - #14 2
+INFO  00:14:06,374 - #45 ]
+INFO  00:14:06,374 - #48 *=
+INFO  00:14:06,374 - #15 this
+INFO  00:14:06,374 - #43 .
+INFO  00:14:06,374 - #15 arr
+INFO  00:14:06,374 - #44 [
+INFO  00:14:06,374 - #14 1
+INFO  00:14:06,374 - #45 ]
+INFO  00:14:06,374 - #47 -=
+INFO  00:14:06,374 - #15 arr
+INFO  00:14:06,375 - #44 [
+INFO  00:14:06,375 - #14 0
+INFO  00:14:06,375 - #45 ]
+INFO  00:14:06,375 - #49 /=
+INFO  00:14:06,375 - #14 2
+INFO  00:14:06,375 - #5 ;
+INFO  00:14:06,375 - #11 print
+INFO  00:14:06,375 - #6 (
+INFO  00:14:06,375 - #15 arr
+INFO  00:14:06,375 - #44 [
+INFO  00:14:06,376 - #14 0
+INFO  00:14:06,376 - #45 ]
+INFO  00:14:06,376 - #7 )
+INFO  00:14:06,376 - #5 ;
+INFO  00:14:06,376 - #11 print
+INFO  00:14:06,376 - #6 (
+INFO  00:14:06,376 - #15 this
+INFO  00:14:06,376 - #43 .
+INFO  00:14:06,376 - #15 arr
+INFO  00:14:06,376 - #44 [
+INFO  00:14:06,376 - #14 1
+INFO  00:14:06,376 - #45 ]
+INFO  00:14:06,376 - #7 )
+INFO  00:14:06,376 - #5 ;
+INFO  00:14:06,376 - #11 print
+INFO  00:14:06,376 - #6 (
+INFO  00:14:06,376 - #15 arr
+INFO  00:14:06,376 - #44 [
+INFO  00:14:06,376 - #14 2
+INFO  00:14:06,376 - #45 ]
+INFO  00:14:06,376 - #7 )
+INFO  00:14:06,376 - #5 ;
+INFO  00:14:06,376 - #17 if
+INFO  00:14:06,376 - #6 (
+INFO  00:14:06,377 - #15 a
+INFO  00:14:06,377 - #33 ==
+INFO  00:14:06,377 - #14 6
+INFO  00:14:06,378 - #7 )
+INFO  00:14:06,380 - #3 {
+INFO  00:14:06,380 - #15 test
+INFO  00:14:06,380 - #6 (
+INFO  00:14:06,381 - #7 )
+INFO  00:14:06,381 - #5 ;
+INFO  00:14:06,382 - #4 }
+INFO  00:14:06,382 - #4 }
+INFO  00:14:06,382 - #55 public
+INFO  00:14:06,382 - #13 void
+INFO  00:14:06,382 - #15 testP
+INFO  00:14:06,382 - #6 (
+INFO  00:14:06,382 - #7 )
+INFO  00:14:06,382 - #3 {
+INFO  00:14:06,382 - #15 test
+INFO  00:14:06,382 - #6 (
+INFO  00:14:06,382 - #7 )
+INFO  00:14:06,382 - #5 ;
+INFO  00:14:06,382 - #4 }
+INFO  00:14:06,382 - #4 }
+INFO  00:14:06,382 - #4 }
+INFO  00:14:06,383 - #15 Klasa
+INFO  00:14:06,383 - #15 k
+INFO  00:14:06,383 - #5 ;
+INFO  00:14:06,383 - #3 {
+INFO  00:14:06,383 - #15 int
+INFO  00:14:06,383 - #15 fibo
+INFO  00:14:06,383 - #6 (
+INFO  00:14:06,383 - #15 int
+INFO  00:14:06,383 - #15 n
+INFO  00:14:06,383 - #7 )
+INFO  00:14:06,383 - #3 {
+INFO  00:14:06,383 - #17 if
+INFO  00:14:06,383 - #6 (
+INFO  00:14:06,383 - #15 n
+INFO  00:14:06,383 - #38 <=
+INFO  00:14:06,383 - #14 0
+INFO  00:14:06,384 - #7 )
+INFO  00:14:06,384 - #9 return
+INFO  00:14:06,384 - #14 0
+INFO  00:14:06,384 - #5 ;
+INFO  00:14:06,384 - #18 else
+INFO  00:14:06,384 - #17 if
+INFO  00:14:06,384 - #6 (
+INFO  00:14:06,384 - #15 n
+INFO  00:14:06,384 - #38 <=
+INFO  00:14:06,384 - #14 1
+INFO  00:14:06,384 - #7 )
+INFO  00:14:06,384 - #9 return
+INFO  00:14:06,384 - #14 1
+INFO  00:14:06,384 - #5 ;
+INFO  00:14:06,384 - #9 return
+INFO  00:14:06,385 - #15 fibo
+INFO  00:14:06,385 - #6 (
+INFO  00:14:06,385 - #15 n
+INFO  00:14:06,385 - #29 -
+INFO  00:14:06,386 - #14 1
+INFO  00:14:06,386 - #7 )
+INFO  00:14:06,386 - #10 +
+INFO  00:14:06,386 - #15 fibo
+INFO  00:14:06,386 - #6 (
+INFO  00:14:06,386 - #15 n
+INFO  00:14:06,387 - #29 -
+INFO  00:14:06,387 - #14 2
+INFO  00:14:06,387 - #7 )
+INFO  00:14:06,387 - #5 ;
+INFO  00:14:06,387 - #4 }
+INFO  00:14:06,387 - #13 void
+INFO  00:14:06,387 - #15 main
+INFO  00:14:06,387 - #6 (
+INFO  00:14:06,387 - #7 )
+INFO  00:14:06,387 - #3 {
+INFO  00:14:06,387 - #15 arr
+INFO  00:14:06,387 - #8 =
+INFO  00:14:06,387 - #24 new
+INFO  00:14:06,387 - #15 int
+INFO  00:14:06,387 - #44 [
+INFO  00:14:06,387 - #14 10
+INFO  00:14:06,387 - #45 ]
+INFO  00:14:06,387 - #5 ;
+INFO  00:14:06,388 - #15 k
+INFO  00:14:06,388 - #8 =
+INFO  00:14:06,388 - #24 new
+INFO  00:14:06,388 - #15 Klasa
+INFO  00:14:06,388 - #5 ;
+INFO  00:14:06,388 - #15 k
+INFO  00:14:06,388 - #43 .
+INFO  00:14:06,388 - #15 init
+INFO  00:14:06,388 - #6 (
+INFO  00:14:06,388 - #14 1
+INFO  00:14:06,388 - #12 ,
+INFO  00:14:06,388 - #14 2
+INFO  00:14:06,388 - #12 ,
+INFO  00:14:06,388 - #14 3
+INFO  00:14:06,388 - #7 )
+INFO  00:14:06,388 - #5 ;
+INFO  00:14:06,389 - #15 k
+INFO  00:14:06,389 - #43 .
+INFO  00:14:06,389 - #15 testP
+INFO  00:14:06,389 - #6 (
+INFO  00:14:06,389 - #7 )
+INFO  00:14:06,389 - #5 ;
+INFO  00:14:06,389 - #15 arr
+INFO  00:14:06,389 - #44 [
+INFO  00:14:06,389 - #14 0
+INFO  00:14:06,389 - #45 ]
+INFO  00:14:06,389 - #8 =
+INFO  00:14:06,389 - #14 0
+INFO  00:14:06,389 - #5 ;
+INFO  00:14:06,389 - #15 arr
+INFO  00:14:06,389 - #44 [
+INFO  00:14:06,389 - #14 1
+INFO  00:14:06,389 - #45 ]
+INFO  00:14:06,389 - #8 =
+INFO  00:14:06,390 - #14 5
+INFO  00:14:06,390 - #5 ;
+INFO  00:14:06,390 - #15 arr
+INFO  00:14:06,390 - #44 [
+INFO  00:14:06,390 - #14 2
+INFO  00:14:06,390 - #45 ]
+INFO  00:14:06,390 - #8 =
+INFO  00:14:06,390 - #14 3
+INFO  00:14:06,390 - #5 ;
+INFO  00:14:06,390 - #15 x
+INFO  00:14:06,390 - #8 =
+INFO  00:14:06,390 - #14 10
+INFO  00:14:06,390 - #5 ;
+INFO  00:14:06,390 - #15 arr
+INFO  00:14:06,390 - #44 [
+INFO  00:14:06,390 - #14 0
+INFO  00:14:06,390 - #45 ]
+INFO  00:14:06,390 - #46 +=
+INFO  00:14:06,390 - #15 x
+INFO  00:14:06,390 - #48 *=
+INFO  00:14:06,390 - #15 arr
+INFO  00:14:06,390 - #44 [
+INFO  00:14:06,390 - #14 1
+INFO  00:14:06,391 - #45 ]
+INFO  00:14:06,391 - #49 /=
+INFO  00:14:06,391 - #15 arr
+INFO  00:14:06,391 - #44 [
+INFO  00:14:06,391 - #14 2
+INFO  00:14:06,391 - #45 ]
+INFO  00:14:06,391 - #47 -=
+INFO  00:14:06,391 - #14 1
+INFO  00:14:06,391 - #5 ;
+INFO  00:14:06,391 - #15 arr
+INFO  00:14:06,391 - #44 [
+INFO  00:14:06,391 - #14 0
+INFO  00:14:06,391 - #45 ]
+INFO  00:14:06,391 - #41 ++
+INFO  00:14:06,391 - #5 ;
+INFO  00:14:06,391 - #11 print
+INFO  00:14:06,391 - #6 (
+INFO  00:14:06,391 - #15 arr
+INFO  00:14:06,391 - #44 [
+INFO  00:14:06,391 - #14 0
+INFO  00:14:06,391 - #45 ]
+INFO  00:14:06,392 - #7 )
+INFO  00:14:06,392 - #5 ;
+INFO  00:14:06,392 - #11 print
+INFO  00:14:06,392 - #6 (
+INFO  00:14:06,392 - #15 fibo
+INFO  00:14:06,392 - #6 (
+INFO  00:14:06,392 - #14 8
+INFO  00:14:06,392 - #7 )
+INFO  00:14:06,392 - #7 )
+INFO  00:14:06,392 - #5 ;
+INFO  00:14:06,392 - #15 x
+INFO  00:14:06,392 - #8 =
+INFO  00:14:06,392 - #14 5
+INFO  00:14:06,392 - #5 ;
+INFO  00:14:06,392 - #11 print
+INFO  00:14:06,392 - #6 (
+INFO  00:14:06,392 - #15 eol
+INFO  00:14:06,392 - #7 )
+INFO  00:14:06,392 - #5 ;
+INFO  00:14:06,392 - #11 print
+INFO  00:14:06,392 - #6 (
+INFO  00:14:06,392 - #15 x
+INFO  00:14:06,392 - #46 +=
+INFO  00:14:06,392 - #14 10
+INFO  00:14:06,392 - #7 )
+INFO  00:14:06,392 - #5 ;
+INFO  00:14:06,392 - #11 print
+INFO  00:14:06,392 - #6 (
+INFO  00:14:06,393 - #15 x
+INFO  00:14:06,393 - #7 )
+INFO  00:14:06,393 - #5 ;
+INFO  00:14:06,393 - #15 y
+INFO  00:14:06,393 - #8 =
+INFO  00:14:06,393 - #14 5
+INFO  00:14:06,393 - #5 ;
+INFO  00:14:06,393 - #15 arr
+INFO  00:14:06,393 - #44 [
+INFO  00:14:06,393 - #14 0
+INFO  00:14:06,393 - #45 ]
+INFO  00:14:06,393 - #8 =
+INFO  00:14:06,393 - #15 y
+INFO  00:14:06,393 - #46 +=
+INFO  00:14:06,393 - #29 -
+INFO  00:14:06,393 - #14 3
+INFO  00:14:06,393 - #10 +
+INFO  00:14:06,394 - #14 4
+INFO  00:14:06,394 - #32 %
+INFO  00:14:06,394 - #14 2
+INFO  00:14:06,395 - #29 -
+INFO  00:14:06,396 - #14 2
+INFO  00:14:06,396 - #5 ;
+INFO  00:14:06,396 - #11 print
+INFO  00:14:06,396 - #6 (
+INFO  00:14:06,396 - #15 eol
+INFO  00:14:06,396 - #7 )
+INFO  00:14:06,396 - #5 ;
+INFO  00:14:06,396 - #11 print
+INFO  00:14:06,396 - #6 (
+INFO  00:14:06,396 - #15 arr
+INFO  00:14:06,396 - #44 [
+INFO  00:14:06,396 - #14 0
+INFO  00:14:06,396 - #45 ]
+INFO  00:14:06,396 - #7 )
+INFO  00:14:06,396 - #5 ;
+INFO  00:14:06,396 - #11 print
+INFO  00:14:06,396 - #6 (
+INFO  00:14:06,397 - #15 y
+INFO  00:14:06,397 - #7 )
+INFO  00:14:06,397 - #5 ;
+INFO  00:14:06,397 - #11 print
+INFO  00:14:06,397 - #6 (
+INFO  00:14:06,397 - #15 eol
+INFO  00:14:06,397 - #7 )
+INFO  00:14:06,397 - #5 ;
+INFO  00:14:06,397 - #11 print
+INFO  00:14:06,397 - #6 (
+INFO  00:14:06,397 - #15 fibo
+INFO  00:14:06,397 - #6 (
+INFO  00:14:06,397 - #15 arr
+INFO  00:14:06,397 - #44 [
+INFO  00:14:06,397 - #14 0
+INFO  00:14:06,397 - #45 ]
+INFO  00:14:06,398 - #46 +=
+INFO  00:14:06,398 - #14 6
+INFO  00:14:06,398 - #29 -
+INFO  00:14:06,398 - #14 2
+INFO  00:14:06,398 - #10 +
+INFO  00:14:06,398 - #14 4
+INFO  00:14:06,398 - #31 /
+INFO  00:14:06,398 - #14 2
+INFO  00:14:06,398 - #7 )
+INFO  00:14:06,399 - #7 )
+INFO  00:14:06,399 - #5 ;
+INFO  00:14:06,399 - #11 print
+INFO  00:14:06,399 - #6 (
+INFO  00:14:06,399 - #15 arr
+INFO  00:14:06,399 - #44 [
+INFO  00:14:06,399 - #14 0
+INFO  00:14:06,399 - #45 ]
+INFO  00:14:06,399 - #7 )
+INFO  00:14:06,399 - #5 ;
+INFO  00:14:06,399 - #4 }
+INFO  00:14:06,399 - #4 }
+INFO  00:14:06,405 - ===================================
+INFO  00:14:06,410 - Deklarisana promenljiva x na liniji 2
+INFO  00:14:06,410 - Deklarisana promenljiva y na liniji 2
+INFO  00:14:06,410 - Deklarisana promenljiva arr na liniji 3
+INFO  00:14:06,410 - Obradjuje se unutrasnja klasa programa O na liniji 5
+INFO  00:14:06,410 - Deklarisano polje klase  a na liniji 6
+INFO  00:14:06,410 - Obradjuje se unutrasnja klasa programa Klasa na liniji 8
+INFO  00:14:06,410 - Deklarisan polje klase niz na liniji 9
+INFO  00:14:06,410 - Deklarisano polje klase  a na liniji 10
+INFO  00:14:06,410 - Deklarisano polje klase  b na liniji 11
+INFO  00:14:06,410 - Deklarisano polje klase  c na liniji 12
+INFO  00:14:06,410 - Deklarisan polje klase arr na liniji 13
+INFO  00:14:06,410 - Obradjuje se funkcija bez return iskaza init na liniji 16
+INFO  00:14:06,410 - Deklarisan formalni parametar a funkcije:init na liniji 16
+INFO  00:14:06,411 - Deklarisan formalni parametar b funkcije:init na liniji 16
+INFO  00:14:06,411 - Deklarisan formalni parametar cc funkcije:init na liniji 16
+INFO  00:14:06,411 - Detektovan pristup polju klase:  a na liniji 17 na liniji 17
+INFO  00:14:06,411 - Detektovan pristup polju klase:   a na liniji 17 na liniji 17
+INFO  00:14:06,412 - Detektovan pristup polju klase:  b na liniji 18 na liniji 18
+INFO  00:14:06,412 - Detektovan pristup polju klase:   b na liniji 18 na liniji 18
+INFO  00:14:06,412 - Detektovan pristup polju klase:   c na liniji 19 na liniji 19
+INFO  00:14:06,412 - Detektovan pristup polju klase:   arr na liniji 20 na liniji 20
+INFO  00:14:06,412 - Detektovan pristup elementu niza:   arr na liniji 21 na liniji 21
+INFO  00:14:06,413 - Detektovan pristup polju klase:  arr na liniji 22 na liniji 22
+INFO  00:14:06,413 - Detektovan pristup elementu niza:   arr na liniji 22 na liniji 22
+INFO  00:14:06,413 - Detektovan pristup polju klase:  arr na liniji 23 na liniji 23
+INFO  00:14:06,413 - Detektovan pristup elementu niza:   arr na liniji 23 na liniji 23
+INFO  00:14:06,413 - Detektovan pristup polju klase:  c na liniji 23 na liniji 23
+INFO  00:14:06,413 - Detektovan pristup polju klase:   c na liniji 23 na liniji 23
+INFO  00:14:06,413 - Detektovan pristup polju klase:   niz na liniji 25 na liniji 25
+INFO  00:14:06,413 - Detektovan pristup elementu niza:   niz na liniji 26 na liniji 26
+INFO  00:14:06,413 - Detektovan pristup polju klase:  a na liniji 28 na liniji 28
+INFO  00:14:06,413 - Detektovan pristup polju klase:   a na liniji 28 na liniji 28
+INFO  00:14:06,413 - Detektovan pristup polju klase:  a na liniji 30 na liniji 30
+INFO  00:14:06,413 - Detektovan pristup polju klase:   a na liniji 30 na liniji 30
+INFO  00:14:06,413 - Detektovan pristup polju klase:  arr na liniji 30 na liniji 30
+INFO  00:14:06,413 - Detektovan pristup elementu niza:   arr na liniji 30 na liniji 30
+INFO  00:14:06,413 - Detektovan pristup polju klase:  niz na liniji 31 na liniji 31
+INFO  00:14:06,413 - Detektovan pristup polju klase:  a na liniji 31 na liniji 31
+INFO  00:14:06,414 - Detektovan pristup polju klase:   a na liniji 31 na liniji 31
+INFO  00:14:06,414 - Detektovan pristup simbolickoj konstanti:   eol na liniji 32 na liniji 32
+INFO  00:14:06,414 - Obradjuje se funkcija bez return iskaza test na liniji 35
+INFO  00:14:06,414 - Detektovan pristup polju klase:   a na liniji 36 na liniji 36
+INFO  00:14:06,414 - Detektovan pristup polju klase:   b na liniji 38 na liniji 38
+INFO  00:14:06,414 - Detektovan pristup polju klase:   a na liniji 38 na liniji 38
+INFO  00:14:06,414 - Detektovan pristup polju klase:   c na liniji 39 na liniji 39
+INFO  00:14:06,414 - Detektovan pristup polju klase:   b na liniji 39 na liniji 39
+INFO  00:14:06,414 - Detektovan pristup polju klase:   a na liniji 39 na liniji 39
+INFO  00:14:06,414 - Detektovan pristup polju klase:   a na liniji 41 na liniji 41
+INFO  00:14:06,414 - Detektovan pristup polju klase:   b na liniji 42 na liniji 42
+INFO  00:14:06,414 - Detektovan pristup polju klase:   c na liniji 43 na liniji 43
+INFO  00:14:06,414 - Detektovan pristup elementu niza:   arr na liniji 45 na liniji 45
+INFO  00:14:06,414 - Detektovan pristup polju klase:  arr na liniji 47 na liniji 47
+INFO  00:14:06,414 - Detektovan pristup elementu niza:   arr na liniji 47 na liniji 47
+INFO  00:14:06,414 - Detektovan pristup elementu niza:   arr na liniji 47 na liniji 47
+INFO  00:14:06,414 - Detektovan pristup elementu niza:   arr na liniji 48 na liniji 48
+INFO  00:14:06,414 - Detektovan pristup polju klase:  arr na liniji 48 na liniji 48
+INFO  00:14:06,414 - Detektovan pristup elementu niza:   arr na liniji 48 na liniji 48
+INFO  00:14:06,415 - Detektovan pristup elementu niza:   arr na liniji 48 na liniji 48
+INFO  00:14:06,415 - Detektovan pristup elementu niza:   arr na liniji 50 na liniji 50
+INFO  00:14:06,415 - Detektovan pristup polju klase:  arr na liniji 51 na liniji 51
+INFO  00:14:06,415 - Detektovan pristup elementu niza:   arr na liniji 51 na liniji 51
+INFO  00:14:06,415 - Detektovan pristup elementu niza:   arr na liniji 52 na liniji 52
+INFO  00:14:06,415 - Detektovan pristup polju klase:   a na liniji 54 na liniji 54
+INFO  00:14:06,415 - Detektovan poziv  metoda unutrasnje klase:   test na liniji 56 na liniji 56
+INFO  00:14:06,416 - Obradjuje se funkcija bez return iskaza testP na liniji 60
+INFO  00:14:06,416 - Detektovan poziv  metoda unutrasnje klase:   test na liniji 61 na liniji 61
+INFO  00:14:06,416 - Deklarisana promenljiva k na liniji 66
+INFO  00:14:06,416 - Obradjuje se funkcija sa return iskazom fibo na liniji 71
+INFO  00:14:06,416 - Deklarisan formalni parametar n funkcije:fibo na liniji 71
+INFO  00:14:06,416 - Detektovan poziv  globalne f-je:   fibo na liniji 77 na liniji 77
+INFO  00:14:06,416 - Detektovan poziv  globalne f-je:   fibo na liniji 77 na liniji 77
+INFO  00:14:06,417 - Obradjuje se funkcija bez return iskaza main na liniji 80
+INFO  00:14:06,417 - Detektovan pristup globalnoj promenljivoj:   arr na liniji 81 na liniji 81
+INFO  00:14:06,417 - Detektovan pristup globalnoj promenljivoj:   k na liniji 82 na liniji 82
+INFO  00:14:06,417 - Detektovan pristup polju klase:  init na liniji 83 na liniji 83
+INFO  00:14:06,417 - Detektovan poziv  metoda unutrasnje klase:   init na liniji 83 na liniji 83
+INFO  00:14:06,417 - Detektovan pristup polju klase:  testP na liniji 85 na liniji 85
+INFO  00:14:06,417 - Detektovan poziv  metoda unutrasnje klase:   testP na liniji 85 na liniji 85
+INFO  00:14:06,417 - Detektovan pristup elementu niza:   arr na liniji 89 na liniji 89
+INFO  00:14:06,417 - Detektovan pristup elementu niza:   arr na liniji 90 na liniji 90
+INFO  00:14:06,417 - Detektovan pristup elementu niza:   arr na liniji 91 na liniji 91
+INFO  00:14:06,417 - Detektovan pristup globalnoj promenljivoj:   x na liniji 93 na liniji 93
+INFO  00:14:06,417 - Detektovan pristup elementu niza:   arr na liniji 95 na liniji 95
+INFO  00:14:06,417 - Detektovan pristup globalnoj promenljivoj:   x na liniji 95 na liniji 95
+INFO  00:14:06,417 - Detektovan pristup elementu niza:   arr na liniji 95 na liniji 95
+INFO  00:14:06,418 - Detektovan pristup elementu niza:   arr na liniji 95 na liniji 95
+INFO  00:14:06,418 - Detektovan pristup elementu niza:   arr na liniji 96 na liniji 96
+INFO  00:14:06,418 - Detektovan pristup elementu niza:   arr na liniji 98 na liniji 98
+INFO  00:14:06,418 - Detektovan poziv  globalne f-je:   fibo na liniji 101 na liniji 101
+INFO  00:14:06,418 - Detektovan pristup globalnoj promenljivoj:   x na liniji 103 na liniji 103
+INFO  00:14:06,418 - Detektovan pristup simbolickoj konstanti:   eol na liniji 105 na liniji 105
+INFO  00:14:06,418 - Detektovan pristup globalnoj promenljivoj:   x na liniji 106 na liniji 106
+INFO  00:14:06,418 - Detektovan pristup globalnoj promenljivoj:   x na liniji 107 na liniji 107
+INFO  00:14:06,418 - Detektovan pristup globalnoj promenljivoj:   y na liniji 109 na liniji 109
+INFO  00:14:06,418 - Detektovan pristup elementu niza:   arr na liniji 110 na liniji 110
+INFO  00:14:06,418 - Detektovan pristup globalnoj promenljivoj:   y na liniji 110 na liniji 110
+INFO  00:14:06,418 - Detektovan pristup simbolickoj konstanti:   eol na liniji 111 na liniji 111
+INFO  00:14:06,418 - Detektovan pristup elementu niza:   arr na liniji 112 na liniji 112
+INFO  00:14:06,419 - Detektovan pristup globalnoj promenljivoj:   y na liniji 113 na liniji 113
+INFO  00:14:06,419 - Detektovan pristup simbolickoj konstanti:   eol na liniji 115 na liniji 115
+INFO  00:14:06,419 - Detektovan poziv  globalne f-je:   fibo na liniji 116 na liniji 116
+INFO  00:14:06,419 - Detektovan pristup elementu niza:   arr na liniji 116 na liniji 116
+INFO  00:14:06,419 - Detektovan pristup elementu niza:   arr na liniji 117 na liniji 117
+INFO  00:14:06,419 -  Print count calls = 20
+INFO  00:14:06,419 -  Deklarisanih promenljivih ima = 10
+INFO  00:14:06,419 - ===================================
+INFO  00:14:06,433 - Parsiranje uspesno zavrseno!

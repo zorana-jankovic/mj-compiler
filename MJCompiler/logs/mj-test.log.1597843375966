@@ -1,0 +1,330 @@
+INFO  15:22:40,379 - Compiling source file: C:\Users\Milos\Desktop\MJCompiler\MJCompiler\test\test8.mj
+INFO  15:22:40,480 - #2 program
+INFO  15:22:40,480 - #15 test301
+INFO  15:22:40,480 - #15 char
+INFO  15:22:40,483 - #15 niz
+INFO  15:22:40,484 - #44 [
+INFO  15:22:40,484 - #45 ]
+INFO  15:22:40,484 - #5 ;
+INFO  15:22:40,485 - #23 const
+INFO  15:22:40,487 - #15 int
+INFO  15:22:40,487 - #15 size
+INFO  15:22:40,487 - #8 =
+INFO  15:22:40,487 - #14 26
+INFO  15:22:40,487 - #5 ;
+INFO  15:22:40,488 - #15 int
+INFO  15:22:40,489 - #15 i
+INFO  15:22:40,489 - #12 ,
+INFO  15:22:40,490 - #15 j
+INFO  15:22:40,490 - #5 ;
+INFO  15:22:40,490 - #15 int
+INFO  15:22:40,490 - #15 a
+INFO  15:22:40,490 - #44 [
+INFO  15:22:40,490 - #45 ]
+INFO  15:22:40,494 - #5 ;
+INFO  15:22:40,494 - #3 {
+INFO  15:22:40,494 - #13 void
+INFO  15:22:40,495 - #15 vratiniz
+INFO  15:22:40,495 - #6 (
+INFO  15:22:40,495 - #15 int
+INFO  15:22:40,495 - #15 a
+INFO  15:22:40,495 - #44 [
+INFO  15:22:40,495 - #45 ]
+INFO  15:22:40,495 - #7 )
+INFO  15:22:40,496 - #3 {
+INFO  15:22:40,496 - #15 a
+INFO  15:22:40,497 - #44 [
+INFO  15:22:40,497 - #14 0
+INFO  15:22:40,498 - #45 ]
+INFO  15:22:40,499 - #8 =
+INFO  15:22:40,500 - #14 1
+INFO  15:22:40,501 - #5 ;
+INFO  15:22:40,501 - #4 }
+INFO  15:22:40,502 - #13 void
+INFO  15:22:40,502 - #15 main
+INFO  15:22:40,502 - #6 (
+INFO  15:22:40,502 - #7 )
+INFO  15:22:40,503 - #3 {
+INFO  15:22:40,504 - #15 niz
+INFO  15:22:40,504 - #8 =
+INFO  15:22:40,504 - #24 new
+INFO  15:22:40,504 - #15 char
+INFO  15:22:40,504 - #44 [
+INFO  15:22:40,504 - #15 size
+INFO  15:22:40,504 - #45 ]
+INFO  15:22:40,504 - #5 ;
+INFO  15:22:40,504 - #15 i
+INFO  15:22:40,505 - #8 =
+INFO  15:22:40,505 - #15 size
+INFO  15:22:40,505 - #29 -
+INFO  15:22:40,505 - #14 1
+INFO  15:22:40,512 - #5 ;
+INFO  15:22:40,513 - #26 for
+INFO  15:22:40,513 - #6 (
+INFO  15:22:40,513 - #5 ;
+INFO  15:22:40,515 - #5 ;
+INFO  15:22:40,515 - #7 )
+INFO  15:22:40,516 - #3 {
+INFO  15:22:40,516 - #17 if
+INFO  15:22:40,516 - #6 (
+INFO  15:22:40,517 - #15 i
+INFO  15:22:40,517 - #32 %
+INFO  15:22:40,518 - #14 2
+INFO  15:22:40,519 - #33 ==
+INFO  15:22:40,520 - #14 0
+INFO  15:22:40,521 - #7 )
+INFO  15:22:40,524 - #15 niz
+INFO  15:22:40,524 - #44 [
+INFO  15:22:40,524 - #15 i
+INFO  15:22:40,524 - #45 ]
+INFO  15:22:40,524 - #8 =
+INFO  15:22:40,524 - #15 chr
+INFO  15:22:40,524 - #6 (
+INFO  15:22:40,525 - #15 i
+INFO  15:22:40,525 - #10 +
+INFO  15:22:40,525 - #15 ord
+INFO  15:22:40,526 - #6 (
+INFO  15:22:40,526 - #19 a
+INFO  15:22:40,526 - #7 )
+INFO  15:22:40,526 - #7 )
+INFO  15:22:40,526 - #5 ;
+INFO  15:22:40,527 - #18 else
+INFO  15:22:40,527 - #15 niz
+INFO  15:22:40,527 - #44 [
+INFO  15:22:40,527 - #15 i
+INFO  15:22:40,528 - #45 ]
+INFO  15:22:40,528 - #8 =
+INFO  15:22:40,528 - #19 ?
+INFO  15:22:40,528 - #5 ;
+INFO  15:22:40,528 - #15 i
+INFO  15:22:40,528 - #42 --
+INFO  15:22:40,528 - #5 ;
+INFO  15:22:40,528 - #17 if
+INFO  15:22:40,528 - #6 (
+INFO  15:22:40,529 - #15 i
+INFO  15:22:40,529 - #33 ==
+INFO  15:22:40,529 - #14 0
+INFO  15:22:40,529 - #7 )
+INFO  15:22:40,529 - #20 break
+INFO  15:22:40,529 - #5 ;
+INFO  15:22:40,529 - #4 }
+INFO  15:22:40,530 - #26 for
+INFO  15:22:40,531 - #6 (
+INFO  15:22:40,531 - #15 i
+INFO  15:22:40,531 - #8 =
+INFO  15:22:40,531 - #15 size
+INFO  15:22:40,531 - #29 -
+INFO  15:22:40,531 - #14 1
+INFO  15:22:40,531 - #5 ;
+INFO  15:22:40,531 - #15 i
+INFO  15:22:40,531 - #36 >=
+INFO  15:22:40,531 - #14 0
+INFO  15:22:40,532 - #5 ;
+INFO  15:22:40,532 - #15 i
+INFO  15:22:40,532 - #42 --
+INFO  15:22:40,532 - #7 )
+INFO  15:22:40,532 - #3 {
+INFO  15:22:40,532 - #17 if
+INFO  15:22:40,532 - #6 (
+INFO  15:22:40,532 - #15 i
+INFO  15:22:40,532 - #32 %
+INFO  15:22:40,532 - #14 2
+INFO  15:22:40,532 - #33 ==
+INFO  15:22:40,533 - #14 0
+INFO  15:22:40,533 - #7 )
+INFO  15:22:40,533 - #28 continue
+INFO  15:22:40,533 - #5 ;
+INFO  15:22:40,533 - #11 print
+INFO  15:22:40,534 - #6 (
+INFO  15:22:40,534 - #15 niz
+INFO  15:22:40,534 - #44 [
+INFO  15:22:40,534 - #15 i
+INFO  15:22:40,534 - #45 ]
+INFO  15:22:40,534 - #7 )
+INFO  15:22:40,534 - #5 ;
+INFO  15:22:40,534 - #17 if
+INFO  15:22:40,534 - #6 (
+INFO  15:22:40,534 - #15 i
+INFO  15:22:40,534 - #32 %
+INFO  15:22:40,534 - #14 2
+INFO  15:22:40,534 - #33 ==
+INFO  15:22:40,535 - #14 1
+INFO  15:22:40,535 - #7 )
+INFO  15:22:40,535 - #11 print
+INFO  15:22:40,535 - #6 (
+INFO  15:22:40,535 - #15 eol
+INFO  15:22:40,535 - #7 )
+INFO  15:22:40,535 - #5 ;
+INFO  15:22:40,535 - #4 }
+INFO  15:22:40,535 - #11 print
+INFO  15:22:40,535 - #6 (
+INFO  15:22:40,535 - #15 eol
+INFO  15:22:40,535 - #7 )
+INFO  15:22:40,535 - #5 ;
+INFO  15:22:40,535 - #26 for
+INFO  15:22:40,536 - #6 (
+INFO  15:22:40,536 - #15 i
+INFO  15:22:40,536 - #8 =
+INFO  15:22:40,536 - #14 0
+INFO  15:22:40,536 - #5 ;
+INFO  15:22:40,537 - #15 i
+INFO  15:22:40,537 - #37 <
+INFO  15:22:40,537 - #15 size
+INFO  15:22:40,538 - #31 /
+INFO  15:22:40,538 - #14 2
+INFO  15:22:40,538 - #5 ;
+INFO  15:22:40,539 - #15 i
+INFO  15:22:40,539 - #41 ++
+INFO  15:22:40,539 - #7 )
+INFO  15:22:40,539 - #3 {
+INFO  15:22:40,539 - #17 if
+INFO  15:22:40,539 - #6 (
+INFO  15:22:40,539 - #15 i
+INFO  15:22:40,539 - #33 ==
+INFO  15:22:40,539 - #15 size
+INFO  15:22:40,539 - #31 /
+INFO  15:22:40,539 - #14 2
+INFO  15:22:40,539 - #29 -
+INFO  15:22:40,539 - #14 2
+INFO  15:22:40,539 - #7 )
+INFO  15:22:40,540 - #28 continue
+INFO  15:22:40,540 - #5 ;
+INFO  15:22:40,540 - #26 for
+INFO  15:22:40,540 - #6 (
+INFO  15:22:40,540 - #15 j
+INFO  15:22:40,540 - #8 =
+INFO  15:22:40,540 - #15 i
+INFO  15:22:40,540 - #5 ;
+INFO  15:22:40,540 - #15 j
+INFO  15:22:40,540 - #37 <
+INFO  15:22:40,540 - #15 i
+INFO  15:22:40,540 - #10 +
+INFO  15:22:40,540 - #14 2
+INFO  15:22:40,540 - #5 ;
+INFO  15:22:40,540 - #15 j
+INFO  15:22:40,540 - #41 ++
+INFO  15:22:40,540 - #7 )
+INFO  15:22:40,540 - #3 {
+INFO  15:22:40,540 - #17 if
+INFO  15:22:40,541 - #6 (
+INFO  15:22:40,541 - #15 i
+INFO  15:22:40,541 - #33 ==
+INFO  15:22:40,541 - #14 0
+INFO  15:22:40,541 - #7 )
+INFO  15:22:40,541 - #20 break
+INFO  15:22:40,541 - #5 ;
+INFO  15:22:40,541 - #11 print
+INFO  15:22:40,541 - #6 (
+INFO  15:22:40,541 - #15 niz
+INFO  15:22:40,541 - #44 [
+INFO  15:22:40,541 - #15 i
+INFO  15:22:40,541 - #10 +
+INFO  15:22:40,541 - #15 j
+INFO  15:22:40,541 - #45 ]
+INFO  15:22:40,541 - #7 )
+INFO  15:22:40,541 - #5 ;
+INFO  15:22:40,541 - #4 }
+INFO  15:22:40,542 - #4 }
+INFO  15:22:40,542 - #11 print
+INFO  15:22:40,542 - #6 (
+INFO  15:22:40,542 - #15 eol
+INFO  15:22:40,542 - #7 )
+INFO  15:22:40,542 - #5 ;
+INFO  15:22:40,542 - #15 a
+INFO  15:22:40,542 - #8 =
+INFO  15:22:40,542 - #24 new
+INFO  15:22:40,542 - #15 int
+INFO  15:22:40,542 - #44 [
+INFO  15:22:40,542 - #14 3
+INFO  15:22:40,542 - #45 ]
+INFO  15:22:40,542 - #5 ;
+INFO  15:22:40,543 - #15 a
+INFO  15:22:40,543 - #44 [
+INFO  15:22:40,543 - #14 0
+INFO  15:22:40,543 - #45 ]
+INFO  15:22:40,543 - #8 =
+INFO  15:22:40,543 - #14 2
+INFO  15:22:40,543 - #5 ;
+INFO  15:22:40,543 - #11 print
+INFO  15:22:40,543 - #6 (
+INFO  15:22:40,543 - #15 a
+INFO  15:22:40,543 - #44 [
+INFO  15:22:40,543 - #14 0
+INFO  15:22:40,543 - #45 ]
+INFO  15:22:40,543 - #7 )
+INFO  15:22:40,543 - #5 ;
+INFO  15:22:40,543 - #15 vratiniz
+INFO  15:22:40,543 - #6 (
+INFO  15:22:40,544 - #15 a
+INFO  15:22:40,544 - #7 )
+INFO  15:22:40,544 - #5 ;
+INFO  15:22:40,545 - #11 print
+INFO  15:22:40,545 - #6 (
+INFO  15:22:40,545 - #15 a
+INFO  15:22:40,545 - #44 [
+INFO  15:22:40,545 - #14 0
+INFO  15:22:40,545 - #45 ]
+INFO  15:22:40,545 - #7 )
+INFO  15:22:40,545 - #5 ;
+INFO  15:22:40,545 - #4 }
+INFO  15:22:40,545 - #4 }
+INFO  15:22:40,568 - ===================================
+INFO  15:22:40,575 - Deklarisana promenljiva niz na liniji 4
+INFO  15:22:40,575 - Deklarisana konstanta tipa int size na liniji 5
+INFO  15:22:40,575 - Deklarisana promenljiva i na liniji 6
+INFO  15:22:40,575 - Deklarisana promenljiva j na liniji 6
+INFO  15:22:40,575 - Deklarisana promenljiva a na liniji 8
+INFO  15:22:40,575 - Obradjuje se funkcija bez return iskaza vratiniz na liniji 13
+INFO  15:22:40,575 - Deklarisan formalni parametar a funkcije:vratiniz na liniji 13
+INFO  15:22:40,575 - Detektovan pristup elementu niza:   a na liniji 15 na liniji 15
+INFO  15:22:40,575 - Obradjuje se funkcija bez return iskaza main na liniji 18
+INFO  15:22:40,575 - Detektovan pristup globalnoj promenljivoj:   niz na liniji 20 na liniji 20
+INFO  15:22:40,575 - Detektovan pristup simbolickoj konstanti:   size na liniji 20 na liniji 20
+INFO  15:22:40,575 - Detektovan pristup globalnoj promenljivoj:   i na liniji 25 na liniji 25
+INFO  15:22:40,575 - Detektovan pristup simbolickoj konstanti:   size na liniji 25 na liniji 25
+INFO  15:22:40,575 - Detektovan pristup globalnoj promenljivoj:   i na liniji 28 na liniji 28
+INFO  15:22:40,576 - Detektovan pristup globalnoj promenljivoj:   i na liniji 29 na liniji 29
+INFO  15:22:40,576 - Detektovan pristup elementu niza:   niz na liniji 29 na liniji 29
+INFO  15:22:40,576 - Detektovan poziv  globalne f-je:   chr na liniji 29 na liniji 29
+INFO  15:22:40,576 - Detektovan pristup globalnoj promenljivoj:   i na liniji 29 na liniji 29
+INFO  15:22:40,576 - Detektovan poziv  globalne f-je:   ord na liniji 29 na liniji 29
+INFO  15:22:40,576 - Detektovan pristup globalnoj promenljivoj:   i na liniji 31 na liniji 31
+INFO  15:22:40,576 - Detektovan pristup elementu niza:   niz na liniji 31 na liniji 31
+INFO  15:22:40,576 - Detektovan pristup globalnoj promenljivoj:   i na liniji 34 na liniji 34
+INFO  15:22:40,576 - Detektovan pristup globalnoj promenljivoj:   i na liniji 35 na liniji 35
+INFO  15:22:40,576 - Detektovan pristup globalnoj promenljivoj:   i na liniji 39 na liniji 39
+INFO  15:22:40,576 - Detektovan pristup simbolickoj konstanti:   size na liniji 39 na liniji 39
+INFO  15:22:40,576 - Detektovan pristup globalnoj promenljivoj:   i na liniji 39 na liniji 39
+INFO  15:22:40,576 - Detektovan pristup globalnoj promenljivoj:   i na liniji 39 na liniji 39
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 41 na liniji 41
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 43 na liniji 43
+INFO  15:22:40,577 - Detektovan pristup elementu niza:   niz na liniji 43 na liniji 43
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 44 na liniji 44
+INFO  15:22:40,577 - Detektovan pristup simbolickoj konstanti:   eol na liniji 45 na liniji 45
+INFO  15:22:40,577 - Detektovan pristup simbolickoj konstanti:   eol na liniji 50 na liniji 50
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 52 na liniji 52
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 52 na liniji 52
+INFO  15:22:40,577 - Detektovan pristup simbolickoj konstanti:   size na liniji 52 na liniji 52
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 52 na liniji 52
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 53 na liniji 53
+INFO  15:22:40,577 - Detektovan pristup simbolickoj konstanti:   size na liniji 53 na liniji 53
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   j na liniji 55 na liniji 55
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 55 na liniji 55
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   j na liniji 55 na liniji 55
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 55 na liniji 55
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   j na liniji 55 na liniji 55
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 56 na liniji 56
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   i na liniji 58 na liniji 58
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   j na liniji 58 na liniji 58
+INFO  15:22:40,577 - Detektovan pristup elementu niza:   niz na liniji 58 na liniji 58
+INFO  15:22:40,577 - Detektovan pristup simbolickoj konstanti:   eol na liniji 61 na liniji 61
+INFO  15:22:40,577 - Detektovan pristup globalnoj promenljivoj:   a na liniji 63 na liniji 63
+INFO  15:22:40,577 - Detektovan pristup elementu niza:   a na liniji 64 na liniji 64
+INFO  15:22:40,578 - Detektovan pristup elementu niza:   a na liniji 65 na liniji 65
+INFO  15:22:40,578 - Detektovan poziv  globalne f-je:   vratiniz na liniji 67 na liniji 67
+INFO  15:22:40,578 - Detektovan pristup globalnoj promenljivoj:   a na liniji 67 na liniji 67
+INFO  15:22:40,578 - Detektovan pristup elementu niza:   a na liniji 69 na liniji 69
+INFO  15:22:40,578 -  Print count calls = 7
+INFO  15:22:40,578 -  Deklarisanih promenljivih ima = 4
+INFO  15:22:40,578 - ===================================
+INFO  15:22:40,588 - Parsiranje uspesno zavrseno!

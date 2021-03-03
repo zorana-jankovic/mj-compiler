@@ -1,0 +1,62 @@
+program P	
+
+	abstract class Testnista{
+		
+	}
+	
+	abstract class I extends Testnista{
+		{
+        	public abstract void pisi();
+        }
+	}
+
+	class A extends I{
+        {
+		    public void pisi() {print('A');}
+        }
+	}
+    class B extends I{
+        {
+		    public void pisi() {print('B');}
+        }
+	}
+
+    class C extends A{
+		{
+		    public void pisi() {print('C');}
+        }
+	}
+    class D extends B{
+		
+	}
+    class E extends D {
+
+    }
+    
+
+{
+	I fja(I i){
+		i.pisi();
+		
+		return new D;
+	}
+	
+	void main() 
+	I i;
+	E e;
+	{			
+       i = new A;
+       i.pisi();
+       i = new B;
+       i.pisi();
+       i = new C;
+       i.pisi();
+       i = new D;
+       i.pisi();
+       i = new E;
+       i.pisi();
+       
+       i = fja(new E);
+       i.pisi();
+	}
+}

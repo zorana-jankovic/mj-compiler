@@ -1,0 +1,367 @@
+INFO  23:25:28,466 - Compiling source file: D:\faks\zorana\4.Godina-1.Semestar\pp1\projekat\MJCompiler_jz160143\workspace\MJCompiler\test\parserProgram.mj
+INFO  23:25:28,526 - #2 program
+INFO  23:25:28,527 - #15 ParserTest
+INFO  23:25:28,527 - #15 int
+INFO  23:25:28,529 - #15 x
+INFO  23:25:28,530 - #12 ,
+INFO  23:25:28,530 - #15 y
+INFO  23:25:28,531 - #5 ;
+INFO  23:25:28,531 - #23 const
+INFO  23:25:28,532 - #15 int
+INFO  23:25:28,533 - #15 numConst
+INFO  23:25:28,533 - #8 =
+INFO  23:25:28,533 - #14 10
+INFO  23:25:28,534 - #5 ;
+INFO  23:25:28,535 - #15 char
+INFO  23:25:28,537 - #15 r
+INFO  23:25:28,537 - #5 ;
+INFO  23:25:28,538 - #15 int
+INFO  23:25:28,538 - #15 p
+INFO  23:25:28,538 - #5 ;
+INFO  23:25:28,538 - #23 const
+INFO  23:25:28,539 - #15 char
+INFO  23:25:28,539 - #15 charConst
+INFO  23:25:28,539 - #8 =
+INFO  23:25:28,539 - #19 m
+INFO  23:25:28,539 - #5 ;
+INFO  23:25:28,540 - #23 const
+INFO  23:25:28,540 - #15 bool
+INFO  23:25:28,540 - #15 boolConst
+INFO  23:25:28,540 - #8 =
+INFO  23:25:28,540 - #16 true
+INFO  23:25:28,540 - #5 ;
+INFO  23:25:28,540 - #15 bool
+INFO  23:25:28,540 - #15 uslov
+INFO  23:25:28,540 - #8 =
+ERROR 23:25:28,540 - 
+Sintaksna greska na liniji 8
+INFO  23:25:28,541 - #16 false
+INFO  23:25:28,541 - #5 ;
+INFO  23:25:28,541 - #3 {
+INFO  23:25:28,541 - #15 int
+INFO  23:25:28,541 - #15 k
+ERROR 23:25:28,541 - Izvrsen oporavak do ; ili , u liniji 8
+INFO  23:25:28,543 - #6 (
+INFO  23:25:28,544 - #7 )
+INFO  23:25:28,544 - #15 int
+INFO  23:25:28,545 - #15 y
+INFO  23:25:28,545 - #5 ;
+INFO  23:25:28,545 - #3 {
+INFO  23:25:28,545 - #15 y
+INFO  23:25:28,546 - #8 =
+INFO  23:25:28,547 - #14 6
+INFO  23:25:28,548 - #5 ;
+INFO  23:25:28,550 - #15 y
+INFO  23:25:28,550 - #8 =
+INFO  23:25:28,550 - #15 x
+INFO  23:25:28,551 - #41 ++
+ERROR 23:25:28,551 - 
+Sintaksna greska na liniji 15
+INFO  23:25:28,551 - #5 ;
+INFO  23:25:28,551 - #15 y
+INFO  23:25:28,556 - #42 --
+INFO  23:25:28,556 - #5 ;
+ERROR 23:25:28,556 - Izvrsen oporavak do ; u liniji 16
+INFO  23:25:28,557 - #11 print
+INFO  23:25:28,557 - #6 (
+INFO  23:25:28,557 - #15 x
+INFO  23:25:28,557 - #12 ,
+INFO  23:25:28,557 - #14 3
+INFO  23:25:28,558 - #7 )
+INFO  23:25:28,558 - #5 ;
+INFO  23:25:28,558 - #4 }
+INFO  23:25:28,558 - #13 void
+INFO  23:25:28,559 - #15 main
+INFO  23:25:28,559 - #6 (
+INFO  23:25:28,559 - #7 )
+INFO  23:25:28,559 - #3 {
+INFO  23:25:28,560 - #15 y
+INFO  23:25:28,560 - #8 =
+INFO  23:25:28,560 - #14 5
+INFO  23:25:28,560 - #5 ;
+INFO  23:25:28,560 - #4 }
+INFO  23:25:28,560 - #4 }
+INFO  23:25:28,573 - Program(
+  ProgName(
+   ParserTest
+  ) [ProgName]
+  MyDeclList(
+    MyDeclList(
+      MyDeclList(
+        MyDeclList(
+          MyDeclList(
+            MyDeclList(
+              MyDeclList(
+                MyNoDeclList(
+                ) [MyNoDeclList]
+                VarDeclListElem(
+                  VarDecl(
+                    VarDeclType(
+                      Type(
+                       int
+                      ) [Type]
+                    ) [VarDeclType]
+                    VarDeclElemNoBraces(
+                     x
+                    ) [VarDeclElemNoBraces]
+                    MyVarDeclList(
+                      MyNoVarDeclList(
+                      ) [MyNoVarDeclList]
+                      VarDeclElemNoBraces(
+                       y
+                      ) [VarDeclElemNoBraces]
+                    ) [MyVarDeclList]
+                  ) [VarDecl]
+                ) [VarDeclListElem]
+              ) [MyDeclList]
+              ConstDeclListElem(
+                ConstDecl(
+                  ConstDeclType(
+                    Type(
+                     int
+                    ) [Type]
+                  ) [ConstDeclType]
+                  ConstDeclElem(
+                   numConst
+                    NumConst(
+                     10
+                    ) [NumConst]
+                  ) [ConstDeclElem]
+                  MyNoConstDeclList(
+                  ) [MyNoConstDeclList]
+                ) [ConstDecl]
+              ) [ConstDeclListElem]
+            ) [MyDeclList]
+            VarDeclListElem(
+              VarDecl(
+                VarDeclType(
+                  Type(
+                   char
+                  ) [Type]
+                ) [VarDeclType]
+                VarDeclElemNoBraces(
+                 r
+                ) [VarDeclElemNoBraces]
+                MyNoVarDeclList(
+                ) [MyNoVarDeclList]
+              ) [VarDecl]
+            ) [VarDeclListElem]
+          ) [MyDeclList]
+          VarDeclListElem(
+            VarDecl(
+              VarDeclType(
+                Type(
+                 int
+                ) [Type]
+              ) [VarDeclType]
+              VarDeclElemNoBraces(
+               p
+              ) [VarDeclElemNoBraces]
+              MyNoVarDeclList(
+              ) [MyNoVarDeclList]
+            ) [VarDecl]
+          ) [VarDeclListElem]
+        ) [MyDeclList]
+        ConstDeclListElem(
+          ConstDecl(
+            ConstDeclType(
+              Type(
+               char
+              ) [Type]
+            ) [ConstDeclType]
+            ConstDeclElem(
+             charConst
+              CharConst(
+               m
+              ) [CharConst]
+            ) [ConstDeclElem]
+            MyNoConstDeclList(
+            ) [MyNoConstDeclList]
+          ) [ConstDecl]
+        ) [ConstDeclListElem]
+      ) [MyDeclList]
+      ConstDeclListElem(
+        ConstDecl(
+          ConstDeclType(
+            Type(
+             bool
+            ) [Type]
+          ) [ConstDeclType]
+          ConstDeclElem(
+           boolConst
+            BoolConst(
+             true
+            ) [BoolConst]
+          ) [ConstDeclElem]
+          MyNoConstDeclList(
+          ) [MyNoConstDeclList]
+        ) [ConstDecl]
+      ) [ConstDeclListElem]
+    ) [MyDeclList]
+    VarDeclListElem(
+      VarDecl(
+        VarDeclType(
+          Type(
+           bool
+          ) [Type]
+        ) [VarDeclType]
+        ErrorStmt(
+        ) [ErrorStmt]
+        MyNoVarDeclList(
+        ) [MyNoVarDeclList]
+      ) [VarDecl]
+    ) [VarDeclListElem]
+  ) [MyDeclList]
+  MethodDeclarations(
+    MethodDeclarations(
+      NoMethodDecl(
+      ) [NoMethodDecl]
+      MethodDecl(
+        MethodTypeNameRet(
+          Type(
+           int
+          ) [Type]
+         k
+        ) [MethodTypeNameRet]
+        NoFormParam(
+        ) [NoFormParam]
+        MyDeclListVar(
+          MyNoDeclListVar(
+          ) [MyNoDeclListVar]
+          VarDecl(
+            VarDeclType(
+              Type(
+               int
+              ) [Type]
+            ) [VarDeclType]
+            VarDeclElemNoBraces(
+             y
+            ) [VarDeclElemNoBraces]
+            MyNoVarDeclList(
+            ) [MyNoVarDeclList]
+          ) [VarDecl]
+        ) [MyDeclListVar]
+        Statements(
+          Statements(
+            Statements(
+              Statements(
+                NoStmt(
+                ) [NoStmt]
+                StatementDesStat(
+                  DesignatorStatementAssign(
+                    DesAssStmtm(
+                      Design(
+                       y
+                        Variable(
+                        ) [Variable]
+                      ) [Design]
+                      Assign(
+                      ) [Assign]
+                      NoMinusExpr(
+                        Terms(
+                          NumberFactor(
+                           6
+                          ) [NumberFactor]
+                          MyNoTermList(
+                          ) [MyNoTermList]
+                        ) [Terms]
+                        MyNoExprList(
+                        ) [MyNoExprList]
+                      ) [NoMinusExpr]
+                    ) [DesAssStmtm]
+                  ) [DesignatorStatementAssign]
+                ) [StatementDesStat]
+              ) [Statements]
+              StatementDesStat(
+                DesignatorStatementAssign(
+                  ErrorDesAssStmtm(
+                  ) [ErrorDesAssStmtm]
+                ) [DesignatorStatementAssign]
+              ) [StatementDesStat]
+            ) [Statements]
+            StatementDesStat(
+              DesignatorStatementDEC(
+                Design(
+                 y
+                  Variable(
+                  ) [Variable]
+                ) [Design]
+              ) [DesignatorStatementDEC]
+            ) [StatementDesStat]
+          ) [Statements]
+          StatementPrintNumber(
+            NoMinusExpr(
+              Terms(
+                Var(
+                  Design(
+                   x
+                    Variable(
+                    ) [Variable]
+                  ) [Design]
+                ) [Var]
+                MyNoTermList(
+                ) [MyNoTermList]
+              ) [Terms]
+              MyNoExprList(
+              ) [MyNoExprList]
+            ) [NoMinusExpr]
+           3
+          ) [StatementPrintNumber]
+        ) [Statements]
+      ) [MethodDecl]
+    ) [MethodDeclarations]
+    MethodDecl(
+      NoMethodTypeNameVoid(
+       main
+      ) [NoMethodTypeNameVoid]
+      NoFormParam(
+      ) [NoFormParam]
+      MyNoDeclListVar(
+      ) [MyNoDeclListVar]
+      Statements(
+        NoStmt(
+        ) [NoStmt]
+        StatementDesStat(
+          DesignatorStatementAssign(
+            DesAssStmtm(
+              Design(
+               y
+                Variable(
+                ) [Variable]
+              ) [Design]
+              Assign(
+              ) [Assign]
+              NoMinusExpr(
+                Terms(
+                  NumberFactor(
+                   5
+                  ) [NumberFactor]
+                  MyNoTermList(
+                  ) [MyNoTermList]
+                ) [Terms]
+                MyNoExprList(
+                ) [MyNoExprList]
+              ) [NoMinusExpr]
+            ) [DesAssStmtm]
+          ) [DesignatorStatementAssign]
+        ) [StatementDesStat]
+      ) [Statements]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:25:28,574 - ===================================
+INFO  23:25:28,577 - Deklarisana promenljiva x na liniji 2
+INFO  23:25:28,577 - Deklarisana promenljiva y na liniji 2
+INFO  23:25:28,577 - Deklarisana konstanta tipa int numConst na liniji 3
+INFO  23:25:28,577 - Deklarisana promenljiva r na liniji 4
+INFO  23:25:28,577 - Deklarisana promenljiva p na liniji 5
+INFO  23:25:28,578 - Deklarisana konstanta tipa char charConst na liniji 6
+INFO  23:25:28,578 - Deklarisana konstanta tipa bool boolConst na liniji 7
+INFO  23:25:28,578 - Obradjuje se funkcija sa return iskazom k na liniji 13
+INFO  23:25:28,578 - Deklarisana promenljiva y na liniji 13
+ERROR 23:25:28,578 - Semanticka greska na liniji 13: funkcija k nema return iskaz!
+INFO  23:25:28,578 - Obradjuje se funkcija bez return iskaza main na liniji 21
+INFO  23:25:28,578 -  Print count calls = 1
+INFO  23:25:28,578 -  Deklarisanih promenljivih ima = 5
+INFO  23:25:28,579 - ===================================
+ERROR 23:25:28,579 - Parsiranje NIJE uspesno zavrseno!
